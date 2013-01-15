@@ -1,0 +1,103 @@
+Release 1.2.0
+
+	* In supsersid.cfg: On request, to be more clear, the lines
+	  "hourly_save = no" and "data_path = ../Data" are now
+	  uncommented.
+
+	* supersid.py: Marked this as final release 1.2.0
+
+Release 0.2.0r5
+
+	* Force log_format to sid_format
+
+	* set scaling factor to 230.00 to compensate for changes
+	  in the libraries
+
+	* Default installation dirctory is now C:\SuperSid
+
+	* Place a ShortCut to this installation directory on the
+	  Desktop
+
+	* Don't put a link to uninstall in the SuperSidStartMenu
+	  to prevent mistakes
+
+	* Don't truncate but round the bin in the Sampler class
+	  set_monitored_frequencies method.
+	  Suggested by Donald Hutchens <donaldrhutchens@gmail.com>
+
+
+Release 1.2.0rc4
+
+	Python parts updated:
+		See Note.txt for details
+
+Enhancements:
+
+	* Added optional parameter hourly_save: This will save the
+	  current buffer and the data files per station every hour.
+	  The station data files are now called
+	  Station_ID._date_hour0000.csv so if you restart supersid
+	  in the same hour, ony the last data file will be overwrtitten.
+	  Supersid_upload has been adapted to recognize these station
+	  data files.
+
+	* Added optional parameter data_path allows you to change
+	  where the data is saved. Useful if you want to put data
+	  on network discs, or in "the cloud" via dropbox etc.
+	  Again, supersid_upload has been adapted to recognize and
+	  act accordingly;
+
+	* When you save the current buffers, it will also save the
+	  data files for the stations you have configured;
+
+	* When using leaving the program (Using Quit) it will ask
+	  whether you want to save the current data;
+
+	* Added an article by Dr. Chandrakant More et. al
+	  (CTMoreSIDarticle.pdf) to the ../Doc directory as requested
+	  by Deborah Scherrer
+
+Acknowledgement:
+
+	Eric Gibert <ericgibert@yahoo.fr>, provided lot's of code
+	improvements and an implementation of the first two
+	enhancements mentioned above. These ideas and examples were
+	important to make the changes happen.  Thanks Eric!
+
+Release 1.2.0rc3
+
+	Python parts:
+	* Python 2.7.2
+	* Python 2.7 scipy-0.10.0
+	* Python 2.7 numpy-1.6.1
+	* Python 2.7 matplotlib-1.1.0
+	* wxPython 2.8.12.1 (unicode) for Python 2.7
+	* Python 2.7 PyAudio
+
+Release 1.2.0rc2
+
+	Upgraded Python parts:
+	* Python 2.7.2
+	* Python 2.7 scipy-0.9.0
+	* Python 2.7 PyAudio
+	* Python 2.7 numpy-1.6.1
+	* Python 2.7 matplotlib-1.0.1
+	* wxPython 2.8.12.0 (unicode) for Python 2.7
+
+Release 1.2.0rc1
+
+Bug fixes:
+	* Adjust the buffer size to the log_interval
+
+	* Give decent error message when supersid.cgf cannot be found
+	  instead of complaining: can't find site name
+
+Enhancements
+	* Added optional Contact parameter in configuration file:
+        	# Contact = your_email@wheverever.org
+	  as requested by Debbie.
+
+	* Parameters specified in $HOME/supersid.cfg under Unix or
+	  "C:\Documents and Settings\$USER\supersid.cfg" under windows
+	  will override the settings in the default ../Config/supersid.cfg
+
