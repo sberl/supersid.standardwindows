@@ -25,7 +25,7 @@
 				</p>
 				<img class="right" src="../images/library_solar_wind_01.jpg" alt="Solar Wind" />
 				<p>
-					In addition to 'light' the Sun sends out high-speed particles known as the solar wind. Made up of <strong><a href="event:loadToolCItem('Research','ResearchPlasmahtm')">plasma</a></strong>, a mixture of protons and electrons, the solar wind can be charged and effect the magnetic field of the Earth.
+					In addition to 'light' the Sun sends out high-speed particles known as the solar wind. Made up of <strong><a href="event:loadToolCItem('Research','ResearchPlasmahtm')">plasma</a></strong>, a mixture of protons and electrons, the solar wind can be charged and affect the magnetic field of the Earth.
 				</p>
 				
 			</span>
