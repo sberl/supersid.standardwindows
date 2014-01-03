@@ -1,0 +1,34 @@
+<div id="research">
+	<div id="term">
+		<h2>Aurora on Mars</h2>
+	</div>
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<span class="right long capton">
+				<img src="../images/library_aurora_mars1.jpg" alt="Aurora" />
+				<small>Artist's Illustration of a Martian aurora (visible only in the ultraviolet spectrum)</small>
+				<img src="../images/library_aurora_mars2.jpg" alt="Aurora" />
+				<small>Scientific illustration of the strength of the Martian magnetosphere.</small>
+			</span>
+			
+			<span id="more-information">
+				
+				<p>
+					<strong><a href="event:loadCItem('ResearchSolarFlareshtm','Library')">Solar flares</a></strong> can affect <strong><a href="event:loadCItem('ResearchMarshtm','Library')">Mars'</a></strong> small local <strong><a href="event:loadCItem('ResearchMagneticFieldshtm','Library')">magnetic fields</a></strong> and produce aurora. On Mars, aurora may occur in a few spots on Mars where the magnetic fields are known to be strong.
+				</p>
+				
+				<p>
+					Aurora on Mars can be observed by instruments on satellites as brief flashes of ultraviolet light (invisible to the human eye).
+				</p>
+				
+				<p>
+					The Martian aurora is composed of <strong><a href="event:loadCItem('ResearchUltravioletLighthtm','Library')">ultraviolet</a></strong> lightradiated by ions and atoms in the Martian atmosphere, the result of energetic electrically charged particles from the solar flare interacting with the Martian magnetic fields.
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+</div>

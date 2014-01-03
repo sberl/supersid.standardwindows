@@ -1,0 +1,21 @@
+<div id="content">
+	<div class="right long center">
+		<img class="right" src="../images/cme_01_moon_advanced.jpg" alt="CME" />
+		<p>
+			Distance / Time = <span class="orange">Speed</span>
+		<p>
+	</div>
+	<p>
+		<strong>How fast is the CME traveling?</strong> 
+	</p>
+	<ol>
+		<li>Divide the distance the flare traveled in kilometers by the time it took in minutes.</li>
+		<li>Multiply your answer by 60 to get kilometers per hour.</li>
+	</ol>
+	<p>
+		This is the speed of the coronal mass ejection.
+	</p>
+	
+	<span class="cme-button"><a id="cme-back" href="ContentTool_Template.html?assets=../text/cme_03_moon_advanced.txt">BACK</a></span>
+	
+</div>

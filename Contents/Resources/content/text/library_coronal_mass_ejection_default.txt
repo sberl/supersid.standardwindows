@@ -1,0 +1,71 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Coronal Mass Ejection (CME)</h2>
+	</div>
+	
+	<div id="term-content">
+
+		<div id="left-pane">
+			
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					A huge cloud of hot plasma, occasionally expelled from the Sun. It may accelerate ions and electrons and may travel through interplanetary space as far as the Earth's orbit and beyond it, often proceeded by a shock front. When the shock reaches Earth, a <strong><em>geomagnetic storm</em></strong> may result. 
+				</p>
+			</span>
+		
+			<span id="more-information">
+				<p>
+					<strong>More Information:</strong><br />
+					A coronal mass ejection (CME) is a vast magnetic cloud of high-energy particles that erupts from the <strong><a href="event:loadToolCItem('Research','ResearchSunhtm')">Sun</a></strong> and travels through space at high speed.
+				</p>
+				<p>
+					If a CME heads in the direction of Earth, its <strong><a href="event:loadToolCItem('Research','ResearchMagneticFieldhtm')">magnetic field</a></strong> interacts with the Earth's <strong><a href="event:loadToolCItem('Research','ResearchMagnetospherehtm')">magnetosphere</a></strong>. 
+				</p>
+				<p>
+					Our magnetosphere  provides us with protection from charged solar particles.
+				</p>
+			</span>
+			
+		</div>
+		
+		<div id="right-pane">
+			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="320" height="248" id="Library_CME_Video" align="middle">
+				<param name="movie" value="../swf/Library_CME_Video.swf" />
+				<param name="quality" value="high" />
+				<param name="bgcolor" value="#000000" />
+				<param name="play" value="true" />
+				<param name="loop" value="true" />
+				<param name="wmode" value="opaque" />
+				<param name="scale" value="noscale" />
+				<param name="menu" value="false" />
+				<param name="devicefont" value="false" />
+				<param name="salign" value="tl" />
+				<param name="allowScriptAccess" value="sameDomain" />
+			<!--[if !IE]>-->
+			<object type="application/x-shockwave-flash" data="../swf/Library_CME_Video.swf" width="320" height="248">
+				<param name="movie" value="../swf/Library_CME_Video.swf" />
+				<param name="quality" value="high" />
+				<param name="bgcolor" value="#000000" />
+				<param name="play" value="true" />
+				<param name="loop" value="true" />
+				<param name="wmode" value="opaque" />
+				<param name="scale" value="noscale" />
+				<param name="menu" value="false" />
+				<param name="devicefont" value="false" />
+				<param name="salign" value="tl" />
+				<param name="allowScriptAccess" value="sameDomain" />
+			<!--<![endif]-->
+			<a href="http://www.adobe.com/go/getflash">
+				<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+			</a>
+			<!--[if !IE]>-->
+			</object>
+			<!--<![endif]-->
+			</object>
+		</div>
+		
+	</div>
+	
+</div>

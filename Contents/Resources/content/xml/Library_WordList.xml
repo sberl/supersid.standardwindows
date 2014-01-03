@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cindex xmlns:tns="http://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3schools.com G:\Challenger\Phase2\Documentation\cindex.xsd">
+	<citem cmsid="ResearchAurorashtm" itemname="Aurora" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchAurorashtm.html</fileref>
+		<tags><![CDATA[Aurora]]></tags>
+	</citem>
+	<citem cmsid="ResearchConstantSolarEffectshtm" itemname="Constant Solar Effects" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchConstantSolarEffectshtm.html</fileref>
+		<tags><![CDATA[Constant Solar Effects]]></tags>
+	</citem>
+	<citem cmsid="ResearchCoronahtm" itemname="Corona" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchCoronahtm.html</fileref>
+		<tags><![CDATA[Corona]]></tags>
+	</citem>
+	<citem cmsid="ResearchCoronalMassEjectionhtm" itemname="Coronal Mass Ejection (CME)" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchCoronalMassEjectionhtm.html</fileref>
+		<tags><![CDATA[Coronal Mass Ejection]]></tags>
+	</citem>
+	<citem cmsid="ResearchCoronalMassEjectionImpactshtm" itemname="Coronal Mass Ejection Impacts" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchCoronalMassEjectionImpactshtm.html</fileref>
+		<tags><![CDATA[Coronal Mass Ejection Impacts]]></tags>
+	</citem>
+	<citem cmsid="ResearchCosmicRadiationhtm" itemname="Cosmic Radiation" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchCosmicRadiationhtm.html</fileref>
+		<tags><![CDATA[Cosmic Radiation]]></tags>
+	</citem>
+	<citem cmsid="ResearchDeepSpaceNetworkhtm" itemname="Deep Space Network" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchDeepSpaceNetworkhtm.html</fileref>
+		<tags><![CDATA[Deep Space Network]]></tags>
+	</citem>
+	<citem cmsid="ResearchDustStormsMarshtm" itemname="Dust Storms on Mars" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchDustStormsMarshtm.html</fileref>
+		<tags><![CDATA[Dust Storms Mars]]></tags>
+	</citem>
+	<citem cmsid="ResearchEarthAtmospherehtm" itemname="Earth's Atmosphere" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchEarthAtmospherehtm.html</fileref>
+		<tags><![CDATA[Earth's Atmosphere]]></tags>
+	</citem>
+	<citem cmsid="ResearchGeomagneticStormhtm" itemname="Geomagnetic Storm" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchGeomagneticStormhtm.html</fileref>
+		<tags><![CDATA[Geomagnetic Storm]]></tags>
+	</citem>
+	<citem cmsid="ResearchGloveboxhtm" itemname="Glovebox" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchGloveboxhtm.html</fileref>
+		<tags><![CDATA[Glovebox]]></tags>
+	</citem>
+	<citem cmsid="ResearchLaGrangePointshtm" itemname="Lagrange Points" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchLaGrangePointshtm.html</fileref>
+		<tags><![CDATA[Lagrange Points]]></tags>
+	</citem>
+	<citem cmsid="ResearchMagneticFieldhtm" itemname="Magnetic Field" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchMagneticFieldhtm.html</fileref>
+		<tags><![CDATA[Magnetic Field]]></tags>
+	</citem>
+	<citem cmsid="ResearchMagnetogramhtm" itemname="Magnetogram" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchMagnetogramhtm.html</fileref>
+		<tags><![CDATA[Magnetogram]]></tags>
+	</citem>
+	<citem cmsid="ResearchMagnetospherehtm" itemname="Magnetosphere" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchMagnetospherehtm.html</fileref>
+		<tags><![CDATA[Magnetosphere]]></tags>
+	</citem>
+	<citem cmsid="ResearchMarshtm" itemname="Mars" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchMarshtm.html</fileref>
+		<tags><![CDATA[Mars]]></tags>
+	</citem>
+	<citem cmsid="ResearchMarsMagneticFields" itemname="Mars' Magnetic Fields" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchMarsMagneticFieldshtm.html</fileref>
+		<tags><![CDATA[Mars' Magnetic Fields]]></tags>
+	</citem>
+	<citem cmsid="ResearchMarsMagnetospherehtm" itemname="Mars' Magnetosphere" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchMarsMagnetospherehtm.html</fileref>
+		<tags><![CDATA[Mars' Magnetosphere]]></tags>
+	</citem>
+	<citem cmsid="ResearchMarsSurfaceCMEshtm" itemname="Mars Surface and CMEs" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchMarsSurfaceCMEshtm.html</fileref>
+		<tags><![CDATA[Mars Surface and CMEs]]></tags>
+	</citem>
+	<citem cmsid="ResearchMeteorShowershtm" itemname="Meteor Showers" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchMeteorShowershtm.html</fileref>
+		<tags><![CDATA[Meteor Showers]]></tags>
+	</citem>
+	<citem cmsid="ResearchPlasmahtm" itemname="Plasma" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchPlasmahtm.html</fileref>
+		<tags><![CDATA[Plasma]]></tags>
+	</citem>
+	<citem cmsid="ResearchPowerGridsCMEshtm" itemname="Power Grids and CMEs" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchPowerGridsCMEshtm.html</fileref>
+		<tags><![CDATA[Power Grids and CMEs]]></tags>
+	</citem>
+	<citem cmsid="ResearchRadiationhtm" itemname="Radiation" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchRadiationhtm.html</fileref>
+		<tags><![CDATA[Radiation]]></tags>
+	</citem>
+	<citem cmsid="ResearchSatellitehtm" itemname="Satellite" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSatellitehtm.html</fileref>
+		<tags><![CDATA[Satellite]]></tags>
+	</citem>
+	<citem cmsid="ResearchSatellitesCMEshtm" itemname="Satellites and CMEs" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSatellitesCMEshtm.html</fileref>
+		<tags><![CDATA[Satellites and CMEs]]></tags>
+	</citem>
+	<citem cmsid="ResearchSolarCycleshtm" itemname="Solar Cycle" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSolarCycleshtm.html</fileref>
+		<tags><![CDATA[Solar Cycle]]></tags>
+	</citem>
+	<citem cmsid="ResearchSolarFlareshtm" itemname="Solar Flare" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSolarFlareshtm.html</fileref>
+		<tags><![CDATA[Solar Flare]]></tags>
+	</citem>
+	<citem cmsid="ResearchSolarStormhtm" itemname="Solar Storm" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSolarStormhtm.html</fileref>
+		<tags><![CDATA[Solar Storm]]></tags>
+	</citem>
+	<citem cmsid="ResearchSolarWindhtm" itemname="Solar Wind" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSolarWindhtm.html</fileref>
+		<tags><![CDATA[Solar Wind]]></tags>
+	</citem>
+	<citem cmsid="ResearchSoundAurorahtm" itemname="Sound of the Aurora" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSoundAurorahtm.html</fileref>
+		<tags><![CDATA[Sound of the Aurora]]></tags>
+	</citem>
+	<citem cmsid="ResearchSpacecraftCMEshtm" itemname="Spacecraft and CMEs" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSpacecraftCMEshtm.html</fileref>
+		<tags><![CDATA[Spacecraft and CMEs]]></tags>
+	</citem>
+	<citem cmsid="ResearchSpaceImpactshtm" itemname="Space Impacts" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSpaceImpactshtm.html</fileref>
+		<tags><![CDATA[Space Impacts]]></tags>
+	</citem>
+	<citem cmsid="ResearchSpaceWeatherhtm" itemname="Space Weather" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSpaceWeatherhtm.html</fileref>
+		<tags><![CDATA[Space Weather]]></tags>
+	</citem>
+	<citem cmsid="ResearchSunEarthConnectionhtm" itemname="Sun-Earth Connection" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSunEarthConnectionhtm.html</fileref>
+		<tags><![CDATA[Sun-Earth Connection]]></tags>
+	</citem>
+	<citem cmsid="ResearchSunhtm" itemname="The Sun" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSunhtm.html</fileref>
+		<tags><![CDATA[Sun]]></tags>
+	</citem>
+	<citem cmsid="ResearchSunSpotshtm" itemname="Sunspots" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSunSpotshtm.html</fileref>
+		<tags><![CDATA[Sunspots]]></tags>
+	</citem>
+	<citem cmsid="ResearchUltravioletLighthtm" itemname="Ultraviolet Light" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchUltravioletLighthtm.html</fileref>
+		<tags><![CDATA[Ultraviolet Light]]></tags>
+	</citem>
+</cindex>

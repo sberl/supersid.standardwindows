@@ -1,0 +1,7 @@
+<ol>
+	<li>On the <strong>System Status</strong> screen select <strong>MARS SATELLITES</strong>.</li>
+	<li>Look at the light (green or red) for each system and note any warning messages.</li>
+	<li>Answer <strong>QUESTION 2</strong> on the <strong>CME EFFECTS</strong> section of your <strong>DATA LOG</strong>.</li>
+	<li>Inform the <strong>Flight Director</strong> if any action is required.</li>
+	<li>Go to <strong>Step 3</strong>.</li>
+</ol>

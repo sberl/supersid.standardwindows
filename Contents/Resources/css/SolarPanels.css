@@ -1,0 +1,24 @@
+.window {
+
+	font-family: Eurostile Condensed;
+	/*font-family: Eurostile Extended 2;
+	font-family: Eurostile Condensed;*/
+	font-size: 20px;
+	color: #FFFFFF;
+	
+	titleWidth: 880px;
+	titleHeight: 36px;
+	contentWidth: 880px;
+	contentHeight: 400px;
+	max: 1;
+	
+	startX: 12px;
+	startY: 75px;
+	titlePaddingX: 12px;
+	titlePaddingY: 4px;
+	closeButtonPaddingX: -12px;
+	closeButtonPaddingY: 8px;
+
+	titleBkgdFrameColor: #0A96CB;
+	windowBkgdFrameColor: #0A96CB;
+}

@@ -1,0 +1,20 @@
+<div id="content" class="cme">
+
+	<img class="right" src="../images/cme_03_advanced.jpg" alt="CME" />
+	<h1>TIME MEASUREMENT</h1>
+	
+	<p>
+		<strong>How many minutes apart were the images taken?</strong>
+	</p>
+	<ol>
+		<li>Locate the time stamps below each image.</li><br />
+		<li>Use subtraction to determine how many minutes apart the images were taken.</li><br />
+	</ol>
+		<p>This is how  long it took the CME to travel from point A to B.</p>
+		<p>Click on the <strong>SPEED CALCULATION</strong> button to continue.</p>
+	
+	
+	<span class="cme-button"><a id="cme-back" href="ContentTool_Template.html?assets=../text/cme_02_advanced.txt">BACK</a></span>
+	<span class="cme-button"><a id="cme" href="ContentTool_Template.html?assets=../text/cme_04_advanced.txt">SPEED <br>CALCULATION</a></span>
+	
+</div>

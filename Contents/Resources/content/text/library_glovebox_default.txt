@@ -1,0 +1,22 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Glovebox</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					Laboratory in a spacecraft where scientists do experiments in an uncontaminated environment.
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

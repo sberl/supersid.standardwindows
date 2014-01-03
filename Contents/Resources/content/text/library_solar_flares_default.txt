@@ -1,0 +1,22 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Solar Flare</h2>
+	</div>
+	
+	<div id="term-content">
+		
+		<div id="full-pane">
+		
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+				A rapid outburst on the Sun, usually in the vicinity of active sunspots.  
+				</p>
+			</span>
+			
+		</div>
+
+	</div>
+	
+</div>

@@ -1,0 +1,8 @@
+<p>You will be working with magnets and a three-dimensional model that demonstrates the structure of Earth's magnetosphere.</p>
+<ol id="beginner">
+	<li>Locate the <strong>MAGNETOSPHERE LAB SHEET</strong> in your <strong>DATA LOG</strong>.</li>
+	<li>Read the instructions for the <strong>MAGNET OBSERVATIONS</strong> and <strong>MAGNETIC FIELD MODEL</strong> experiments.</li>
+	<li>Go to the <strong>GLOVEBOX</strong> area for your team to perform the experiments.</li>
+	<li>Record your observations on the <strong>MAGNETOSPHERE LAB SHEET</strong> in your <strong>DATA LOG</strong>.</li>
+	<li>Choose the next task when you have completed all of the steps in this task.</li>
+</ol>

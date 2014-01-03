@@ -1,0 +1,8 @@
+<p>To prepare for the coronal mass ejection you need to learn about the possible impacts of a CME. If precautionary measures are sent to your team from Mission Control you will need to implement them immediately.</p>   
+<ol>
+	<li>Click on the <strong>LIBRARY</strong> button at the top of the screen.</li>
+	<li>Look up <strong>Coronal Mass Ejection Impacts</strong>.</li>
+	<li>If instructions from Mission Control are sent to your team, inform the <strong>Mission Commander</strong>.</li>
+	<li>Close the LIBRARY by clicking on the X in the upper right corner of the window.</li>
+	<li>Inform the <strong>Mission Commander</strong> that you have completed all of your tasks. You are now free to explore the LIBRARY to learn more about Space Weather.</li>
+</ol>

@@ -1,0 +1,26 @@
+<div id="research">
+	<div id="term">
+		<h2>Earth's Atmosphere</h2>
+	</div>
+	<div id="term-content">
+		<span id="definition">
+			<p>
+				<strong>Definition:</strong><br />
+				The gaseous mass or envelope surrounding Earth, and retained by Earth's gravitational field.
+			</p>
+		</span>
+		<span id="more-information">
+			<img class="right" src="../images/library_earth_atmosphere.jpg" alt="Earth's Atmosphere" />
+			<p>
+				<strong>More Information:</strong><br />
+			Earth is surrounded by a blanket of air, which we call the atmosphere. It reaches over 560 kilometers (348 miles) from the surface of Earth, so we are only able to see what occurs fairly close to the ground.
+			</p>
+			<p>
+Life on Earth is supported by the atmosphere, solar energy, and our planet's <strong><em>magnetic fields</em></strong>. The atmosphere absorbs the energy from the Sun, recycles water and other chemicals, and works with the electrical and magnetic forces to provide a moderate climate. The atmosphere also protects us from high-energy radiation and the frigid vacuum of space.
+			</p>
+			<p>
+The envelope of gas surrounding Earth changes from the ground up. Four distinct layers have been identified using thermal characteristics (temperature changes), chemical composition, movement, and density.
+			</p>
+		</span>
+	</div>
+</div>

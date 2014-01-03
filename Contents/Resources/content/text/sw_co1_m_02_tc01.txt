@@ -1,0 +1,9 @@
+<p>You will be observing storm signals to confirm a solar storm is heading towards Earth.  An increase in x-rays coming from the Sun is an indicator of increased solar activity.</p>
+<ol>
+	<li>Open the Space Weather Action Center (<strong>SWAC</strong>) on the right side of the screen.</li>
+	<li>Under <strong>STORM SIGNALS</strong> select <strong>GOES X-ray Flux</strong>.</li>
+	<li>Read the information and look at the chart.</li>
+	<li>Answer <strong>QUESTION 1</strong> on the <strong>STORM SIGNALS</strong> section of your <strong>DATA LOG</strong>.</li>
+	<li>Click on <strong>BACK TO MENU</strong> at the top of the SWAC window.</li>
+	<li>Go to <strong>Step 2</strong>.</li>
+</ol>

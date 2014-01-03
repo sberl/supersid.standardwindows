@@ -1,0 +1,22 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Sunspots</h2>
+	</div>
+	
+	<div id="term-content">
+		
+		<div id="full-pane">
+		
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					Dark areas on the sun's surface that are cooler than other regions. Sunspots appear in groups and can last from several hours to several months. 
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

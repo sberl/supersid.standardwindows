@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<terms>
+		<term title="Radio Waves" order="2,3">
+			<hint>Radio Waves, like X-Rays travel at the speed of light (Radio/Plasma Detector)</hint>
+		</term>
+		<term title="Aurora" order="6">
+			<hint>Aurora occur during geomagnetic storms.(KIRUNA)</hint>
+		</term>
+		<term title="Sun Spots" order="0">
+			<hint>Sun spots seen on the Sun are the first indicator of a solar flare (SOHO)</hint>
+		</term>
+		<term title="Solar Flare Eruption" order="1">
+			<hint>Active sunspots may cause a solar flare eruption from the Sun (SOHO)</hint>
+		</term>
+		<term title="Geomagnetic Storms" order="5">
+			<hint>Geomagnetic storms on Earth are caused by energetic particles carried by the Solar Wind (POES)</hint>
+		</term>
+		<term title="Solar Wind" order="4">
+			<hint>A coronal mass ejection sends its cloud of plasma on the Solar Wind (ACE)</hint>
+		</term>
+		<term title="X-Rays" order="2,3">
+			<hint>Increase x-rays are a result of a solar flare eruption on the Sun (GOES)</hint>
+		</term>
+	</terms>
+	<button_part_two>GO TO PART 2</button_part_two>
+	<button_label>SEND REPORT TO MISSION COMMANDER 12</button_label>
+	<messages>
+		<correct>Thank you. The first part of your Final Analysis Report has been submitted. Click on GO TO PART 2 to finish your report.</correct>
+		<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+	</messages>
+	<formula>
+		<hint>To determine the speed of the coronal mass ejection your team divided the distance the flare travelled by the time it took.</hint>
+		<terms>
+			<term title="Distance" order="0" />
+			<term title="Time" order="2" />
+			<term title="Equals =" order="3" />
+			<term title="Speed" order="4" />
+			<term title="Divided by /" order="1" />
+		</terms>
+		<button_label>SEND REPORT TO MISSION COMMANDER 2</button_label>
+		<messages>
+			<correct>Thank you. Your Final Analysis Report is complete and has been submitted.</correct>
+			<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+		</messages>
+	</formula>
+</tool>

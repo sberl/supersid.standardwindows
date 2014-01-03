@@ -1,0 +1,15 @@
+<div id="content" class="alert center">
+	<h3>
+		MESSAGE FROM SPACE COMMAND
+	</h3>
+	<p>
+		WARNING: The spacecraft is encountering <br />an area of comet debris.
+	</p>
+	<p> 
+		Precautions should be taken.  
+	</p>
+	<p>
+		<strong>Inform the Flight Director</strong>.
+	</p>
+	<span class="alert-button"><a id="alert" href="event:closeWindow">Close <br>Window</a></span>
+</div>

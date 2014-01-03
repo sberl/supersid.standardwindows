@@ -1,0 +1,8 @@
+<p>You will be observing the impact of the solar wind on Earth's magnetosphere to confirm a solar storm.</p>  
+<ol>
+	<li>Under <strong>MAGNETOSPHERE</strong> select <strong>Magnetosphere Graph</strong>. </li>
+	<li>Read the information and look at the chart.</li>
+	<li>Answer <strong>QUESTION 2</strong> on the <strong>MAGNETOSPHERE</strong> section of your <strong>DATA LOG</strong>.</li>
+	<li>Close SWAC by clicking on the X in the upper right corner of the window.</li>
+	<li>Choose the next task when you have completed all of the steps in this task.</li>
+</ol>

@@ -1,0 +1,182 @@
+.window {
+	font-family: MicrogrammaDMedExt;
+	/*font-family: Eurostile Condensed;
+	font-family: Eurostile Extended 2;
+	font-family: Eurostile Condensed;*/
+	font-size: 20px;
+	color: #FFFFFF;
+	
+	titleWidth: 880px;
+	titleHeight: 36px;
+	contentWidth: 880px;
+	contentHeight: 400px;
+	max: 1;
+	
+	startX: 12px;
+	startY: 75px;
+	titlePaddingX: 12px;
+	titlePaddingY: 3px;
+	closeButtonPaddingX: -12px;
+	closeButtonPaddingY: 8px;
+
+	titleBkgdFrameColor: #0A96CB;
+	windowBkgdFrameColor: #0A96CB;
+	
+	contentRef: SWACDefault.html;
+}
+
+
+.left {
+	float: left;
+	margin-right: 20px;
+}
+
+
+.right {
+	float: right;
+}
+
+.padded {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	color: #333333;
+}
+
+
+
+* { 
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 14px;
+	font-family: Arial;
+}
+
+#content {
+	width: 874px;
+	height: 394px;
+	overflow: auto;
+	background-color: #000;
+	margin-top: 3px;
+	margin-left: 3px;
+	
+}
+
+.banner {
+	background-color: #333;
+	height: 96px;
+	margin: 0;
+	padding: 0;
+}
+
+
+#article-header {
+	width: 860px;
+	height: 75px;
+	border-bottom: 1px solid #999999;
+}
+
+
+#article-content {
+	overflow: auto;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+
+
+.back {
+	width: 245px;
+	position: relative;
+	left: 20px;
+	bottom: 20px;
+	background-color: #999999;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-top: 1px solid #bbbbbb;
+	border-left: 1px solid #bbbbbb;
+}
+
+
+.section {
+	float: left;
+	width: 216px;
+	height: 296px;
+	border: 1px solid #333;
+	margin: 0;
+	padding: 0;
+	background-color: #ffffff;
+}
+
+.orange {
+	background-color: #F60;
+	color: #fff;
+}
+
+.green {
+	background-color: #3C3;
+	color: #fff;
+}
+
+.blue {
+	background-color: #06C;
+	color: #fff;
+}
+
+.purple {
+	background-color: #93C;
+	color: #fff;
+}
+
+h2 {
+	padding: 5px;
+	margin: 0;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+h3 {
+	float: left;
+	color: #67ccff;
+	font-size: 24px;
+	margin-top: 10px;
+	padding: 0;
+}
+
+ul {
+	list-style-type: none;
+	text-indent: 0;
+	margin: 0;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+}
+
+li {
+	margin-top: 5px;
+	margin-right: 0;
+	margin-bottom: 5px;
+	margin-left: 0;
+}
+
+
+p {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#contentBox {
+	overflow: auto;
+	width: 100px;
+	height: 100px;
+}

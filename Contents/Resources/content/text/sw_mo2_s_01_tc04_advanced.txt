@@ -1,0 +1,8 @@
+<p>The Kp Index Map shows the connection between the Kp index (a measure of Earth's magnetic field) and the predicted edges of the aurora.</p>
+<ol>
+	<li>Under <strong>AURORA</strong> select <strong>Kp Index Map</strong>.</li>
+	<li>The Kp Index for the last eight hours is <strong>eight</strong>. Based on this level, answer <strong>QUESTION 3</strong> on the <strong>AURORA</strong> section of your <strong>DATA LOG</strong>.</li>
+	<li>Send this message to Mission Control: "<strong>Aurora are predicted in the night sky on the following continents: _____________. Check the ground-based cameras</strong>."</li>
+	<li>Click on <strong>BACK TO MENU</strong> at the top of the SWAC window.</li>
+	<li>Go to <strong>Step 5</strong>.</li>
+</ol>

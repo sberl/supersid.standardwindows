@@ -1,0 +1,22 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Plasma</h2>
+	</div>
+	
+	<div id="term-content">
+		
+		<div id="full-pane">
+		
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					A low-density gas in which the individual atoms are ionized and therefore charged.
+				</p>
+			</span>
+			
+		</div>
+
+	</div>
+	
+</div>

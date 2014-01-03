@@ -1,0 +1,22 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Radiation</h2>
+	</div>
+	
+	<div id="term-content">
+		
+		<div id="full-pane">
+		
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					Energy radiated in the form of waves (light) or particles (photons).
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

@@ -1,0 +1,5 @@
+<p>The Mars Lander Team is looking at sunspot data. Active sunspots can be an indicator of a storm coming from the Sun.</p>
+<ol>
+	<li>Send this message to the Mars Lander: "<strong>Requesting the number of sunspots you have observed</strong>."</li>
+	<li>Go to <strong>Step 3</strong>.</li>
+</ol>

@@ -1,0 +1,78 @@
+
+<!-- saved from url=(0044)http://www.swpc.noaa.gov/Aurora/globeSE.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<style type="text/css">
+	body { font-family: Arial; background-color: #000000; color: #ffffff; }
+	img:hover { cursor: crosshair; }
+</style>
+<script language="javascript" src="../../js/aurora.js"></script>
+<script language="javascript" src="../../js/appver.js"></script>
+<script type="text/javascript" src="../../js/disabledrag.js"></script>
+<script type="text/javascript" src="../../js/rightClickBlocker.js"></script>
+<script language="javascript">
+retval = 0
+iLon = 0
+iLat = 0
+wid = 470     // Width of Plot (Pixels)
+hei = 234     // Height of Plot (Pixels)
+lhei = 60     // Height of Plot (Latitude)
+lwid = 180    // Width of Plot (Longitude)
+ulat = -80     // Upper Latitude Boundry
+llat = -20     // Lower Latitude Boundry
+ulon = 0    // Upper Longitude Boundry
+llon = 180      // Lower Longitude Boundry
+offset = 15   // Longitude/Latitude offset 
+
+function getLat(e) {
+  if (ie) { xLon = event.x-offset; yLat = event.y; }
+  else    { xLon = e.pageX-offset; yLat = e.pageY; }
+
+  iLon = Math.round(((lwid/wid)*xLon) - ulon) 
+  iLat = Math.round((-(lhei/hei)*yLat) + llat)  
+  retval = cMagLat(iLat,iLon)
+  if (iLat == -54 && iLon == 159) 
+    alert ('*** Macquarie Island ***\nDave Evans used to live here!')
+  if (iLat <= llat && (iLon <= llon && iLon >= ulon)) { 
+    /* alert('Geographic Longitude= '+iLon+'E'+'\n'+
+          'Geographic Latitude= '+Math.abs(iLat)+'S\n'+
+          'Corrected Magnetic Latitude= '+Math.abs(retval)) */
+	//alert('Geographic Longitude= '+strLon+'\n'+'Geographic Latitude= '+iLat+'N\n');
+	var el = document.getElementById('data');
+	el.innerHTML = 'Geographic Long/Lat = '+iLon+'E'+' '+Math.abs(iLat)+'S';
+	//el.innerHTML = 'Geographic Longitude= '+iLon+'E'+' &nbsp;&nbsp; - &nbsp;&nbsp; '+'Geographic Latitude= '+Math.abs(iLat)+'S';
+  } 
+}
+</script>
+
+<title>Africa-Indian Ocean-Australasia, Macquarie Island</title>
+</head>
+
+<body onClick="getLat()" onload="disableImages()" onselectstart="return false" oncontextmenu="return false" onload="RightClick.init();">
+<div id="Layer2" style="position:absolute; width:500px; width:354px; z-index:0;
+     left:0px; top:0px;">
+  <img name="img1" src="../images/globeSE.gif" border="0">
+</div>
+<script>
+if (! ie && Release > 4) {
+  document.captureEvents (Event.MOUSEDOWN)
+  document.onmousedown = getLat
+}
+</script>
+<div id="remote" style="position: absolute; display: block; top: 250px; left: 15px; width: 180px; height: 100px; background: url('../images/swac_kp_index_map_remote.jpg') 0 -300 no-repeat;">
+	<a href="globeNW.html" style="display: block; position: absolute; width: 88px; height: 49px; top: 1px; left: 1px;"></a>
+	<a href="globeNE.html" style="display: block; position: absolute; width: 88px; height: 49px; top: 1px; left: 91px;"></a>
+	<a href="globeSW.html" style="display: block; position: absolute; width: 88px; height: 49px; top: 51px; left: 1px;"></a>
+</div>
+<div id="layer3" style="position:absolute; width: 300px; top: 260px; left: 200px; z-index: 1; text-align: center; font-size: 14px;">
+	<span id="data"></span>
+</div>
+<div id="layer4" style="cursor: default; position:absolute; width: 300px; top: 275px; left: 200px; z-index: 2; text-align: center;">
+	<p>
+	<h3 style="color: #ff0000; text-align: center; font-size: 16px;">
+		<strong>OVER THE LAST 24 HOURS<br />
+		THE <u>KP INDEX MEASURES <br />
+		AN EIGHT (8)</u> ON THE INDEX SCALE. </strong>
+	</h3>
+	</p>
+</div>
+</body></html>

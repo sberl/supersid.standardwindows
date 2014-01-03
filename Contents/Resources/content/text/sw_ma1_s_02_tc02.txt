@@ -1,0 +1,9 @@
+<p>Sunspots help us to predict a storm coming from the Sun.</p>
+<ol>
+	<li>Click on the Space Weather Action Center (<strong>SWAC</strong>) on the right side of the screen.</li>
+	<li>Under <strong>SUNSPOT REGIONS</strong> select <strong>HMI Magnetogram</strong>.</li>
+	<li>Read the information. Use the ZOOM tool to zoom in on the sunspots.</li>
+	<li>On the <strong>SOLAR OBSERVATIONS</strong> section of your <strong>DATA LOG</strong> draw any sunspots you observe.</li> 
+	<li>Click on <strong>BACK TO MENU</strong> at the top of the SWAC window.</li>
+	<li>Go to <strong>Step 3</strong>.</li>
+</ol>

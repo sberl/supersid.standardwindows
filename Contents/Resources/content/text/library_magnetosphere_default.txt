@@ -1,0 +1,22 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Magnetosphere</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					The region of space in which the <strong><em>magnetic field</em></strong> of an object (e.g., a star or planet) counters the pressure of the stellar wind.  Earth's magnetosphere: A region of space surrounding Earth that shields the Earth from the solar wind.
+				</p>
+			</span>
+		
+		</div>
+		
+	</div>
+	
+</div>

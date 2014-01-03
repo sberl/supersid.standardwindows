@@ -1,0 +1,12 @@
+<div id="contentBox" class="zoom-disabled">
+	<h1>MARS Aurora Data</h1>
+	<p>
+		Aurora on Mars can be detected as a spike in data from the orbiting spacecraft Mars Express.
+	</p>
+	<p>
+		To see the location of any aurora click on MAP. 
+	</p>
+	<p>
+		Mars aurora  are sporadic flashes of light and can only be seen in the ultra-violet and so cannot be seen by human eyes.
+	</p>
+</div>

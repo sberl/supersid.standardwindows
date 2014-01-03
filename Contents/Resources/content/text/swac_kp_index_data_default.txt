@@ -1,0 +1,7 @@
+ <div id="aboutBox">
+	<h1>Kp Index Magnetosphere Data</h1>
+	<p>
+		Every three hours, magnetic observatories around the world measure the largest magnetic change that their instruments recorded. The result produces an index that tells scientists how disturbed Earth's magnetic field is on a 9-point scale called the Kp index. 
+The larger the Kp index the more active Earth's magnetic field becomes due to a solar flare or CME. The smaller the index the more quiet it is.  A large disturbance in Earth's magnetic field is likely to produce a strong aurora.  
+	</p>
+</div>

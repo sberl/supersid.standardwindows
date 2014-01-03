@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0" xmlns="http://ns.adobe.com/air/application/1.5.2">
+  <dict>
+    <key>CFBundleAllowMixedLocalizations</key>
+    <true/>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>10.4</string>
+    <key>LSRequiresCarbon</key>
+    <true/>
+    <key>CFBundleIdentifier</key>
+    <string>SpaceWeather.3D68A5DEE9592D48FC2AE93616DB54ED3D9595A4.1</string>
+    <key>CFBundleGetInfoString</key>
+    <string>0.0.0008,</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.0.0008</string>
+    <key>NSHumanReadableCopyright</key>
+    <string/>
+    <key>CFBundleExecutable</key>
+    <string>SpaceWeather</string>
+    <key>CFBundleIconFile</key>
+    <string>Icon.icns</string>
+    <key>CFBundleDocumentTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleTypeExtensions</key>
+        <array>
+          <string>airapplication</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+</plist>

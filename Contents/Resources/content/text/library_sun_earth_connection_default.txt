@@ -1,0 +1,41 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Sun-Earth Connection</h2>
+	</div>
+	
+	<div id="term-content">
+		
+		<div id="full-pane">
+		
+			<span id="more-information">
+				
+				<p>
+					150 million  kilometers (93 million miles) from Earth is the star we call the <strong>
+					<a href="event:loadToolCItem('Research','ResearchSunhtm')">Sun</a></strong>.  
+					Solar energy is responsible for life on Earth and conditions on Earth including  climate, seasons, and weather.
+				</p>
+				<p>
+					The <strong><a href="event:loadToolCItem('Research','ResearchEarthAtmospherehtm')">Earth's atmosphere</a></strong> 
+					provides a protective layer that can absorb harmful  ('light') rays such as 
+					<strong><a href="event:loadToolCItem('Research','ReserachUltravioletLightRayshtm')">ultraviolet light</a></strong> rays. 
+				</p>
+				<img class="left" src="../images/library_sun_earth_connection.jpg" alt="Sun Earth Connection" />
+				<p>
+					The Earth's <strong><a href="event:loadToolCItem('Research','ResearchMagnetospherehtm')">magnetosphere </a></strong>
+					(magnetic field) provides us with  protection from the particles that make up the 
+					<strong><a href="event:loadToolCItem('Research','ResearchSolarWindhtm')">solar wind.</a></strong>
+				</p>
+				<p>
+					The solar wind is a  constant stream of electrified particles coming from the 
+					<a href="event:loadToolCItem('Research','ResearchSunhtm')"><strong>Sun</strong></a>. 
+					The <a href="event:loadToolCItem('Research','ResearchSolarWindhtm')"><strong>solar wind</strong></a> 
+					can effect the magnetic field of  Earth.
+				</p>
+			</span>
+			
+		</div>
+	
+	</div>
+	
+</div>

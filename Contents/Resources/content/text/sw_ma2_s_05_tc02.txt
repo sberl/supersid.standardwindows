@@ -1,0 +1,10 @@
+<p>You will look for dust storm activity.</p>
+<ol>
+	<li>Click on the <strong>LIBRARY</strong> button at the top of the screen.</li>
+	<li>Look up <strong>Mars Dust Storms</strong>. Read the information.</li>
+	<li>Close the LIBRARY by clicking on the X in the upper left corner of the window.
+	<li>Click on the <strong>EXTERIOR CAMERA</strong> button on the right side of the screen to look for any signs of dust storm activity near the Mars Lander.</li>
+	<li>If you see any dust storms, send this message to Mars Control: <strong>"Dust storm activity has been seen near the Mars Lander."</strong></li>
+	<li>Shut down the Exterior Camera by clicking on the X in the upper right corner of the window.</li>
+	<li>Important procedures will be sent to the your team in the Mars Lander from Mars Control. Inform the <strong>Mission Commander</strong> of the procedures. You are now free to explore the LIBRARY to learn more about Space Weather.</li>
+</ol>

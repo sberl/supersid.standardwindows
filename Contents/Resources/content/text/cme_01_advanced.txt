@@ -1,0 +1,19 @@
+<div id="content" class="cme">
+
+	<h1>WHAT IS THE SPEED OF THE CME?</h1>
+	
+	<img class="right" src="../images/cme_01_advanced.jpg" alt="CME" />
+	
+	<p>
+		You'll use the formula <strong>Distance / Time = Speed</strong> to find out.
+	</p>
+	<p>
+		Here are two images of the solar flare as it left the Sun. 
+	</p>
+	<p>
+		<br/><br/>Click on the <strong>DISTANCE MEASUREMENT</strong> button to continue. 
+	</p>
+	
+	<span class="cme-button"><a id="cme" href="ContentTool_Template.html?assets=../text/cme_02_advanced.txt">DISTANCE <br>MEASUREMENT</a></span>
+	
+</div>

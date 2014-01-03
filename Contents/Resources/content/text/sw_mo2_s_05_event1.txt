@@ -1,0 +1,9 @@
+<div id="content" class="alert center">
+	<h3>
+		Message from the National Atmospheric and Oceanic Administration.
+	</h3>
+	<p>
+		Warning: The Earth/Moon system is entering into a meteor shower event. Precautions should be taken. Contact Mission Control for procedures.
+	</p>
+	<span class="alert-button"><a id="alert" href="event:closeWindow">Close <br>Window</a></span>
+</div>

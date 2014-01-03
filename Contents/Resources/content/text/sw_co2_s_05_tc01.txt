@@ -1,0 +1,5 @@
+<p>Comet debris can cause extensive damage to a spacecraft</p>
+<ol>
+	<li>Send this message to Mission Control: "<strong>A comet debris emergency has been confirmed. Please send procedures</strong>."</li>
+	<li>Go to <strong>Step 2</strong>.</li>
+</ol>

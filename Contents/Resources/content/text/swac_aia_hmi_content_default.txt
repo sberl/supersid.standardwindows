@@ -1,0 +1,14 @@
+<div id="contentBox" class="zoom-enabled">
+	<h1>Atmospheric Imaging Assembly (AIA) Extreme Ultraviolet Image and HMI (Helioseismic and Magnetic Imager) Magnetogram Composite</h1>
+	<p>
+		The composite image shows strong magnetic fields in blue and yellow (indicating opposite polarity) and has an extreme ultraviolet  image superimposed over it.
+	</p>
+	
+	<p>
+		Scroll down to see the image below. Notice how the arcs observed in ultraviolet come directly from the areas of magnetic polarity.
+	</p>
+	<br />
+	<p class="center">
+		<img src="../images/SWAC_AIAHMIComposite_content.jpg" alt="AIA/HMI Composite" />
+	</p>
+</div>

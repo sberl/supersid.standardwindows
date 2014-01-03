@@ -1,0 +1,7 @@
+<p>Mission Control will monitor battery power and <strong>send a message</strong> when you must turn the solar panels back to face the Sun.</p>
+<ol>
+	<li>When you receive the message, enter the solar panel reorientation code <strong>271</strong> to move the panels back to their original configuration facing the Sun.</li>
+	<li>You will receive a confirmation code to send to Mission Control. Send this message to Mission Control: "<strong>The confirmation code is _____</strong>."</li>
+	<li>Close the Solar Panel controls by clicking on the X in the upper right corner of the window.</li>
+	<li>Inform the <strong>Mission Commander</strong> that you have sent the confirmation code to Mission Control.  You are now free to explore the LIBRARY to learn more about Space Weather.</li>
+</ol>

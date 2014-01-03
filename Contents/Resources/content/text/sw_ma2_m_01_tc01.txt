@@ -1,0 +1,7 @@
+<p>You will need to check systems on the Mars Lander, in Mars Control and satellites in Mars orbit to learn about impacts from the solar storm.</p>
+<ol>
+	<li>Click on the <strong>LIBRARY</strong> button at the top of the screen.</li>
+	<li>Look up <strong>Spacecraft and CMEs</strong>. Read the information.</li>
+	<li>Answer <strong>QUESTION 1</strong> on the <strong>SPACE WEATHER</strong> section of your <strong>DATA LOG</strong>.</li>
+	<li>Go to <strong>Step 2</strong>.</li>
+</ol>

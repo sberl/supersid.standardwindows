@@ -1,0 +1,6 @@
+<ol>
+	<li>Look up <strong>Solar Cycles</strong>. Read the information.</li>
+	<li>Answer <strong>QUESTION 4</strong> on the <strong>SPACE WEATHER</strong> section of your <strong>DATA LOG</strong>.</li>
+	<li>Close the LIBRARY by clicking on the X in the upper right corner of the window.</li>
+	<li>Choose the next task when you have completed all of the steps in this task.</li>
+</ol>

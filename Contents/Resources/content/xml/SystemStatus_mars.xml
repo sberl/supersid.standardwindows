@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<systems>
+		<system title="Mars Lander">
+			<module title="Communications" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+			<module title="Cameras" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+			<module title="Computers" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+		</system>
+		<system title="Mars Satellites">
+			<module title="Weather" status="off">
+				<success_message>All Systems Functional</success_message>
+				<error_message><![CDATA[NASA MARSSAT 1 – FAILURE<br />INTIATE SYSTEM REBOOT<br />NASA MARSSAT 2 - FUNCTIONAL]]></error_message>
+			</module>
+			<module title="Science" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+			<module title="Telecommunications" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+		</system>
+		<system title="Mars Control">
+			<module title="Rovers" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+			<module title="Cameras" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+			<module title="Computers" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+		</system>
+	</systems>
+</tool>

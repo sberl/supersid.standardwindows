@@ -1,0 +1,15 @@
+<div id="contentBox" class="zoom-disabled">
+	<h1>The Large Angle and Spectrometric Coronagraph (LASCO)</h1>
+	<p>
+		This set of images was taken by the SOHO spacecraft. LASCO blocks out the Sun to show more clearly the solar corona.
+	</p>
+	<p>
+		<strong><em>
+		Do you observe any solar flares leaving the surface of the Sun?<br />
+		Do you see a halo effect (like a bubble) in the image series?
+		</em></strong>
+	</p>
+	<p>
+		This indicates that a storm is coming directly towards Earth. 
+	</p>
+</div>

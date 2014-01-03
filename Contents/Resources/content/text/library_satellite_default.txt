@@ -1,0 +1,36 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Satellite</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="full-pane">
+	
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+				A body that revolves around a larger body. For example, the Moon is a satellite of the Earth. 
+				</p>
+			</span>
+			
+			<span id="more-information">
+				<img class="right" src="../images/library_satellite.jpg" alt="Satellite" />
+				<p>
+					<strong>More Information:</strong><br />
+					Anything that orbits something else is a satellite. The Moon orbits the Earth, therefore the Moon is a satellite of the Earth.
+				</p>
+				<p>
+					The word satellite also refers to a man-made device that is launched by a rocket and placed in orbit around a planet or other heavenly body. These satellites are used for astronomical observation, weather forecasting, television broadcast, amateur radio communications, Internet communications, and the Global Positioning System (GPS).
+				</p>
+				<p>
+					Some satellites are located in geostationary orbits around the Earth, or at <strong><a href="event:loadToolCItem('Research','ResearchLaGrangePointshtm')">Lagrange points</a></strong> in space, in that they allow an object to be in a "fixed" position in space rather than an orbit in which its relative position changes continuously.
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

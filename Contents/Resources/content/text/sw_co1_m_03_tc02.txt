@@ -1,0 +1,7 @@
+<p>The Space Weather Report is an update for the crew in the Spacecraft and the team in Mission Control.</p>
+<ol>
+	<li>Locate the <strong>SPACE WEATHER REPORT</strong> in your <strong>DATA LOG</strong>.</li>
+	<li>Fill in the number of sunspots you received from the Spacecraft and your estimated time of arrival of the CME in Mission Elapsed Time (MET). If you have not received the number of sunspots, send this message to the Spacecraft: "<strong>Please send the number of sunspots you have observed</strong>."</li> 
+	<li>Go to the <strong>COM TEAM</strong> and give them the report to read.</li>
+	<li>Choose the next task when you have completed all of the steps in this task.</li>
+</ol>

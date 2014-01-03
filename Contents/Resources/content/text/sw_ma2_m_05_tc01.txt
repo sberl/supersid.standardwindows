@@ -1,0 +1,11 @@
+<p>Your team needs to review the procedures for a dust storm emergency and inform the Mars Lander.</p>
+<ol>
+	<li>Send this message to the Mars Lander: <strong>"Warning: Dust storms have been observed on Mars. Follow the procedures in your DUST STORMS task cards."</strong></li>
+	<li>Click on the <strong>LIBRARY</strong> button at the top of the screen.</li>
+	<li>Read the information about <strong>Mars Dust Storms</strong>.</li>
+	<li>Close the LIBRARY by clicking on the X in the upper right corner of the window.</li>
+	<li>Click on the <strong>Mars Weather</strong> button on the right side of the screen.</li>
+	<li>If you see signs of a dust storm, inform the <strong>Flight Director</strong> and send this message to the Mars Lander: "<strong>Large scale dust storms have been observed on Mars. Recommend immediate liftoff</strong>."</li>
+	<li>Close the Mars Weather window by clicking on the X in the upper right corner of the window.</li>
+	<li>Inform the <strong>Flight Director</strong> that you have sent the procedures to the Mars Lander and that you have completed all of your tasks. You are now free to explore the LIBRARY to learn more about Space Weather.</li>
+</ol>

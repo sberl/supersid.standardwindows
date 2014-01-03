@@ -1,0 +1,34 @@
+<div id="research">
+	<div id="term">
+		<h2>Deep Space Network</h2>
+	</div>
+	<div id="term-content">
+<!--				<span id="definition">
+			<p>
+				<strong>Definition:</strong><br />
+				
+			</p>
+		</span>-->
+		<span id="more-information">
+			<span class="right caption long">
+				<br /><br />
+				<img src="../images/library_deep_space_network.jpg" alt="Deep Space Network" />
+				<p>
+					<strong>
+					A Coronal Mass Ejection plasma cloud causes geomagnetic storms on Earth  and may cause power grid failures that could affect the Deep Space Network antennas - temporarily suspending communications.
+					</strong>
+				</p>
+			</span>
+			<p>
+<!--						<strong>More Information:</strong>--><br />
+				The <strong><a href="event:loadCItem('ResearchDeepSpaceNetworkhtm','Library')">NASA Deep Space Network</a></strong> is an international network of antennas that supports interplanetary spacecraft missions. 
+		</p>
+			<p>
+			Continuous 24-hour coverage requires several  stations at locations that compensate for Earth's daily rotation.
+	</p>
+			<p>
+The locations in Spain, Australia and the United States of America are approximately 120 degrees apart in longitude which enables continuous observation and overlap for transferring the spacecraft radio link from one complex to the next. 
+			</p>
+		</span>
+	</div>
+</div>

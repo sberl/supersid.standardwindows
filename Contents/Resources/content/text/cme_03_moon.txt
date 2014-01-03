@@ -1,0 +1,42 @@
+<div id="content" class="cme">
+
+	<div class="cme-info">
+		<div class="cme-info-text">
+			<p>
+				<strong>
+					The ACE satellite is located 1,500,000 kilometers from Earth. 
+				</strong>
+			</p>
+			<p>
+				<strong>
+					The speed of the CME is 2,000,000 kilometers per hour. 
+				</strong>
+			</p>
+			<p>
+				<strong>
+					The CME reached the ACE satellite <span class="orange">30 minutes</span> ago.
+				</strong>
+			</p>
+		</div>
+	</div>
+	<p>
+		<strong>How many minutes from now will the CME arrive?</strong>
+	</p>
+	<ol>
+	<li>
+		Subtract the <strong><span class="orange">time</span></strong> since the CME arrived at ACE from the time it will take to reach Earth (your previous answer).
+	</li></ol><br><br>
+	<p>
+		This is how many minutes it will be until the CME reaches Earth and the Spacecraft. 
+	</p>
+	<p>
+		During this mission, we use Mission Elapsed Time (MET) for our clock.
+	</p>
+	<p>
+		Click on the <strong>MISSION ELAPSED TIME</strong> button to determine when the CME will arrive using the MET clock.
+	</p>
+	
+	<span class="cme-button"><a id="cme-back" href="ContentTool_Template.html?assets=../text/cme_02_moon.txt">BACK</a></span>
+	<span class="cme-button"><a id="cme" href="ContentTool_Template.html?assets=../text/cme_04_moon.txt">MISSION ELAPSED TIME</a></span>
+
+</div>

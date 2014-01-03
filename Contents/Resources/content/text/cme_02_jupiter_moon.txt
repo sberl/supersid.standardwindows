@@ -1,0 +1,24 @@
+<div id="content" class="cme-jupiter">
+
+	<div class="cme-info">
+		<div class="cme-info-text">
+		
+			<p class="orange">
+				Earth is located 150,000,000 kilometers from the Sun.
+			</p>
+			<p class="orange">
+				Jupiter is located 778,000,000 kilometers from the Sun. 
+			</p
+		</div>
+	</div>
+	<h1>What is the distance from Earth to Jupiter?</h1>
+	<ol>
+		<li>Subtract the distance from Earth to the Sun from the distance from Jupiter to the Sun.</li>
+	</ol>
+	<p>This is how far the CME has to travel to get to Jupiter.</li>
+	<p>Click on the <strong>TIME MEASUREMENT</strong> button to continue.</li>
+	
+	<br /><br />
+	<span class="cme-button"><a id="cme-back" href="ContentTool_Template.html?assets=../text/cme_01_jupiter_moon.txt">BACK</a></span>
+	<span class="cme-button"><a id="cme" href="ContentTool_Template.html?assets=../text/cme_03_jupiter_moon.txt">TIME <br>MEASUREMENT</a></span>		
+</div>

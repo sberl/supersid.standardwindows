@@ -1,0 +1,22 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Ultraviolet Light</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					Radiation in the ultraviolet range; ultraviolet wave lengths are shorter than visible light but longer than X rays.
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

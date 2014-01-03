@@ -1,0 +1,29 @@
+<div id="content">
+			
+	<h1>Welcome to Mars Control</h1>
+	
+	<p><br /><br />
+	The <strong><em><a href="event:loadCItem('ResearchSpaceWeatherhtm','Library')">Space Weather</a></em></strong> Team is responsible for monitoring solar activity on Earth, Mars and space environment.   
+	</p>
+	
+	<p>
+The <strong><em><a href="event:loadCItem('ResearchSolarStormhtm','Library')">solar storm</a></em></strong> may have had an impact on technology and communications on the Mars Lander and Mars Control. You will prepare a Space Weather Report to inform the crew about any effects on <strong><em><a href="event:loadCItem('ResearchSatelliteshtm','Library')">satellites</a></em></strong> in Mars orbit, or systems on the Mars Lander or in Mars Control.
+	</p>
+	
+	<div id="button-area">
+		<div class="activate-note left">
+			<div class="activate-note-text">
+				More information about <strong><em>highlighted</em></strong> words can be found in the LIBRARY at the top of the screen.
+			</div>
+		</div>
+
+		<div class="activate-note right">
+			<div class="activate-note-text">
+				When you have a message the MESSAGE button will blink.
+			</div>
+		</div>
+
+	</div>
+	<span class="activate-button"><a id="activate" href="event:closeWindow">Activate Station</a></span>
+	
+</div>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<zoom active="false" />
+	<earth active="true" />
+	<menu>
+		<item title="Display">
+			<label>Display</label>
+			<click>hide_about</click>
+		</item>
+		<item title="Data">
+			<label>About the Data</label>
+			<click>load_about</click>
+		</item>
+		<item title="About the Satellite">
+			<label>About the Satellite</label>
+			<click>load_about</click>
+		</item>
+		<item title="Video">
+			<label>Movie</label>
+			<click>load_about</click>
+		</item>
+	</menu>
+	<module title="AIA">
+		<display>swac_hmi_aia_composite.jpg</display>
+		<content>SWAC_Content_Template.html?assets=../text/swac_aia_hmi_content_default.txt</content>
+		<data>SWAC_Window_Template.html?assets=../text/swac_aia_hmi_data_default.txt</data>
+		<satellite>SWAC_Window_Template.html?assets=../text/swac_aia_hmi_satellite_default.txt</satellite>
+		<map></map>
+		<video>aia_hmi_video.flv</video>
+	</module>
+</tool>

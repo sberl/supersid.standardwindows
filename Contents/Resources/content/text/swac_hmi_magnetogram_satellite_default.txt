@@ -1,0 +1,6 @@
+<div id="aboutBox">
+	<h1>About The SDO Mission</h1>
+	<p>
+		The Solar Dynamics Observatory (SDO) studies how solar activity is created and how Space Weather comes from that activity. The instruments on SDO perform several measurements that characterize how and why the Sun varies. SDO is located above Earth in a geosynchronous orbit above Earth. This allows it continuous observations of the Sun and enables an exceptionally high data rate through the use of a single dedicated ground station.
+	</p>
+</div>

@@ -1,0 +1,47 @@
+<div id="research">
+	<div id="term">
+		<h2>Cosmic Radiation</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					High energy particles originating from outer space and our Sun. When compared to X-rays or Gamma rays &ndash; cosmic radiation cause more biological damage.
+				</p>
+			</span>
+			
+			<span id="more-information">
+				<p>
+					<strong>More Information:</strong><br />
+				</p>
+				<p>
+					During our mission to Mars, we will be leaving the protection of Earth's magnetosphere. Earth's <strong><em>magnetic field</em></strong> shields humans from most cosmic rays, but they are common in interplanetary space. 
+				</p>
+				<p>
+					Cosmic rays penetrate most forms of shielding, and so remain a hazard to human health.  Crew who are in space for long periods of time get an increasing dosage of these rays.
+
+				</p>
+				<p>
+					Each member of the Mars Lander crew has a radiation badge.   The radiation level must be monitored periodically.  
+
+				</p>
+				<p>
+					One of two readings will occur:  
+				</p>
+				<p>
+					<strong class="green">No radiation exposure</strong> &ndash; the radiation sensor will stay green in color. 
+				</p>
+				<p>
+					<strong class="red">High level of exposure</strong> &ndash; the radiation sensor will show bright red. This is an emergency. Contact the MISSION COMMANDER immediately.
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

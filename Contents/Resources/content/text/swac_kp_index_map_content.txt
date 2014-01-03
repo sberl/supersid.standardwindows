@@ -1,0 +1,17 @@
+<div id="contentBox" class="zoom-disabled">
+	<h1>Kp Index Map</h1>
+	<p>
+  <strong>Use this map to determine where aurora can be seen. You can click on any point on the large map to find the longitude and latitude. Click on the small map to change the region.</strong></p>
+	<!--<p>
+	<strong>With a Kp of 3, aurora can be expected up to the <span style="color: #04a4ff">blue line.</span></strong>
+    </p>-->
+	<p>
+	<strong>With a Kp of 5, aurora can be expected as far as the <span style="color: #00ff00">green line.</span></strong>
+	</p>
+	<p>
+	<strong>With a Kp of 7, aurora can be expected as far as the <span style="color: #fffe04">yellow line.</span></strong>
+	</p>
+	<p>
+	<strong>With a Kp of 9, aurora can be expected as far as the <span style="color: #ff0000">red line.</span></strong>
+	</p>
+</div>

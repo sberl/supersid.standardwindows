@@ -1,0 +1,6 @@
+<div id="aboutBox">
+	<h1>About The KIRUNA LL SKY CAMERA</h1>
+	<p>
+		The digital all-sky camera in Kiruna is based on a commercial digital camera. The camera is controlled by computer and the image data is transferred to an archiving computer, where it is made available. Typical exposure time is 4 seconds, but every eighth exposure is four times longer, in order to reveal faint aurora. 
+	</p>
+</div>

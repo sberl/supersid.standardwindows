@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<tool>
+	<moon01>
+		<mission_control>
+			<citem>cmeToolMOMC101htm</citem>
+			<citem>cmeToolMOMC102htm</citem>
+			<citem>cmeToolMOMC103htm</citem>
+		</mission_control>
+		<spacecraft>
+			<citem>cmeToolMOSC101htm</citem>
+			<citem>cmeToolMOSC102htm</citem>
+			<citem>cmeToolMOSC103htm</citem>
+		</spacecraft>
+	</moon01>
+</tool>
+-->
+<fileref>CME_comet.xml</fileref>

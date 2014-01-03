@@ -1,0 +1,7 @@
+<div id="aboutBox">
+	<h1>RADIO AND PLASMA Data</h1>
+	<p>
+		Solar radio bursts are produced by very energetic electrons emitted by a solar flare. As the energetic electrons from the solar flare move outward from the Sun, they excite the ionized gas (plasma) that surrounds the Sun. The plasma oscillations in turn generate radio emissions at a specific frequency called the electron plasma frequency.  
+The radio emissions propagate outward at the speed of light and can be picked up by an instrument called a Radio and Plasma Wave detector.   
+	</p>
+</div>

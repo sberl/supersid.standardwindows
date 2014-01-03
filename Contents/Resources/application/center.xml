@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<center>
+	<identification>
+		<id>01</id>
+		<city>Alexandria</city>
+		<state>VA</state>
+	</identification>
+	<facility>
+		<simulator id="C0101">
+			<area areatype="base"></area>
+			<area areatype="craft"></area>
+			<area areatype="briefing"></area>
+        		</simulator>
+		<simulator id="C0102">
+			<area areatype="base"></area>
+			<area areatype="craft"></area>
+			<area areatype="briefing"></area>
+        	</simulator>
+    	</facility>
+</center>

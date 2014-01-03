@@ -1,0 +1,29 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Spacecraft and CMEs</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<img class="right" src="../images/library_spacecraft_cmes.jpg" alt="Spacecraft and CMEs" />
+			<span id="more-information">
+				<p>Spacecraft are vulnerable to electrically charged particles from a <strong><a href="event:loadToolCItem('Research','ResearchCoronalMassEjectionhtm')">coronal mass ejection (CME)</a></strong>.</p>
+				<p>
+					The cloud can cause the buildup of electrical charge in metal structures causing damage to sensitive electronic systems.
+				</p>
+				<p>
+					Cameras could malfunction, communications equipment might be damaged and computer data may be corrupted. 
+				</p>
+				<p>
+					Communications could be temporarily affected due to power grid failures from a powerful <strong><a href="event:loadToolCItem('Research','ResearchGeomagneticStormhtm')">geomagnetic storm</a></strong>.
+				</p>
+			</span>
+		
+		</div>
+		
+	</div>
+	
+</div>

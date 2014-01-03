@@ -1,0 +1,14 @@
+<div id="content" class="cme-jupiter">
+	<h1>When will the CME reach Jupiter?</h1>
+	<!-- <img class="right" src="../images/cme_01_jupiter_mars.jpg" alt="Jupiter" /> -->
+	<p>
+		A CME travelling at 2,000,000 kilometers an hour will take several days to reach Mars from Earth.
+	</p>
+	<p>
+		You will use the formula <strong>Distance / Speed = Time</strong> to find out when it will reach Jupiter.
+	</p>
+	<p>
+		Click on the <strong>DISTANCE MEASUREMENT</strong> button to begin.
+	</p>
+	<span class="cme-button"><a id="cme" href="ContentTool_Template.html?assets=../text/cme_02_jupiter_mars.txt">DISTANCE <br>MEASUREMENT</a></span>
+</div>

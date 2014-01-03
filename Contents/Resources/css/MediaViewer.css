@@ -1,0 +1,170 @@
+.window {
+	
+	font-family: MicrogrammaDMedExt;
+	/*font-family: Eurostile Condensed;
+	font-family: Eurostile Extended 2;
+	font-family: Eurostile Condensed;*/
+	font-size: 20px;
+	color: #FFFFFF;
+	
+	titleWidth: 880px;
+	titleHeight: 36px;
+	contentWidth: 100px;
+	contentHeight: 100px;
+	max: 1;
+	
+	startX: 12px;
+	startY: 75px;
+	titlePaddingX: 12px;
+	titlePaddingY: 3px;
+	closeButtonPaddingX: -12px;
+	closeButtonPaddingY: 8px;
+
+	titleBkgdFrameColor: #0A96CB;
+	windowBkgdFrameColor: #0A96CB;
+	
+	contentRef: SWACDefault.html;
+	
+	viewWindowHeight: 600px;
+	
+}
+
+.viewWindow {
+	
+	viewWindowWidth: 500px;
+	viewWindowHeight: 394px;
+		
+}
+
+.thumbnail {
+	
+	thumbnailWidth: 160px;
+	thumbnailHeight: 160px;
+	
+}
+
+.center {
+	text-align: center;
+}
+
+	html {
+		cursor: default;
+	}
+
+	body {
+		font-size: 12px;
+		font-family: Arial;
+		color: #fff;
+	}
+	
+	h1 {
+		font-size: 12px;
+	}
+	
+	#content_0 {
+		overflow: auto;
+		padding-top: 0;
+		padding-right: 10px;
+		padding-bottom: 0;
+		padding-left: 10px;
+		
+	}
+	
+	.content {
+		width: 350px;
+		background-color: #222;
+	}
+	
+	.zoom-enabled {
+	
+		height: 160px;
+	}
+	
+	.zoom-disabled {
+	
+		height: 325px;
+	}
+	.about {
+		width: 684px;
+		height: 200px;
+		background-color: #444;
+	}
+	
+	.lasco {
+		padding-left: 75px;
+		background-color: #005bce;
+	}
+	
+	.kp-index {
+		
+		width: 500px;
+		height: 354px;
+		background-color: red;
+	}
+	#aboutBox {
+		width: 664px;
+	}
+
+	
+	li {
+		margin-left: 10px;	
+	}
+	
+	p {
+		margin-top: 5px;
+		margin-bottom: 5px;
+		line-height: 16px;
+	}
+	
+	::-webkit-scrollbar {
+width: 15px;
+height: 15px;
+}
+
+::-webkit-scrollbar-button:start:decrement,
+::-webkit-scrollbar-button:end:increment  {
+width: 15px;
+height: 15px;
+display: block;
+background-repeat: no-repeat;
+}
+
+::-webkit-scrollbar-button:start:decrement {
+	display: block;
+	background-image: url('../content/images/ui_library_scroll_up.jpg');
+	background-position: 0 0;
+	background-color: #3f86aa;
+}
+
+::-webkit-scrollbar-button:end:increment {
+	background-image: url('../content/images/ui_library_scroll_down.jpg');
+	background-color: #3f86aa;
+}
+
+::-webkit-scrollbar-button:start:decrement:hover {
+	background-position: -15px 0;
+}
+
+::-webkit-scrollbar-button:end:increment:hover {
+	background-position: -15px 0;
+}
+
+
+::-webkit-scrollbar-track-piece  {
+background-color: #66a2c1;
+-webkit-border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+height: 50px;
+background-color: #3f86aa; 
+border: 1px solid #297197;
+-webkit-border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:vertical:hover {
+height: 50px;
+background-color: #5093b5; 
+border: 1px solid #297197;
+-webkit-border-radius: 2px;
+}

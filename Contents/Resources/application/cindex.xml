@@ -1,0 +1,2151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cindex publishedDate="Fri Oct 15 18:42:28 Eastern Daylight Time 2010" xmlns:tns="http://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3schools.com G:\Challenger\Phase2\Documentation\cindex.xsd">
+	
+	<!-- Configs -->
+	<citem cmsid="comet1_mc_station" itemname="Comet 1 Mission Control" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>comet1_mc_station.xml</fileref>
+		<tags><![CDATA[Comet 1 Mission Control]]></tags>
+	</citem>
+	<citem cmsid="comet1_sc_station" itemname="Comet 1 Spacecraft" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>comet1_sc_station.xml</fileref>
+		<tags><![CDATA[Comet 1 Spacecraft]]></tags>
+	</citem>
+	<citem cmsid="comet2_mc_station" itemname="Comet 2 Mission Control" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>comet2_mc_station.xml</fileref>
+		<tags><![CDATA[Comet 2 Mission Control]]></tags>
+	</citem>
+	<citem cmsid="comet2_sc_station" itemname="Comet 2 Spacecraft" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>comet2_sc_station.xml</fileref>
+		<tags><![CDATA[Comet 2 Spacecraft]]></tags>
+	</citem>
+	<citem cmsid="mars1_mc_station" itemname="Mars 1 Mission Control" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>mars1_mc_station.xml</fileref>
+		<tags><![CDATA[Mars 1 Mission Control]]></tags>
+	</citem>
+	<citem cmsid="mars2_mc_station" itemname="Mars 2 Mission Control" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>mars2_mc_station.xml</fileref>
+		<tags><![CDATA[Mars 2 Mission Control]]></tags>
+	</citem>
+	<citem cmsid="mars1_sc_station" itemname="Mars 1 Spacecraft" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>mars1_sc_station.xml</fileref>
+		<tags><![CDATA[Mars 1 Spacecraft]]></tags>
+	</citem>
+	<citem cmsid="mars2_sc_station" itemname="Mars 2 Spacecraft" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>mars2_sc_station.xml</fileref>
+		<tags><![CDATA[Mars 2 Spacecraft]]></tags>
+	</citem>
+	<citem cmsid="moon1_mc_station" itemname="Moon 1 Mission Control" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>moon1_mc_station.xml</fileref>
+		<tags><![CDATA[Moon 1 Mission Control]]></tags>
+	</citem>
+	<citem cmsid="moon2_mc_station" itemname="Moon 2 Mission Control" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>moon2_mc_station.xml</fileref>
+		<tags><![CDATA[Moon 2 Mission Control]]></tags>
+	</citem>
+	<citem cmsid="moon1_sc_station" itemname="Moon 1 Spacecraft" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>moon1_sc_station.xml</fileref>
+		<tags><![CDATA[Moon 1 Spacecraft]]></tags>
+	</citem>
+	<citem cmsid="moon2_sc_station" itemname="Moon 2 Spacecraft" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>moon2_sc_station.xml</fileref>
+		<tags><![CDATA[Moon 2 Spacecraft]]></tags>
+	</citem>
+	
+	<!-- Style Sheets -->
+	<citem cmsid="comit_css" itemname="Comit - Style Sheets" formattype="css" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>comit_css.css</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="mars_css" itemname="Mars - Style Sheets" formattype="css" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>mars_css.css</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="moon_css" itemname="Moon - Style Sheets" formattype="css" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>moon_css.css</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Logos -->
+	<citem cmsid="weather_logo" itemname="Weather Logo - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>weather_logo.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="comit_logo" itemname="Comit Logo - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>comit_logo.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="mars_logo" itemname="Mars Logo - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>mars_logo.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="moon_logo" itemname="Moon Logo - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>moon_logo.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Backgrounds -->
+	<citem cmsid="weather_bkg" itemname="Weather Background - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>weather_bkg.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="comit_bkg" itemname="Comit Background - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>comit_bkg.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="mars_bkg" itemname="Mars Background - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>mars_bkg.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="moon_bkg" itemname="Moon Background - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>moon_bkg.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Tools -->
+	<citem cmsid="Calculator" itemname="Calculator" formattype="swf_as2" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>Calculator.swf</fileref>
+		<tags><![CDATA[Calculator]]></tags>
+	</citem>
+	<citem cmsid="Library" itemname="Library" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>Library.swf</fileref>
+		<tags></tags>
+	</citem>
+	<citem cmsid="Antenna" itemname="Antenna" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>Antenna.swf</fileref>
+		<tags><![CDATA[Antenna]]></tags>
+	</citem>
+	<citem cmsid="Antenna_comet" itemname="Antenna Comet XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>Antenna_comet.xml</fileref>
+		<tags><![CDATA[Antenna Comet XML Data]]></tags>
+	</citem>
+	<citem cmsid="Antenna_mars" itemname="Antenna Mars XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>Antenna_mars.xml</fileref>
+		<tags><![CDATA[Antenna Mars XML Data]]></tags>
+	</citem>
+	<citem cmsid="Antenna_moon" itemname="Antenna Moon XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>Antenna_moon.xml</fileref>
+		<tags><![CDATA[Antenna Moon XML Data]]></tags>
+	</citem>
+	
+	<!-- Temporary Tools, for testing -->
+	<citem cmsid="ContentTool" itemname="Temporary Tool" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/cme_01_moon_advanced.txt</fileref>
+		<tags><![CDATA[Content Temporary Tool]]></tags>
+	</citem>
+	<citem cmsid="ResearchSolarWindhtm" itemname="Research Solar Wind" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ResearchSolarWindhtm.html</fileref>
+		<tags><![CDATA[ResearchSolarWindhtm]]></tags>
+	</citem>
+	<citem cmsid="SWAC_aia_advanced" itemname="SWAC AIA Advanced" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_aia_advanced.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_ace_solar_wind_advanced" itemname="SWAC ACE Solar Wind" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_ace_solar_wind_advanced.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_ace_hmi" itemname="SWAC HMI" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_ace_hmi.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_goes_xray_flux" itemname="SWAC HMI" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_goes_xray_flux.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_hmi_aia" itemname="SWAC HMI" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_hmi_aia.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_hmi_magnetogram" itemname="SWAC HMI" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_hmi_magnetogram.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_kiruna_camera" itemname="SWAC HMI" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_kiruna_camera.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_kp_index" itemname="SWAC HMI" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_kp_index.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_magnetosphere" itemname="SWAC Magnetosphere" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_magnetosphere.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_kp_index_map" itemname="SWAC HMI" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_kp_index_map.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_lasco" itemname="SWAC HMI" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_lasco.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_mars_aurora_data" itemname="SWAC HMI" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_mars_aurora_data.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_poes" itemname="SWAC HMI" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_poes.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_sound_cme" itemname="SWAC HMI" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_sound_cme.xml</fileref>
+		<tags><![CDATA[SWAC AIA Advanced]]></tags>
+	</citem>
+	<citem cmsid="SWAC_radio_plasma" itemname="SWAC Radio Plasma Data" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf?file=SWAC_radio_plasma.xml</fileref>
+		<tags><![CDATA[SWAC Radio Plasma]]></tags>
+	</citem>
+	
+	<!-- Content Tools -->
+	<citem cmsid="CometVideo" itemname="Comet Video" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/comet_video_01_default.txt</fileref>
+		<tags><![CDATA[Comet Video]]></tags>
+	</citem>
+	<citem cmsid="CME_comet" itemname="CME Comet Basic" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/cme_01_comet.txt</fileref>
+		<tags><![CDATA[CME Tool - Comet]]></tags>
+	</citem>
+	<citem cmsid="CME_mars" itemname="CME Mars Basic" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/cme_01_mars.txt</fileref>
+		<tags><![CDATA[CME Tool - Mars]]></tags>
+	</citem>
+	<citem cmsid="CME_moon" itemname="CME Moon Basic" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/cme_01_moon.txt</fileref>
+		<tags><![CDATA[CME Tool - Moon]]></tags>
+	</citem>
+	<citem cmsid="CME_advanced" itemname="CME Advanced" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/cme_01_advanced.txt</fileref>
+		<tags><![CDATA[CME Tool - Advanced]]></tags>
+	</citem>
+	<citem cmsid="CME_moon_advanced" itemname="CME Moon Advanced" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/cme_01_moon_advanced.txt</fileref>
+		<tags><![CDATA[CME Tool - Moon - Advanced]]></tags>
+	</citem>
+	<citem cmsid="CME_jupiter_comet" itemname="CME Jupiter Comet" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/cme_01_jupiter_comet.txt</fileref>
+		<tags><![CDATA[CME Tool - Jupiter - Comet]]></tags>
+	</citem>
+	<citem cmsid="CME_jupiter_mars" itemname="CME Jupiter Mars" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/cme_01_jupiter_mars.txt</fileref>
+		<tags><![CDATA[CME Tool - Jupiter - Mars]]></tags>
+	</citem>
+	<citem cmsid="CME_jupiter_moon" itemname="CME Jupiter Moon" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/cme_01_jupiter_moon.txt</fileref>
+		<tags><![CDATA[CME Tool - Jupiter - Moon]]></tags>
+	</citem>
+	<citem cmsid="CMEProcedures" itemname="CME Procedures" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/cme_procedures_default.txt</fileref>
+		<tags><![CDATA[CME Procedures]]></tags>
+	</citem>
+	<citem cmsid="CMEProcedures_mars" itemname="CME Procedures Mars" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/cme_procedures_mars.txt</fileref>
+		<tags><![CDATA[CME Procedures Mars]]></tags>
+	</citem>
+	<citem cmsid="MeteorProcedures" itemname="Meteor Procedures" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/meteor_procedures_default.txt</fileref>
+		<tags><![CDATA[CME Procedures]]></tags>
+	</citem>
+	<citem cmsid="MarsWeatherData" itemname="Mars Weather Data" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/mars_weather_data_default.txt</fileref>
+		<tags><![CDATA[Mars Weather Data]]></tags>
+	</citem>
+	
+	
+	
+	<citem cmsid="SWAC_comet" itemname="Space Weather Action Center - Comet" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>SWAC_Template.html?assets=../text/swac_home_comet.txt</fileref>
+		<tags><![CDATA[SWAC - Comet]]></tags>
+	</citem>
+	
+	<citem cmsid="SWAC_mars" itemname="Space Weather Action Center - Mars" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>SWAC_Template.html?assets=../text/swac_home_mars.txt</fileref>
+		<tags><![CDATA[SWAC - Mars]]></tags>
+	</citem>
+	
+	<citem cmsid="SWAC_moon" itemname="Space Weather Action Center - Moon" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>SWAC_Template.html?assets=../text/swac_home_moon.txt</fileref>
+		<tags><![CDATA[SWAC - Moon]]></tags>
+	</citem>
+	
+	<!-- delete later
+	<citem cmsid="SWAC" itemname="Space Weather Action Center" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>SWAC_Template.html?assets=../text/swac_default.txt</fileref>
+		<tags><![CDATA[SWAC]]></tags>
+	</citem>
+	<citem cmsid="SWAC" itemname="Space Weather Action Center" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>SWAC_Template.html?assets=</fileref>
+		<tags><![CDATA[SWAC]]></tags>
+	</citem>
+	-->
+	
+	
+	
+	
+	
+	<citem cmsid="MediaViewer" itemname="Media Viewer" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>MediaViewer.swf</fileref>
+		<tags><![CDATA[SWAC]]></tags>
+	</citem>
+
+	<citem cmsid="SystemStatus" itemname="System Status" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>SystemStatus.swf</fileref>
+		<tags><![CDATA[SystemStatus]]></tags>
+	</citem>
+	<citem cmsid="SystemStatus_comet" itemname="System Status Comet XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>SystemStatus_comet.xml</fileref>
+		<tags><![CDATA[SystemStatus]]></tags>
+	</citem>
+	<citem cmsid="SystemStatus_mars" itemname="System Status Mars XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>SystemStatus_mars.xml</fileref>
+		<tags><![CDATA[SystemStatus]]></tags>
+	</citem>
+	<citem cmsid="SystemStatus_moon" itemname="System Status Moon XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>SystemStatus_moon.xml</fileref>
+		<tags><![CDATA[SystemStatus]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis" itemname="Final Analysis" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_Formula.swf</fileref>
+		<tags><![CDATA[Final Analysis]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_mc" itemname="Final Analysis MC" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_Formula_mc.swf</fileref>
+		<tags><![CDATA[Final Analysis]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_Groups" itemname="Final Analysis" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_Groups.swf</fileref>
+		<tags><![CDATA[Final Analysis]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_Timeline" itemname="Final Analysis" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_Timeline.swf</fileref>
+		<tags><![CDATA[Final Analysis]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_comet" itemname="Final Analysis Comet XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_comet.xml</fileref>
+		<tags><![CDATA[Final Analysis Data]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_comet_advanced" itemname="Final Analysis Comet Advanced XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_comet_advanced.xml</fileref>
+		<tags><![CDATA[Final Analysis Data]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_comet_spacecraft" itemname="Final Analysis Comet Spacecraft XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_comet_spacecraft.xml</fileref>
+		<tags><![CDATA[Final Analysis Data]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_comet_spacecraft_advanced" itemname="Final Analysis Comet Spacecraft Advanced XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_comet_spacecraft_advanced.xml</fileref>
+		<tags><![CDATA[Final Analysis Data]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_mars" itemname="Final Analysis Mars XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_mars.xml</fileref>
+		<tags><![CDATA[Final Analysis Data]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_mars_advanced" itemname="Final Analysis Mars Advanced XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_mars_advanced.xml</fileref>
+		<tags><![CDATA[Final Analysis Data]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_mars_spacecraft" itemname="Final Analysis Mars Spacecraft XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_mars_spacecraft.xml</fileref>
+		<tags><![CDATA[Final Analysis Data]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_mars_spacecraft_advanced" itemname="Final Analysis Mars Spacecraft Advanced XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_mars_spacecraft_advanced.xml</fileref>
+		<tags><![CDATA[Final Analysis Data]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_moon" itemname="Final Analysis Moon XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_moon.xml</fileref>
+		<tags><![CDATA[Final Analysis Data]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_moon_advanced" itemname="Final Analysis Moon Advanced XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_moon_advanced.xml</fileref>
+		<tags><![CDATA[Final Analysis Data]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_moon_spacecraft" itemname="Final Analysis Moon Spacecraft XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_moon_spacecraft.xml</fileref>
+		<tags><![CDATA[Final Analysis Data]]></tags>
+	</citem>
+	<citem cmsid="FinalAnalysis_moon_spacecraft_advanced" itemname="Final Analysis Moon Spacecraft Advanced XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>FinalAnalysis_moon_spacecraft_advanced.xml</fileref>
+		<tags><![CDATA[Final Analysis Data]]></tags>
+	</citem>
+	<citem cmsid="BatteryPower" itemname="Battery Power" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>BatteryPower.swf</fileref>
+		<tags><![CDATA[Battery Power]]></tags>
+	</citem>
+	<citem cmsid="BatteryPower_comet" itemname="Battery Power Comet XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>BatteryPower_comet.xml</fileref>
+		<tags><![CDATA[Battery Power Comet Data]]></tags>
+	</citem>
+	<citem cmsid="BatteryPower_moon" itemname="Battery Power Moon XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>BatteryPower_moon.xml</fileref>
+		<tags><![CDATA[Battery Power Moon Data]]></tags>
+	</citem>
+	<citem cmsid="cme_01_advanced" itemname="CME Tool - 1 - Advanced" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_01_advanced.html</fileref>
+		<tags><![CDATA[CME Tool 1 Advanced]]></tags>
+	</citem>
+	<citem cmsid="cme_02_advanced" itemname="CME Tool - 2 - Advanced" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_02_advanced.html</fileref>
+		<tags><![CDATA[CME Tool 2 Advanced]]></tags>
+	</citem>
+	<citem cmsid="cme_03_advanced" itemname="CME Tool - 3 - Advanced" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_03_advanced.html</fileref>
+		<tags><![CDATA[CME Tool 3 Advanced]]></tags>
+	</citem>
+	<citem cmsid="cme_04_advanced" itemname="CME Tool - 4 - Advanced" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_04_advanced.html</fileref>
+		<tags><![CDATA[CME Tool 4 Advanced]]></tags>
+	</citem>
+	<citem cmsid="cme_01_jupiter_comet" itemname="CME Tool - 1 - Jupiter" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_01_jupiter_comet.html</fileref>
+		<tags><![CDATA[CME Tool 1 Jupiter]]></tags>
+	</citem>
+	<citem cmsid="cme_02_jupiter_comet" itemname="CME Tool - 2 - Jupiter" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_02_jupiter_comet.html</fileref>
+		<tags><![CDATA[CME Tool 2 Jupiter]]></tags>
+	</citem>
+	<citem cmsid="cme_03_jupiter_comet" itemname="CME Tool - 3 - Jupiter" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_03_jupiter_comet.html</fileref>
+		<tags><![CDATA[CME Tool 3 Jupiter]]></tags>
+	</citem>
+	<citem cmsid="cme_01_jupiter_moon" itemname="CME Tool - 1 - Jupiter - Moon" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_01_jupiter_comet.html</fileref>
+		<tags><![CDATA[CME Tool 1 Jupiter Moon]]></tags>
+	</citem>
+	<citem cmsid="cme_02_jupiter_moon" itemname="CME Tool - 2 - Jupiter - Moon" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_02_jupiter_comet.html</fileref>
+		<tags><![CDATA[CME Tool 2 Jupiter Moon]]></tags>
+	</citem>
+	<citem cmsid="cme_03_jupiter_moon" itemname="CME Tool - 3 - Jupiter - Moon" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_03_jupiter_comet.html</fileref>
+		<tags><![CDATA[CME Tool 3 Jupiter Moon]]></tags>
+	</citem>
+	<citem cmsid="cme_01_mars" itemname="CME Tool - 1 - Mars" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_01_mars.html</fileref>
+		<tags><![CDATA[CME Tool 1 Mars]]></tags>
+	</citem>
+	<citem cmsid="cme_02_mars" itemname="CME Tool - 2 - Mars" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_02_mars.html</fileref>
+		<tags><![CDATA[CME Tool 2 Mars]]></tags>
+	</citem>
+	<citem cmsid="cme_03_mars" itemname="CME Tool - 3 - Mars" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_03_mars.html</fileref>
+		<tags><![CDATA[CME Tool 3 Mars]]></tags>
+	</citem>
+	<citem cmsid="cme_04_mars" itemname="CME Tool - 4 - Mars" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_04_mars.html</fileref>
+		<tags><![CDATA[CME Tool 4 Mars]]></tags>
+	</citem>
+	<citem cmsid="cme_01_moon" itemname="CME Tool - 1 - Moon" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_01_moon.html</fileref>
+		<tags><![CDATA[CME Tool 1 Moon]]></tags>
+	</citem>
+	<citem cmsid="cme_02_moon" itemname="CME Tool - 2 - Moon" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_02_moon.html</fileref>
+		<tags><![CDATA[CME Tool 2 Moon]]></tags>
+	</citem>
+	<citem cmsid="cme_03_moon" itemname="CME Tool - 3 - Moon" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_03_moon.html</fileref>
+		<tags><![CDATA[CME Tool 3 Moon]]></tags>
+	</citem>
+	<citem cmsid="cme_04_moon" itemname="CME Tool - 4 - Moon" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_04_moon.html</fileref>
+		<tags><![CDATA[CME Tool 4 Moon]]></tags>
+	</citem>
+	<citem cmsid="cme_procedures_default" itemname="CME Procedures" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_procedures_default.html</fileref>
+		<tags><![CDATA[CME Procedures]]></tags>
+	</citem>
+	<citem cmsid="cme_procedures_mars" itemname="CME Procedures Mars" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>cme_procedures_mars.html</fileref>
+		<tags><![CDATA[CME Procedures Mars]]></tags>
+	</citem>
+	<citem cmsid="mars_weather_data" itemname="Mars Weather Data" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>mars_weather_data.html</fileref>
+		<tags><![CDATA[Mars Weather Data]]></tags>
+	</citem>
+	<citem cmsid="SolarPanels" itemname="Solar Panels" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>SolarPanels.swf</fileref>
+		<tags><![CDATA[Solar Panels]]></tags>
+	</citem>
+	<citem cmsid="SolarPanels_comet" itemname="Solar Panels Comet XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>SolarPanels_comet.xml</fileref>
+		<tags><![CDATA[Solar Panels Comet XML Data]]></tags>
+	</citem>
+	<citem cmsid="SolarPanels_moon" itemname="Solar Panels Moon XML Data" formattype="xml" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>SolarPanels_moon.xml</fileref>
+		<tags><![CDATA[Solar Panels Moon XML Data]]></tags>
+	</citem>
+	<citem cmsid="ExteriorCamera" itemname="Mars Exterior Camera" formattype="swf" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ExteriorCamera.swf</fileref>
+		<tags><![CDATA[Exterior Camera]]></tags>
+	</citem>
+	<citem cmsid="DebrisProcedures" itemname="Debris Procedures" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>ContentTool_Template.html?assets=../text/debris_procedures.txt</fileref>
+		<tags><![CDATA[Debris Procedures]]></tags>
+	</citem>
+	
+	
+		
+	<!-- Templates -->
+	<citem cmsid="activate" itemname="Activate Screen Template" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>Activate_Template.html</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="alert" itemname="Alert Screen Template" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>Alert_Template.html</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="task_card" itemname="Task Card Template" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>TaskCard_Template.html</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_page" itemname="Library Page Template" formattype="htm" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_template.html</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Activations -->
+	<citem cmsid="SW_CO1_M_activate" itemname="Comet 1 - Mission Control - Activation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_activate.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_activate_advanced" itemname="Comet 1 - Mission Control - Activation Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_activate_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_activate" itemname="Comet 2 - Mission Control - Activation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_activate.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_activate_advanced" itemname="Comet 2 - Mission Control - Activation Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_activate_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_activate" itemname="Comet 1 - Spacecraft - Activation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_activate.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_activate_advanced" itemname="Comet 1 - Spacecraft - Activation Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_activate_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_activate" itemname="Comet 2 - Spacecraft - Activation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_activate.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_activate_advanced" itemname="Comet 2 - Spacecraft - Activation - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_activate_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_activate" itemname="Mars 1 - Mission Control - Activation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_activate.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_activate_advanced" itemname="Mars 1 - Mission Control - Activation - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_activate_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_activate" itemname="Mars 2 - Mission Control - Activation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_activate.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_activate_advanced" itemname="Mars 2 - Mission Control - Activation - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_activate_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_activate" itemname="Mars 1 - Spacecraft - Activation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_activate.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_activate_advanced" itemname="Mars 1 - Spacecraft - Activation - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_activate_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_activate" itemname="Mars 2 - Spacecraft - Activation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_activate.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_activate_advanced" itemname="Mars 2 - Spacecraft - Activation - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_activate_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_activate" itemname="Moon 1 - Mission Control - Activation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_activate.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_activate_advanced" itemname="Moon 1 - Mission Control - Activation - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_activate_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_activate" itemname="Moon 2 - Mission Control - Activation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_activate.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_activate_advanced" itemname="Moon 2 - Mission Control - Activation - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_activate_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_activate" itemname="Moon 1 - Spacecraft - Activation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_activate.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_activate_advanced" itemname="Moon 1 - Spacecraft - Activation - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_activate_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_activate" itemname="Moon 2 - Spacecraft - Activation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_activate.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_activate_advanced" itemname="Moon 2 - Spacecraft - Activation - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_activate_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Default Cards -->
+		<!-- Comet 1 - Mission Control -->
+	<citem cmsid="SW_CO1_M_01_default" itemname="Comet 1 - Mission Control - Task 1 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_01_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_02_default" itemname="Comet 1 - Mission Control - Task 2 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_02_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_03_default" itemname="Comet 1 - Mission Control - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_03_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_04_default" itemname="Comet 1 - Mission Control - Task 4 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_04_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Comet 2 - Mission Control -->
+	<citem cmsid="SW_CO2_M_01_default" itemname="Comet 2 - Mission Control - Task 1 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_01_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_02_default" itemname="Comet 2 - Mission Control - Task 2 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_02_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_03_default" itemname="Comet 2 - Mission Control - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_03_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_04_default" itemname="Comet 2 - Mission Control - Task 4 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_04_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_05_default" itemname="Comet 2 - Mission Control - Task 5 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_05_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Comet 1 - Spacecraft -->
+	<citem cmsid="SW_CO1_S_01_default" itemname="Comet 1 - Spacecraft - Task 1 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_01_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_02_default" itemname="Comet 1 - Spacecraft - Task 2 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_02_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_03_default" itemname="Comet 1 - Spacecraft - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_03_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_04_default" itemname="Comet 1 - Spacecraft - Task 4 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_04_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_05_default" itemname="Comet 1 - Spacecraft - Task 5 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_05_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Comet 2 - Spacecraft -->
+	<citem cmsid="SW_CO2_S_01_default" itemname="Comet 2 - Spacecraft - Task 1 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_01_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_02_default" itemname="Comet 2 - Spacecraft - Task 2 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_02_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_03_default" itemname="Comet 2 - Spacecraft - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_03_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_04_default" itemname="Comet 2 - Spacecraft - Task 4 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_04_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_05_default" itemname="Comet 2 - Spacecraft - Task 5 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_05_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Mars 1 - Mars Control -->
+	<citem cmsid="SW_MA1_M_01_default" itemname="Mars 1 - Mars Control - Task 1 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_01_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_02_default" itemname="Mars 1 - Mars Control - Task 2 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_02_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_03_default" itemname="Mars 1 - Mars Control - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_03_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_04_default" itemname="Mars 1 - Mars Control - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_04_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Mars 2 - Mars Control -->
+	<citem cmsid="SW_MA2_M_01_default" itemname="Mars 2 - Mars Control - Task 1 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_01_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_02_default" itemname="Mars 2 - Mars Control - Task 2 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_02_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_03_default" itemname="Mars 2 - Mars Control - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_03_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_04_default" itemname="Mars 2 - Mars Control - Task 4 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_04_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_05_default" itemname="Mars 2 - Mars Control - Task 5 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_05_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Mars 1 - Mars Lander -->
+	<citem cmsid="SW_MA1_S_01_default" itemname="Mars 1 - Mars Lander - Task 1 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_01_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_02_default" itemname="Mars 1 - Mars Lander - Task 2 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_02_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_03_default" itemname="Mars 1 - Mars Lander - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_03_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_04_default" itemname="Mars 1 - Mars Lander - Task 4 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_04_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_05_default" itemname="Mars 1 - Mars Lander - Task 5 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_05_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Mars 2 - Mars Lander -->
+	<citem cmsid="SW_MA2_S_01_default" itemname="Mars 2 - Mars Lander - Task 1 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_01_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_02_default" itemname="Mars 2 - Mars Lander - Task 2 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_02_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_03_default" itemname="Mars 2 - Mars Lander - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_03_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_04_default" itemname="Mars 2 - Mars Lander - Task 4 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_04_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_05_default" itemname="Mars 2 - Mars Lander - Task 5 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_05_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Moon 1 - Mission Control -->
+	<citem cmsid="SW_MO1_M_01_default" itemname="Moon 1 - Mission Control - Task 1 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_01_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_02_default" itemname="Moon 1 - Mission Control - Task 2 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_02_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_03_default" itemname="Moon 1 - Mission Control - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_03_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_04_default" itemname="Moon 1 - Mission Control - Task 4 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_04_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Moon 2 - Mission Control -->
+	<citem cmsid="SW_MO2_M_01_default" itemname="Moon 2 - Mission Control - Task 1 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_01_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_02_default" itemname="Moon 2 - Mission Control - Task 2 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_02_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_03_default" itemname="Moon 2 - Mission Control - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_03_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_04_default" itemname="Moon 2 - Mission Control - Task 4 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_04_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_05_default" itemname="Moon 2 - Mission Control - Task 5 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_05_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Moon 1 Spacecraft -->
+	<citem cmsid="SW_MO1_S_01_default" itemname="Moon 1 - Spacecraft - Task 1 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_01_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_02_default" itemname="Moon 1 - Spacecraft - Task 2 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_02_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_03_default" itemname="Moon 1 - Spacecraft - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_03_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_04_default" itemname="Moon 1 - Spacecraft - Task 4 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_04_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_05_default" itemname="Moon 1 - Spacecraft - Task 5 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_05_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Moon 2 Spacecraft -->
+	<citem cmsid="SW_MO2_S_01_default" itemname="Moon 2 - Spacecraft - Task 1 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_01_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_02_default" itemname="Moon 2 - Spacecraft - Task 2 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_02_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_03_default" itemname="Moon 2 - Spacecraft - Task 3 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_03_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_04_default" itemname="Moon 2 - Spacecraft - Task 4 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_04_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_05_default" itemname="Moon 2 - Spacecraft - Task 5 - No Task Card Selected Default" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_05_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<!-- Task Cards -->
+	
+		<!-- Comet 1 - Mission Control -->
+	<citem cmsid="SW_CO1_M_00_tc01" itemname="Comet 1 - Mission Control - Intro - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_00_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_00_tc01_advanced" itemname="Comet 1 - Mission Control - Intro - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_00_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_00_tc02" itemname="Comet 1 - Mission Control - Intro - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_00_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_01_tc01" itemname="Comet 1 - Mission Control - Task 1 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_01_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_01_tc02" itemname="Comet 1 - Mission Control - Task 1 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_01_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_01_tc03" itemname="Comet 1 - Mission Control - Task 1 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_01_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_01_tc02_advanced" itemname="Comet 1 - Mission Control - Task 1 - Task Card 2 Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_01_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_01_tc03_advanced" itemname="Comet 1 - Mission Control - Task 1 - Task Card 3 Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_01_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_01_tc04_advanced" itemname="Comet 1 - Mission Control - Task 1 - Task Card 4 Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_01_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_01_tc05_advanced" itemname="Comet 1 - Mission Control - Task 1 - Task Card 5 Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_01_tc05_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_02_tc01" itemname="Comet 1 - Mission Control - Task 2 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_02_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_02_tc02" itemname="Comet 1 - Mission Control - Task 2 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_02_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_02_tc03" itemname="Comet 1 - Mission Control - Task 2 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_02_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_03_tc02_green_screen" itemname="Comet 1 - Mission Control - Task 2 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_03_tc02_green_screen.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<citem cmsid="SW_CO1_M_02_tc03_advanced" itemname="Comet 1 - Mission Control - Task 2 - Task Card 3 Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_02_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_02_tc04_advanced" itemname="Comet 1 - Mission Control - Task 2 - Task Card 4 Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_02_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_03_tc01" itemname="Comet 1 - Mission Control - Task 3- Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_03_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_03_tc02" itemname="Comet 1 - Mission Control - Task 3- Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_03_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_M_04_tc01" itemname="Comet 1 - Mission Control - Task 4- Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_04_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>	
+		<!-- Comet 2 - Mission Control -->
+	<citem cmsid="SW_CO2_M_00_tc01" itemname="Comet 2 - Mission Control - Intro - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_00_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_00_tc01_advanced" itemname="Comet 2 - Mission Control - Intro - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_00_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_00_tc02" itemname="Comet 2 - Mission Control - Intro - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_00_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_01_tc01" itemname="Comet 2 - Mission Control - Task 1 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_01_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_01_tc02" itemname="Comet 2 - Mission Control - Task 1 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_01_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_01_tc03" itemname="Comet 2 - Mission Control - Task 1 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_01_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_01_tc04" itemname="Comet 2 - Mission Control - Task 1 - Task Card 4" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_01_tc04.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_02_tc01" itemname="Comet 2 - Mission Control - Task 2 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_02_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_02_tc02" itemname="Comet 2 - Mission Control - Task 2 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_02_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_02_tc03" itemname="Comet 2 - Mission Control - Task 2 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_02_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_03_tc01" itemname="Comet 2 - Mission Control - Task 3 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_03_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_03_tc02" itemname="Comet 2 - Mission Control - Task 3 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_03_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_03_tc03" itemname="Comet 2 - Mission Control - Task 3 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_03_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_03_tc03_green_screen" itemname="Comet 2 - Mission Control - Task 3 - Task Card 3 - Green Screen" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_03_tc03_green_screen.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_04_tc01" itemname="Comet 2 - Mission Control - Task 4 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_04_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_04_tc01_advanced" itemname="Comet 2 - Mission Control - Task 4 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_04_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_05_tc01" itemname="Comet 2 - Mission Control - Task 5 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_05_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_05_tc02" itemname="Comet 2 - Mission Control - Task 5 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_05_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+		<!-- Comet 1 Spacecraft -->
+	<citem cmsid="SW_CO1_S_00_tc01" itemname="Comet 1 - Spacecraft - Intro - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_00_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_00_tc02" itemname="Comet 1 - Spacecraft - Intro - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_00_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_01_tc01" itemname="Comet 1 - Spacecraft - Task 1 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_01_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_01_tc02" itemname="Comet 1 - Spacecraft - Task 1 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_01_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_01_tc03" itemname="Comet 1 - Spacecraft - Task 1 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_01_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_01_tc02_advanced" itemname="Comet 1 - Spacecraft - Task 1 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_01_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_01_tc03_advanced" itemname="Comet 1 - Spacecraft - Task 1 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_01_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_01_tc04_advanced" itemname="Comet 1 - Spacecraft - Task 1 - Task Card 4 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_01_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_01_tc05_advanced" itemname="Comet 1 - Spacecraft - Task 1 - Task Card 5 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_01_tc05_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_02_tc01" itemname="Comet 1 - Spacecraft - Task 2 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_02_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_02_tc02" itemname="Comet 1 - Spacecraft - Task 2 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_02_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_02_tc03" itemname="Comet 1 - Spacecraft - Task 2 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_02_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_02_tc03_advanced" itemname="Comet 1 - Spacecraft - Task 2 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_02_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_02_tc04_advanced" itemname="Comet 1 - Spacecraft - Task 2 - Task Card 4 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_02_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_03_tc01" itemname="Comet 1 - Spacecraft - Task 3 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_03_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_03_tc02" itemname="Comet 1 - Spacecraft - Task 3 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_03_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_03_tc02_advanced" itemname="Comet 1 - Spacecraft - Task 3 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_03_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_03_tc03_advanced" itemname="Comet 1 - Spacecraft - Task 3 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_03_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_04_tc01" itemname="Comet 1 - Spacecraft - Task 4 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_04_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_04_tc01_advanced" itemname="Comet 1 - Spacecraft - Task 4 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_04_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_04_tc02_advanced" itemname="Comet 1 - Spacecraft - Task 4 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_04_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_05_tc01" itemname="Comet 1 - Spacecraft - Task 5 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_05_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+		
+		<!-- Comet 2 Spacecraft -->
+	<citem cmsid="SW_CO2_S_00_tc01" itemname="Comet 2 - Spacecraft - Intro - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_00_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_00_tc02" itemname="Comet 2 - Spacecraft - Intro - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_00_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_01_tc01" itemname="Comet 2 - Spacecraft - Task 1 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_01_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_01_tc02" itemname="Comet 2 - Spacecraft - Task 1 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_01_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_01_tc03" itemname="Comet 2 - Spacecraft - Task 1 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_01_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_01_tc04" itemname="Comet 2 - Spacecraft - Task 1 - Task Card 4" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_01_tc04.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_01_tc04_advanced" itemname="Comet 2 - Spacecraft - Task 1 - Task Card 4 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_01_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_01_tc05_advanced" itemname="Comet 2 - Spacecraft - Task 1 - Task Card 5 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_01_tc05_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_02_tc01_advanced" itemname="Comet 2 - Spacecraft - Task 2 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_02_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_03_tc01" itemname="Comet 2 - Spacecraft - Task 3 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_03_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_03_tc01_advanced" itemname="Comet 2 - Spacecraft - Task 3 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_03_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_03_tc02_advanced" itemname="Comet 2 - Spacecraft - Task 3 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_03_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_04_tc01" itemname="Comet 2 - Spacecraft - Task 4 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_04_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_04_tc01_advanced" itemname="Comet 2 - Spacecraft - Task 4 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_04_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_05_tc01" itemname="Comet 2 - Spacecraft - Task 5 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_05_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_05_tc02" itemname="Comet 2 - Spacecraft - Task 5 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_05_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_05_tc03" itemname="Comet 2 - Spacecraft - Task 5 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_05_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_05_tc04" itemname="Comet 2 - Spacecraft - Task 5 - Task Card 4" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_05_tc04.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_05_tc05" itemname="Comet 2 - Spacecraft - Task 5 - Task Card 5" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_05_tc05.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_06_tc01" itemname="Comet 2 - Spacecraft - Task 6 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_06_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_06_tc02" itemname="Comet 2 - Spacecraft - Task 6 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_06_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+		<!-- Mars 1 Mission Control -->
+	<citem cmsid="SW_MA1_M_00_tc01" itemname="Mars 1 - Mission Control - Intro - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_00_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_00_tc02" itemname="Mars 1 - Mission Control - Intro - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_00_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_01_tc01" itemname="Mars 1 - Mission Control - Task 1 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_01_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_01_tc02" itemname="Mars 1 - Mission Control - Task 1 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_01_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_01_tc03" itemname="Mars 1 - Mission Control - Task 1 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_01_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_01_tc02_advanced" itemname="Mars 1 - Mission Control - Task 1 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_01_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_01_tc03_advanced" itemname="Mars 1 - Mission Control - Task 1 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_01_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_01_tc04_advanced" itemname="Mars 1 - Mission Control - Task 1 - Task Card 4 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_01_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_01_tc05_advanced" itemname="Mars 1 - Mission Control - Task 1 - Task Card 5 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_01_tc05_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_02_tc01" itemname="Mars 1 - Mission Control - Task 2 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_02_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_02_tc02" itemname="Mars 1 - Mission Control - Task 2 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_02_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_02_tc03" itemname="Mars 1 - Mission Control - Task 2 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_02_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_02_tc03_advanced" itemname="Mars 1 - Mission Control - Task 2 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_02_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_02_tc04_advanced" itemname="Mars 1 - Mission Control - Task 2 - Task Card 4 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_02_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_03_tc01" itemname="Mars 1 - Mission Control - Task 3 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_03_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_03_tc02" itemname="Mars 1 - Mission Control - Task 3 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_03_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_03_tc02_green_screen" itemname="Mars 1 - Mission Control - Task 3 - Task Card 2 - Green Screen" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_03_tc02_green_screen.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_04_tc01" itemname="Mars 1 - Mission Control - Task 4 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_04_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+		<!-- Mars 2 Mission Control -->
+	<citem cmsid="SW_MA2_M_00_tc01" itemname="Mars 2 - Mission Control - Intro - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_00_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_00_tc02" itemname="Mars 2 - Mission Control - Intro - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_00_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_01_tc01" itemname="Mars 2 - Mission Control - Task 1 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_01_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_01_tc02" itemname="Mars 2 - Mission Control - Task 1 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_01_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_01_tc03" itemname="Mars 2 - Mission Control - Task 1 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_01_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_02_tc01" itemname="Mars 2 - Mission Control - Task 2 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_02_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_02_tc02" itemname="Mars 2 - Mission Control - Task 2 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_02_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_02_tc03" itemname="Mars 2 - Mission Control - Task 2 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_02_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_03_tc01" itemname="Mars 2 - Mission Control - Task 3 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_03_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_03_tc02" itemname="Mars 2 - Mission Control - Task 3 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_03_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_03_tc02_green_screen" itemname="Mars 2 - Mission Control - Task 3 - Task Card 2 - Green Screen" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_03_tc02_green_screen.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_04_tc01" itemname="Mars 2 - Mission Control - Task 4 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_04_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_04_tc01_advanced" itemname="Mars 2 - Mission Control - Task 4 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_04_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_05_tc01" itemname="Mars 2 - Mission Control - Task 5 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_05_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+		<!-- Mars 1 Spacecraft -->
+	<citem cmsid="SW_MA1_S_00_tc01" itemname="Mars 1 - Spacecraft - Intro - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_00_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_00_tc02" itemname="Mars 1 - Spacecraft - Intro - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_00_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_01_tc01" itemname="Mars 1 - Spacecraft - Task 1 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_01_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_01_tc02" itemname="Mars 1 - Spacecraft - Task 1 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_01_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_01_tc03" itemname="Mars 1 - Spacecraft - Task 1 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_01_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_01_tc04" itemname="Mars 1 - Spacecraft - Task 1 - Task Card 4" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_01_tc04.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_02_tc01" itemname="Mars 1 - Spacecraft - Task 2 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_02_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_02_tc02" itemname="Mars 1 - Spacecraft - Task 2 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_02_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_02_tc03" itemname="Mars 1 - Spacecraft - Task 2 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_02_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_02_tc03_advanced" itemname="Mars 1 - Spacecraft - Task 2 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_02_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_02_tc04_advanced" itemname="Mars 1 - Spacecraft - Task 2 - Task Card 4 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_02_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_03_tc01" itemname="Mars 1 - Spacecraft - Task 3 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_03_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_03_tc02" itemname="Mars 1 - Spacecraft - Task 3 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_03_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_03_tc02_advanced" itemname="Mars 1 - Spacecraft - Task 3 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_03_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_03_tc03_advanced" itemname="Mars 1 - Spacecraft - Task 3 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_03_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_04_tc01" itemname="Mars 1 - Spacecraft - Task 4 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_04_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_04_tc01_advanced" itemname="Mars 1 - Spacecraft - Task 4 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_04_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_04_tc02_advanced" itemname="Mars 1 - Spacecraft - Task 4 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_04_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_04_tc03_advanced" itemname="Mars 1 - Spacecraft - Task 4 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_04_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_05_tc01" itemname="Mars 1 - Spacecraft - Task 5 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_05_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+		<!-- Mars 2 Spacecraft -->
+	<citem cmsid="SW_MA2_S_00_tc01" itemname="Mars 2 - Spacecraft - Intro - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_00_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_00_tc02" itemname="Mars 2 - Spacecraft - Intro - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_00_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_01_tc01" itemname="Mars 2 - Spacecraft - Task 1 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_01_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_01_tc02" itemname="Mars 2 - Spacecraft - Task 1 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_01_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_01_tc03" itemname="Mars 2 - Spacecraft - Task 1 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_01_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_02_tc01_advanced" itemname="Mars 2 - Spacecraft - Task 2 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_02_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_03_tc01" itemname="Mars 2 - Spacecraft - Task 3 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_03_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_03_tc01_advanced" itemname="Mars 2 - Spacecraft - Task 3 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_03_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_03_tc02_advanced" itemname="Mars 2 - Spacecraft - Task 3 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_03_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_03_tc03_advanced" itemname="Mars 2 - Spacecraft - Task 3 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_03_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_04_tc01" itemname="Mars 2 - Spacecraft - Task 4 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_04_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_04_tc01_advanced" itemname="Mars 2 - Spacecraft - Task 4 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_04_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_05_tc01" itemname="Mars 2 - Spacecraft - Task 5 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_05_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_05_tc02" itemname="Mars 2 - Spacecraft - Task 5 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_05_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+		<!-- Moon 1 - Mission Control -->
+	<citem cmsid="SW_MO1_M_00_tc01" itemname="Moon 1 - Mission Control - Intro - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_00_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_00_tc02" itemname="Moon 1 - Mission Control - Intro - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_00_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_01_tc01" itemname="Moon 1 - Mission Control - Task 1 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_01_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_01_tc02" itemname="Moon 1 - Mission Control - Task 1 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_01_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_01_tc03" itemname="Moon 1 - Mission Control - Task 1 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_01_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_01_tc02_advanced" itemname="Moon 1 - Mission Control - Task 1 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_01_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_01_tc03_advanced" itemname="Moon 1 - Mission Control - Task 1 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_01_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_01_tc04_advanced" itemname="Moon 1 - Mission Control - Task 1 - Task Card 4 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_01_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_01_tc05_advanced" itemname="Moon 1 - Mission Control - Task 1 - Task Card 5 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_01_tc05_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_02_tc01" itemname="Moon 1 - Mission Control - Task 2 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_02_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_02_tc02" itemname="Moon 1 - Mission Control - Task 2 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_02_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_02_tc03" itemname="Moon 1 - Mission Control - Task 2 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_02_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_02_tc03_advanced" itemname="Moon 1 - Mission Control - Task 2 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_02_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_02_tc04_advanced" itemname="Moon 1 - Mission Control - Task 2 - Task Card 4 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_02_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_03_tc01" itemname="Moon 1 - Mission Control - Task 3 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_03_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_03_tc02" itemname="Moon 1 - Mission Control - Task 3 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_03_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_03_tc02_green_screen" itemname="Moon 1 - Mission Control - Task 3 - Task Card 2 - Green Screen" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_03_tc02_green_screen.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_04_tc01" itemname="Moon 1 - Mission Control - Task 4 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_04_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+		<!-- Moon 2 - Mission Control -->
+	<citem cmsid="SW_MO2_M_00_tc01" itemname="Moon 2 - Mission Control - Intro - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_00_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_00_tc02" itemname="Moon 2 - Mission Control - Intro - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_00_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_01_tc01" itemname="Moon 2 - Mission Control - Task 1 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_01_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_01_tc02" itemname="Moon 2 - Mission Control - Task 1 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_01_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_01_tc03" itemname="Moon 2 - Mission Control - Task 1 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_01_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_01_tc04" itemname="Moon 2 - Mission Control - Task 1 - Task Card 4" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_01_tc04.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_02_tc01" itemname="Moon 2 - Mission Control - Task 2 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_02_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_02_tc02" itemname="Moon 2 - Mission Control - Task 2 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_02_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_02_tc03" itemname="Moon 2 - Mission Control - Task 2 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_02_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_03_tc01" itemname="Moon 2 - Mission Control - Task 3 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_03_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_03_tc02" itemname="Moon 2 - Mission Control - Task 3 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_03_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_03_tc03" itemname="Moon 2 - Mission Control - Task 3 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_03_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_03_tc03_green_screen" itemname="Moon 2 - Mission Control - Task 3 - Task Card 3 - Green Screen" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_03_tc03_green_screen.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_04_tc01" itemname="Moon 2 - Mission Control - Task 4 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_04_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_04_tc01_advanced" itemname="Moon 2 - Mission Control - Task 4 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_04_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_05_tc01" itemname="Moon 2 - Mission Control - Task 5 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_05_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_05_tc02" itemname="Moon 2 - Mission Control - Task 5 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_05_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+		<!-- Moon 1 - Spacecraft -->
+	<citem cmsid="SW_MO1_S_00_tc01" itemname="Moon 1 - Spacecraft - Intro - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_00_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_00_tc02" itemname="Moon 1 - Spacecraft - Intro - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_00_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_01_tc01" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_01_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_01_tc02" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_01_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_01_tc03" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_01_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_01_tc02_advanced" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_01_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_01_tc03_advanced" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_01_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_01_tc04_advanced" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 4 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_01_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_01_tc05_advanced" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 5 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_01_tc05_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_02_tc01" itemname="Moon 1 - Spacecraft - Task 2 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_02_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_02_tc02" itemname="Moon 1 - Spacecraft - Task 2 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_02_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_02_tc03" itemname="Moon 1 - Spacecraft - Task 2 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_02_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_02_tc03_advanced" itemname="Moon 1 - Spacecraft - Task 2 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_02_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_02_tc04_advanced" itemname="Moon 1 - Spacecraft - Task 2 - Task Card 4 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_02_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_03_tc01" itemname="Moon 1 - Spacecraft - Task 3 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_03_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_03_tc02" itemname="Moon 1 - Spacecraft - Task 3 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_03_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_03_tc02_advanced" itemname="Moon 1 - Spacecraft - Task 3 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_03_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_03_tc03_advanced" itemname="Moon 1 - Spacecraft - Task 3 - Task Card 3 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_03_tc03_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_04_tc01" itemname="Moon 1 - Spacecraft - Task 4 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_04_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_04_tc01_advanced" itemname="Moon 1 - Spacecraft - Task 4 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_04_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_04_tc02_advanced" itemname="Moon 1 - Spacecraft - Task 4 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_04_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_05_tc01" itemname="Moon 1 - Spacecraft - Task 5 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_05_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+		<!-- Moon 2 - Spacecraft -->
+	<citem cmsid="SW_MO2_S_00_tc01" itemname="Moon 1 - Spacecraft - Intro - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_00_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_00_tc02" itemname="Moon 1 - Spacecraft - Intro - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_00_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_01_tc01" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_01_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_01_tc02" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_01_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_01_tc03" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_01_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_01_tc04" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 4" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_01_tc04.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_01_tc04_advanced" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 4 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_01_tc04_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_01_tc05_advanced" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 5 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_01_tc05_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_01_tc06_advanced" itemname="Moon 1 - Spacecraft - Task 1 - Task Card 6 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_01_tc06_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_02_tc01_advanced" itemname="Moon 1 - Spacecraft - Task 2 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_02_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_03_tc01" itemname="Moon 1 - Spacecraft - Task 3 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_03_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_03_tc01_advanced" itemname="Moon 1 - Spacecraft - Task 3 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_03_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_03_tc02_advanced" itemname="Moon 1 - Spacecraft - Task 3 - Task Card 2 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_03_tc02_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_04_tc01" itemname="Moon 1 - Spacecraft - Task 4 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_04_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_04_tc01_advanced" itemname="Moon 1 - Spacecraft - Task 4 - Task Card 1 - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_04_tc01_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_05_tc01" itemname="Moon 1 - Spacecraft - Task 5 - Task Card 1" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_05_tc01.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_05_tc02" itemname="Moon 1 - Spacecraft - Task 5 - Task Card 2" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_05_tc02.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_05_tc03" itemname="Moon 1 - Spacecraft - Task 5 - Task Card 3" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_05_tc03.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_05_tc04" itemname="Moon 1 - Spacecraft - Task 5 - Task Card 4" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_05_tc04.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_05_tc05" itemname="Moon 1 - Spacecraft - Task 5 - Task Card 5" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_05_tc05.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+
+	<!-- Events -->
+	<citem cmsid="SW_CO1_M_02_event1" itemname="Comet Mission Control - Alert" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_m_02_event1.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_M_05_event1" itemname="Comet Mission Control - Alert" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_m_05_event1.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO1_S_02_event1" itemname="Comet Spacecraft - Alert" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co1_s_02_event1.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_CO2_S_06_event1" itemname="Comet Spacecraft - Alert" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_co2_s_06_event1.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_M_02_event1" itemname="Mars Mission Control - Alert" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_m_02_event1.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_M_05_event1" itemname="Mars Mission Control - Alert" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_m_05_event1.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA1_S_02_event1" itemname="Mars Spacecraft - Alert" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma1_s_02_event1.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MA2_S_05_event1" itemname="Mars Spacecraft - Alert" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_ma2_s_05_event1.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_M_02_event1" itemname="Moon Mission Control - Alert" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_m_02_event1.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_05_event1" itemname="Moon Mission Control - Alert - Space Debris" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_05_event1.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_M_05_event2" itemname="Moon Mission Control - Alert - Meteor Shower" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_m_05_event2.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO1_S_02_event1" itemname="Moon Spacecraft - Alert" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo1_s_02_event1.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_05_event1" itemname="Moon Spacecraft - Alert - Meteor Shower" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_05_event1.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="SW_MO2_S_05_event2" itemname="Moon Spacecraft - Alert - Space Debris" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>sw_mo2_s_05_event2.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	
+
+	<!-- Library -->
+	<citem cmsid="library_aurora_default" itemname="Library - Aurora" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_aurora_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_aurora_image" itemname="Library - Aurora - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_aurora.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_aurora_earth" itemname="Library - Aurora - Earth" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_aurora_earth.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_aurora_earth_image_01" itemname="Library - Aurora - Earth - Image - 1" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_aurora_earth1.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_aurora_earth_image_02" itemname="Library - Aurora - Earth - Image - 2" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_aurora_earth2.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<citem cmsid="library_aurora_mars" itemname="Library - Aurora - Mars" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_aurora_mars.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_aurora_mars_image_01" itemname="Library - Aurora - Mars - Image - 1" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_aurora_mars1.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_aurora_mars_image_02" itemname="Library - Aurora - Mars - Image - 2" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_aurora_mars2.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_constant_solar_effects_on_earth_advanced" itemname="Library - Constant Solar Effects on Earth Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_constant_solar_effects_on_earth_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_constant_solar_effects_on_earth_advanced_image" itemname="Library - Constant Solar Effects on Earth Advanced - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_constant_solar_effects_advanced.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_corona_default" itemname="Library - Corona" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_corona_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_coronal_mass_ejection_default" itemname="Library - Coronal Mass Ejection" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_coronal_mass_ejection_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_coronal_mass_ejection_video" itemname="Library - Coronal Mass Ejection - Video SWF" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_coronal_mass_ejection_video.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_coronal_mass_ejection_impacts_default" itemname="Library - Coronal Mass Ejection Impacts" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_coronal_mass_ejection_impacts_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_coronal_mass_ejection_impacts_mars" itemname="Library - Coronal Mass Ejection Impacts - Mars" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_coronal_mass_ejection_impacts_mars.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_coronal_mass_ejection_impacts_image" itemname="Library - Coronal Mass Ejection Impacts" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_coronal_mass_ejection_impacts.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_cosmic_radiation_default" itemname="Library - Cosmic Radiation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_cosmic_radiation_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_deep_space_network_default" itemname="Library - Deep Space Network" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_deep_space_network_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_deep_space_network_image" itemname="Library - Deep Space Network - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_deep_space_network.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_dust_storms_mars" itemname="Library - Dust Storm on Mars" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_dust_storms_mars.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_dust_storms_mars_image_01" itemname="Library - Dust Storm on Mars - Image 1" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_dust_storms_mars_01.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_dust_storms_mars_image_02" itemname="Library - Dust Storm on Mars - Image 2" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_dust_storms_mars_02.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_earth_atmosphere_default" itemname="Library - Earth's Atmosphere " formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_earth_atmosphere_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_geomagnetic_storm_default" itemname="Library - Geomagnetic Storm" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_geomagnetic_storm_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_glovebox_default" itemname="Library - Glovebox" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_glovebox_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_lagrange_points_default" itemname="Library - Lagrange Points" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_lagrange_points_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_mars_default" itemname="Library - Mars" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_mars_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_mars_image_01" itemname="Library - Mars - Image 1" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_mars_01.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_mars_image_02" itemname="Library - Mars - Image 2" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_mars_02.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_magnetic_field_advanced" itemname="Library - Magnetic Field Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_magnetic_field_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_magnetic_field_advanced_image_01" itemname="Library - Magnetic Field Advanced - 01" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_magnetic_field_02.gif</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_magnetic_field_advanced_image_02" itemname="Library - Magnetic Field Advanced - 02" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_magnetic_field_03.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_magnetic_field_advanced_image_03" itemname="Library - Magnetic Field Advanced - 03" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_magnetic_field_04.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_magnetic_field_advanced_video" itemname="Library - Magnetic Field Advanced - Video" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_magnetic_field_video.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_magnetic_field_advanced_image_01_caption" itemname="Library - Magnetic Field Advanced - Image 1 - Caption" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_magnetic_field_advanced_image_01_caption.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_magnetic_field_advanced_image_02_caption" itemname="Library - Magnetic Field Advanced - Image 2 - Caption" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_magnetic_field_advanced_image_02_caption.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_magnetic_field_advanced_image_03_caption" itemname="Library - Magnetic Field Advanced - Image 3 - Caption" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_magnetic_field_advanced_image_03_caption.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_magnetic_field_advanced_image_04_caption" itemname="Library - Magnetic Field Advanced - Image 4 - Caption" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_magnetic_field_advanced_image_04_caption.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_magnetogram_default" itemname="Library - Magnetogram" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_magnetogram_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_magnetosphere_default" itemname="Library - Magnetosphere" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_magnetosphere_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_mars_dust_storms_default" itemname="Library - Mars Dust Storms" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_mars_dust_storms_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_mars_magnetosphere_advanced" itemname="Library - Mars Magnetosphere - Advanced" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_mars_magnetosphere_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_mars_magnetosphere_advanced_image_01" itemname="Library - Mars Magnetosphere - Advanced - Image 1" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_mars_magnetosphere_advanced_01.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_mars_magnetic_fields_default" itemname="Library - Mars Magnetic Fields" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_mars_magnetic_fields_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_mars_magnetic_fields_image" itemname="Library - Mars Magnetic Fields - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_mars_magnetic_fields.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_mars_surface_cmes_default" itemname="Library - Mars Surface and CMEs" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_mars_surface_cmes_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_mars_surface_cmes_image" itemname="Library - Mars Surface and CMEs - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_mars_surface_cmes.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_meteor_showers_default" itemname="Library - Meteor Showers" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_meteor_showers_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_plasma_default" itemname="Library - Plasma" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_plasma_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<citem cmsid="library_power_grids_cmes_default" itemname="Library - Power Grids and CMEs" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_power_grids_cmes_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_power_grids_cmes_image" itemname="Library - Power Grids and CMEs - Image" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_power_grids_cmes_image.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<citem cmsid="library_radiation_default" itemname="Library - Radiation" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_radiation_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_satellite_default" itemname="Library - Satellite" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_satellite_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_satellites_cmes_default" itemname="Library - Satellites and CMEs" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_satellites_cmes_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_satellites_cmes_mars" itemname="Library - Satellites and CMEs - Mars" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_satellites_cmes_mars.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_satellites_cmes_image" itemname="Library - Satellites and CMEs - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_satellites_cmes.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_solar_cycles_advanced" itemname="Library - Solar Cycles" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_solar_cycles_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_solar_cycles_advanced_image" itemname="Library - Solar Cycles - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_solar_cycles_advanced.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_solar_flares_default" itemname="Library - Solar Flares" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_solar_flares_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_solar_wind_default" itemname="Library - Solar Wind" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_solar_wind_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_sound_aurora_advanced" itemname="Library - Sound of the Aurora" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_sound_aurora_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_spacecraft_cmes_default" itemname="Library - Spacecraft and CMEs" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_spacecraft_cmes_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_spacecraft_cmes_comet" itemname="Library - Spacecraft and CMEs - Comet" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_spacecraft_cmes_comet.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_spacecraft_cmes_mars" itemname="Library - Spacecraft and CMEs - Mars" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_spacecraft_cmes_mars.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_spacecraft_cmes_image" itemname="Library - Spacecraft and CMEs - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_spacecraft_cmes.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<citem cmsid="library_space_impacts_default" itemname="Library - Space Impacts" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_space_impacts_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_space_weather_default" itemname="Library - Space Weather" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_space_weather_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_space_weather_mars" itemname="Library - Space Weather - Mars" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_space_weather_mars.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_space_weather_image" itemname="Library - Space Weather - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_space_weather.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_space_weather_image_mars" itemname="Library - Space Weather - Mars - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_space_weather_mars.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_solar_storms_advanced" itemname="Library - Solar Storms" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_solar_storms_advanced.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_solar_storms_advanced_image" itemname="Library - Solar Storms - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_solar_storms.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	
+	<citem cmsid="library_sun_default" itemname="Library - Sun" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_sun_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_sun_spots_default" itemname="Library - Sun Spots" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_sun_spots_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_sun_earth_connection_default" itemname="Library - Sun Earth Connection" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_sun_earth_connection_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_sun_earth_connection_image" itemname="Library - Sun Earth Connection - Image" formattype="jpg" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_sun_earth_connection.jpg</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+	<citem cmsid="library_ultraviolet_light_default" itemname="Library - Ultraviolet Light" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>library_ultraviolet_light_default.txt</fileref>
+		<tags><![CDATA[]]></tags>
+	</citem>
+</cindex>

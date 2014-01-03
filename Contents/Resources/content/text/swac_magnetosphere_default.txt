@@ -1,0 +1,20 @@
+<div id="contentBox" class="zoom-disabled">
+	<h1>Magnetosphere</h1>
+	<p>
+		The graph shows the solar wind's effects on <strong><em>Earth's magnetosphere</em></strong>.
+	</p>
+	<p>
+		Each time the yellow line in the graph drops below the dashed white line labeled '0', we know that our magnetosphere has been affected by the solar wind. 
+	</p>
+	<p>
+		Look at the most recent 6 hours of data and locate the lowest points on the graph.
+	</p>
+	<p>
+		Use the following levels to determine the intensity of the storm:
+		<ul>
+			<li><strong>Low (0 to -2)</strong></li>
+			<li><strong>Medium (-2 to -4)</strong></li>
+			<li><strong>High (-4 to -6)</strong></li>
+		</ul>
+	</p>
+</div>

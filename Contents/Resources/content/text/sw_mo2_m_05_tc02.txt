@@ -1,0 +1,10 @@
+<p>Your team needs to monitor the battery power while the solar panels are turned away from the Sun. If the power falls below acceptable limits, you must contact the Spacecraft immediately to move them back to face the Sun to continue providing essential electricity to the spacecraft.</p>
+<ol>
+	<li>Monitor the solar panel batteries by clicking on the <strong>Battery Power</strong> button on the right side of the screen.</li>
+	<li>Read the information. Start the monitor by clicking on the <strong>SYSTEM STATUS CHECK</strong> button.</li>
+	<li>When the readings fall into the Yellow or Red Zones send this message to the Spacecraft: "<strong>Battery power is running low, please orient the solar panels back to the Sun</strong>."</li>
+	<li>You will receive a <strong>confirmation code</strong> from the Spacecraft. Type in the code and click on the <strong>ENTER</strong> button.</li>
+	<li>When the levels return to the Green Zone, the solar panels are again providing power to the Spacecraft.</li>
+	<li>Close the Battery Power monitor by clicking on the X in the upper right corner of the window.</li>
+	<li>Inform the <strong>Flight Director</strong> that the battery power levels are restored and that you have completed all of your tasks. You are now free to explore the LIBRARY to learn more about Space Weather.</li>
+</ol>

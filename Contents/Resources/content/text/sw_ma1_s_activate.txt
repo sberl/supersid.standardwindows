@@ -1,0 +1,30 @@
+<div id="content">
+			
+	<h1>Welcome to the Mars Lander</h1>
+
+	<p><br /><br />
+	The <strong><em><a href="event:loadCItem('ResearchSpaceWeatherhtm','Library')">Space Weather</a></em></strong> Team monitors space weather by measuring activity on the <strong><em><a href="event:loadCItem('ResearchSunhtm','Library')">Sun</a></em></strong>.
+	</p>
+	
+	<p>
+A <strong><em><a href="event:loadCItem('ResearchSolarStormhtm','Library')">solar storm</a></em></strong> could interfere with technology on the Mars Lander and in Mars Control. 
+You will complete a lab to learn more about <strong><em><a href="event:loadCItem('ResearchEarthMagnetospherehtm','Library')">Earth's magnetosphere</a></em></strong>.
+	</p>
+	
+	<div id="button-area">
+		<div class="activate-note left">
+			<div class="activate-note-text">
+				To do your job, follow the instructions in the task space below.
+			</div>
+		</div>
+		
+		<div class="activate-note right">
+			<div class="activate-note-text">
+				More information about <strong><em>highlighted</em></strong> words can be found in the LIBRARY at the top of the screen.
+			</div>
+		</div>
+		
+	</div>
+	<span class="activate-button"><a id="activate" href="event:closeWindow">Activate Station</a></span>
+	
+</div>

@@ -1,0 +1,11 @@
+<div id="contentBox" class="zoom-disabled">
+	<h1>Polar-orbiting Operational Environmental Satellite (POES) Aurora Data</h1>
+	<p>
+		The image shows the current extent and position of the aurora in the northern hemisphere. 
+		<ul>
+			<li>Red and orange indicate intense auroral activity</li>
+			<li>Yellow indicates moderate activity</li>
+			<li>Blue indicates low auroral activity </li>
+		</ul>
+	</p>
+</div>

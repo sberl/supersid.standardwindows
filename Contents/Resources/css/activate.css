@@ -1,0 +1,196 @@
+.window {
+
+	font-family: Eurostile Condensed;
+	font-size: 20px;
+	color: #FFFFFF;
+	
+	titleWidth: 670px;
+	titleHeight: 36px;
+	contentWidth: 670px;
+	contentHeight: 400px;
+	
+	startX: 177px;
+	startY: 148px;
+	titlePaddingX: 12px;
+	titlePaddingY: 4px;
+	closeButtonPaddingX: -12px;
+	closeButtonPaddingY: 8px;
+	title: false;
+
+	titleBkgdFrameColor: #0A96CB;
+	windowBkgdFrameColor: #0A96CB;
+	
+	screenFillColor: #000000;
+	screenFillAlpha: 0.5;
+	screenFillWidth: 1024px;
+	screenFillHeight: 768px;
+	screenFillX: -177px;
+	screenFillY: -148px;
+}
+
+.html {
+
+	font-family: Time New Roman;
+	font-size: 26px;
+	color: #FF0033;
+	
+	contentWidth: 880px;
+	contentHeight: 400px;
+}
+
+.text {
+
+	font-family: EurostileExtendedTwo;
+	font-size: 34px;
+	color: #990000;
+	
+	contentWidth: 746px;
+	contentHeight: 400px;
+}
+
+body {
+	cursor: default;
+	color: #ffffff;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+}
+
+#content {
+	position: relative;
+	margin-top: 3px;
+	margin-left: 3px;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 624px;
+	height: 384px;
+	background-image: url('../content/images/activate_arrow_left_bg.jpg');
+	background-position: 0px 250px;
+	background-repeat: no-repeat;
+	background-color: #000000;
+}
+	
+	span.activate-button {
+		cursor: pointer;
+		position: absolute;
+		bottom: 25px;
+		right: 250px;
+		display: block;
+		margin-top: 0;
+		margin-right: auto;
+		margin-bottom: 0;
+		margin-left: auto;
+		padding-top: 10px;
+		width: 160px;
+		height: 54px;
+		background: url('../content/images/activate_button.jpg') top left no-repeat;
+		text-align: center;
+		font-size: 12px;
+		color: #000000;
+	}
+	
+	#activate {
+		cursor: pointer;
+	}
+
+.left {
+	float: left;
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	float: right;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+
+/* floating div */
+.activate-note {
+	margin-top: 0;
+	display: block;
+	width: 280px;
+	height: 120px;
+	background: url('../content/images/activate_note.jpg') top left no-repeat;
+	padding-top: 10px;
+	color: #ca6e37;
+}
+
+
+/*
+.activate-note {
+	position: absolute;
+	top: 180px;
+	left: 20px;
+	display: block;
+	width: 240px;
+	height: 100px;
+	background: url('../content/images/activate_note.jpg') top left no-repeat;
+	padding-top: 15px;
+	color: #ca6e37;
+}
+*/
+
+.activate-note-text {
+	width: 230px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-left: 25px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+p {
+	margin-top: 0;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+em {
+	font-size: 16px;
+}
+
+#button-area {
+	display: block;
+	width: 100%;
+	margin-top: 0;
+	padding-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;
+}
+
+h1 {
+	margin-top: 5px;
+	padding-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-family: "Eurostile",Arial,sans-serif; 
+	text-align: center;
+	text-transform: uppercase;
+	color: #66ccff;
+}
+
+a:link, a:visited, a:hover, a:active {
+	color: #ffffff;
+	text-decoration: none;
+	cursor: default;
+}
+
+#activate:link, #activate:visited, #activate:hover, #activate:active {
+	display: block;
+	width: 160px;
+	height: 54px;
+	color: #003366;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;
+	letter-spacing: 0px;
+	line-height: 16px;
+}

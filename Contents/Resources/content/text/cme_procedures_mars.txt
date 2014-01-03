@@ -1,0 +1,33 @@
+<div id="content" class="procedures">
+        
+	<h1>Coronal Mass Ejection Emergency Procedures</h1>
+	
+	<p>
+		If a <strong><a class="researchLink" href="event:loadCItem('ResearchCoronalMassEjectionhtm','Library')">coronal mass ejection (CME)</a></strong> (a cloud of electrically charged particles) passes near a spacecraft, it can cause the buildup of electricity in metal structures and damage sensitive electronics. 
+	</p>
+	
+	<p>
+		High-speed charged particles in the CME can cause the buildup of electrical charge in Mars orbiting telecommunication satellites supporting the "Mars Space Network" that supports communications between the Mars base and the spacecraft.  
+	</p>
+		
+	<p>
+	 There is little or no radiation risk to humans associated with the plasma cloud of a CME, but communications may be affected. 
+	</p>
+	
+	<div class="procedures-info">
+		<div class="procedures-info-text">
+			<p>
+			<strong>In the event of a coronal mass ejection (CME) nearing the Mars Lander:</strong>
+				<ol>
+					<li><strong>All unnecessary computers and electrical equipment should be shut down.
+		</strong></li>
+					<li><strong>The Mars Lander crew needs to end any space walks currently in progress.
+		</strong></li>
+					<li><strong>Mars Control needs to monitor communications with the Mars Lander for any disruptions.  
+		</strong></li>
+				</ol>
+			</p>
+		</div>
+	</div>
+   
+</div>

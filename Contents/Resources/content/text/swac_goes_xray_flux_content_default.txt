@@ -1,0 +1,17 @@
+<div id="contentBox" class="zoom-disabled">
+	<h1>GOES X-Ray Flux</h1>
+	<p>
+		The red line on the graph indicates the level of solar activity. Scientists have created a scale to help determine if a CME has occurred.
+	</p>
+	<p>
+		Use the scale to determine the power of the solar storm. 
+	</p>
+	<ul>
+		<li>A is the lowest level</li>
+		<li>B is 10 times more powerful than A</li>
+		<li>C is 10 times more powerful than B</li>
+		<li>M is 10 times more powerful than C</li>
+		<li>X is 10 times stronger than M</li>
+	</ul>
+	<p class="center"><strong>X-type flares are often CMES.</strong></p>
+</div>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<tools>
+	<tool cmsid="Library">LIBRARY</tool>
+	<tool cmsid="Antenna">ANTENNA</tool>
+	<tool cmsid="SWAC">SWAC</tool>
+	<tool cmsid="SolarPanels">Solar Panels</tool>
+	<tool cmsid="FinalAnalysis">Final Analysis</tool>
+	<tool cmsid="SystemStatus">System Status</tool>
+	<tool cmsid="BatteryPower">Battery Power</tool>
+	<tool cmsid="CME">CME</tool>
+</tools>

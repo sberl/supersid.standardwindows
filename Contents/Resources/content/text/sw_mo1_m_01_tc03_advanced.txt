@@ -1,0 +1,5 @@
+<ol>
+	<li>Look up <strong>Coronal Mass Ejection</strong>.</li>
+	<li>Watch the video and read the information.</li>
+	<li>Go to <strong>Step 4</strong>.</li>
+</ol>

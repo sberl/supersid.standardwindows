@@ -1,0 +1,10 @@
+<p>You need to determine if the coronal mass ejection (CME) is heading towards Earth.</p>
+<ol>
+	<li>Click on the Space Weather Action Center (<strong>SWAC</strong>) button on the right side of the screen.</li>
+	<li>Under <strong>SUNSPOT REGIONS</strong> select <strong>Large Angle and Spectrometric Coronagraph (LASCO)</strong>.</li>
+	<li>Play the movie.</li>
+	<li>Answer <strong>QUESTION 1</strong> on the <strong>CME</strong> section of your <strong>DATA LOG</strong>.</li>
+	<li>If a storm is heading towards Earth, send this message to Mission Control: "<strong>Satellite data indicates a solar flare is headed directly towards the Earth/Moon system</strong>."</li>
+	<li>Close SWAC by clicking on the X in the upper right corner of the window.</li>
+	<li>Go to <strong>Step 2</strong>.</li>
+</ol>

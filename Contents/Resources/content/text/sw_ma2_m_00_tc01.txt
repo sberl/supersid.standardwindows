@@ -1,0 +1,2 @@
+<p>Read the <strong>WELCOME TO MARS CONTROL</strong> message.</p>
+<p>Click on the <strong>ACTIVATE STATION</strong> button.</p>

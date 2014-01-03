@@ -1,0 +1,9 @@
+<p>Satellite data can give us information about the location and intensity of an aurora.</p>
+<ol>
+	<li>Click on the Space Weather Action Center (<strong>SWAC</strong>) on the right side of the screen.</li>
+	<li>Under <strong>AURORA</strong> select <strong>POES Data</strong>.</li>
+	<li>Read the information and look at the image.</li>
+	<li>Answer <strong>QUESTION 2</strong> on the <strong>AURORA</strong> section of your <strong>DATA LOG</strong>.</li>
+	<li>Click on <strong>BACK TO MENU</strong> at the top of the SWAC window.</li>
+	<li>Go to <strong>Step 4</strong>.</li>
+</ol>

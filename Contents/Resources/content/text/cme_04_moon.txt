@@ -1,0 +1,35 @@
+<div id="content" class="cme">
+
+	<div class="cme-info">
+		<div class="cme-info-text center">
+			<p>
+				<strong>
+					MET time is in this format: 
+				</strong>
+			</p>
+			<p>
+				<strong>
+					00:00:00
+				</strong>
+			</p>
+			<p>
+				<strong>
+					Hours : Minutes : Seconds
+				</strong>
+			</p>
+		</div>
+	</div>
+	<p>
+		<strong>When will the CME arrive in Mission Elapsed Time?</strong>
+	</p>
+	<ol>
+		<li>Look at the Mission Elapsed Time (MET) clock at the front of the room.</li>
+		<li>Add the number of minutes until the CME will arrive (your previous answer) to the Mission Elapsed Time (MET).</li>
+	</ol><br><br>
+	<p>
+		This is when the CME is expected to arrive in Mission Elapsed Time (MET).
+	</p>
+	
+	<span class="cme-button"><a id="cme-back" href="ContentTool_Template.html?assets=../text/cme_03_moon.txt">BACK</a></span>
+	
+</div>

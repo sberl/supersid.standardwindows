@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<systems>
+		<system title="Spacecraft">
+			<module title="Communications" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+			<module title="Cameras" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+			<module title="Computers" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+		</system>
+		<system title="Satellites">
+			<module title="Telecommuncations" status="off">
+				<success_message>All Systems Functional</success_message>
+				<error_message><![CDATA[NASA COMSAT 1 – FAILURE<br />INTIATE SYSTEM REBOOT<br />NASA COMSAT 2 –  FUNCTIONAL]]></error_message>
+			</module>
+			<module title="Earth Science" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+			<module title="Telescopes" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+		</system>
+		<system title="Power Grids">
+			<module title="Canada" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+			<module title="U.S." status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+			<module title="Europe" status="on">
+				<success_message>All Systems Functional</success_message>
+				<error_message></error_message>
+			</module>
+		</system>
+	</systems>
+</tool>

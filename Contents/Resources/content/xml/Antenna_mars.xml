@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<form>
+		<open_code>324</open_code>
+		<close_code>786</close_code>
+		<messages>
+			<incorrect_message>The code: !entrycode! is incorrect.</incorrect_message>
+			<extended_message>The antenna has already been extended with the code: !entrycode!. Please use a different code.</extended_message>
+			<retracted_message>The antenna has already been retracted with the code !entrycode!. Please use a different code.</retracted_message>
+		</messages>
+	</form>
+	<animation>
+		<file>sw_antenna.swf</file>
+	</animation>
+</tool>

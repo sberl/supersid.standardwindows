@@ -1,0 +1,29 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Power Grids and CMEs</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<img class="right" src="../images/library_power_grids_cmes.jpg" alt="Power Grids and CMEs" />
+			
+			<span id="more-information">
+				<p>
+					<strong><a href="event:loadToolCItem('Research','ResearchGeomagneticStormhtm')">Geomagnetic storms</a></strong> can induce electrical currents in the ground creating power surges.  These can damage electrical transmission equipment (generators and transformers) in power grids worldwide. 
+				</p>
+				<p>
+				In 1989 the electrical supply was cut off to over 6 million people for 9 hours in Canada and the northeastern U.S. due to a huge geomagnetic storm. 
+				</p>
+				<p>
+By receiving warnings power companies can minimize damage to equipment by disconnecting transformers or by creating temporary blackouts.
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

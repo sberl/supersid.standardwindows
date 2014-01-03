@@ -1,0 +1,23 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Corona</h2>
+	</div>
+	
+	<div id="term-content">
+		
+		<div id="full-pane">
+		
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					The outermost layer of the Sun's atmosphere, visible to the eye during a total solar eclipse; it can also be observed through special filters 
+					and by X-ray cameras aboard satellites. The corona is very hot, up to 1-1.5 million degrees centigrade, and is the source of the solar wind. 
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

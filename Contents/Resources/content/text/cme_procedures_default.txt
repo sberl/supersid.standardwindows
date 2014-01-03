@@ -1,0 +1,29 @@
+<div id="content" class="procedures">
+    
+	<h1>Coronal Mass Ejection Emergency Procedures</h1>
+	
+	<p>
+		If a <strong><a class="researchLink" href="event:loadCItem('ResearchCoronalMassEjectionhtm','Library')">coronal mass ejection (CME)</a></strong> (a cloud of electrically charged particles) passes by a spacecraft, it can cause the buildup of electricity in metal structures and damage sensitive electronics.
+	</p>
+	<p>
+		A CME interacts with Earth's magnetic field creating a <strong><a href="event:loadCItem('ResearchGeomagneticStormhtm','Library')">geomagnetic storm</a></strong> that can damage electrical circuits in satellites and create currents in the ground affecting electrical power grids. 
+	</p>
+	<p>
+	 There is little or no radiation risk to humans on Earth, as <strong><a href="event:loadCItem('ResearchEarthAtmospherehtm','Library')">Earth's atmosphere</a></strong> offers excellent protection to life on Earth from <strong><a href="event:loadCItem('ResearchSpaceWeatherhtm','Library')">space weather</a></strong>. 
+</p>
+
+	<div class="procedures-info">
+		<div class="procedures-info-text">
+			<strong>In the event of a coronal mass ejection (CME) nearing the Spacecraft:</strong>
+			<ol>
+				<li><strong>All unnecessary computers and electrical equipment should be shut down.
+				</strong></li>
+				<li><strong>The Spacecraft crew needs to end any space walks currently in progress.
+				</strong></li>
+				<li><strong>Mission Control needs to monitor communications with the Spacecraft for any disruptions. 
+				</strong></li>
+			</ol>
+		</div>
+	</div>
+	
+</div>

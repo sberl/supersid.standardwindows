@@ -1,0 +1,283 @@
+::selection {
+	background: transparent;
+}
+
+html {
+
+	width: 890px;
+	height: 485px;
+	cursor: default;
+}
+
+body {
+
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	color: #fff;
+	background-color: #333; /* temporary, for testing only */
+}
+
+h1 {
+
+	font-family: "Eurostile",Arial,sans-serif; 
+	margin: 0;
+	padding: 0;
+	color: #3399cc;
+	text-transform: uppercase;
+}
+
+h2 {
+
+	font-family: "Eurostile",Arial,sans-serif;
+	color: #06587a;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0 0 5px 0;
+	border-bottom: 4px solid #ca6e37;
+}
+
+strong a {
+
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: none;
+}
+
+small { 
+
+	font-style: italic;
+}
+
+small.very-small {
+
+	font-size: 10px;
+}
+
+img {
+
+	border-style: solid;
+	border-color: #666666;
+	border-width: 1px;
+}
+
+img[src $= png] {
+
+	border-style: none;
+}
+
+ol {
+
+	padding-left: 20px; 
+}
+
+/*
+dl {
+
+	width: 560px;
+}
+
+dt {
+
+	float: left;
+	margin-right: 10px;
+	font-weight: bold;
+	height: 18px;
+}
+
+dd ul {
+
+	padding-left: 0;
+	text-indent: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	list-style-type: none;
+}
+
+dd {
+
+	margin-left: 52px;
+}
+dd ul li:before {
+
+	content: "- ";
+}
+*/
+
+ul {
+
+	padding-left: 20px;
+}
+
+a:link, a:visited {
+
+	color: #ffffff;
+}
+
+a:hover, a:active {
+
+	color: #ffffff;
+}
+
+.important {
+	text-align: center;
+	width: 295px;
+	padding: 5px;
+	font-weight: bold;
+	background-color: #555;
+	border: 1px solid #999;
+	color: #fff;
+}
+
+.red {
+
+	color: #ff0000;
+}
+
+.green {
+
+	color: #0C0;
+}
+
+.navy {
+
+	color: #6699aa;
+}
+
+.center {
+
+	text-align: center;
+}
+
+.right {
+
+	float: right;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+.left {
+
+	float: left;
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+span.nextbuttontool {
+
+	background: url('../content/images/next_button.png') top right no-repeat;
+	font-size: 0.9em;
+	height: 16px;
+	letter-spacing: -0.1em;
+	font-family: "Eurostile ExtendedTwo","Arial", sans-serif;
+	float: left;
+	padding: 2px 20px 4px 6px;
+	color: #003366;
+	text-transform: uppercase;
+	font-weight: none;
+	text-decoration: none; 
+}
+
+span.nextbutton {
+
+	background: url('../content/images/next_button.png') top right no-repeat;
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+	font-size: 0.9em;
+	height: 16px;
+	letter-spacing: -0.1em;
+	font-family: "Eurostile ExtendedTwo","Arial", sans-serif;
+	float: right;
+	padding: 2px 20px 4px 6px;
+	color: #003366;
+	text-transform: uppercase;
+	font-weight: none;
+	text-decoration: none; 
+}
+
+span.nextbutton a:link, span.nextbutton a:visited span.nextbutton a:hover, span.nextbutton a:active {
+
+	color: #003366;
+	text-decoration: none; 
+}
+
+span.nextbutton:link, span.nextbutton:visited {
+
+	background-position: right 0;
+}
+
+span.nextbutton:hover {
+
+	background-position: right -23px;
+	cursor: pointer;
+}
+
+span.nextbutton:active {
+
+	background-position: right -46px;
+	cursor: pointer;
+}
+
+.messageshort {
+
+	width: 240px;
+}
+
+.message {
+
+	width: 360px;
+}
+
+.messagelong {
+
+	width: 400px;
+}
+
+ol.extended li {
+
+	margin-bottom: 10px;
+}
+
+#research {
+
+	background-color: #ffffff;
+	position: relative;
+	padding: 20px;
+	width: 660px;
+	height: 370px;
+}
+
+#term-content {
+
+	padding-right: 20px;
+	padding-bottom: 10px;
+	width: 640px;
+	height: 330px;
+	overflow: auto;
+	color: #333333;
+}
+
+#term-content strong a {
+
+	color: #333333;
+}
+
+#content {
+	position: relative;
+	padding: 20px;
+	width: 850px;
+	height: 445px;
+}
+
+#content.popup {
+	width: 833px;
+	height: 344px;
+	background-color: #333;
+}
+
+
+#more-information {
+	overflow: auto;
+}

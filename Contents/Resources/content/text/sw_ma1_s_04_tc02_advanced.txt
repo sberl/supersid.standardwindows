@@ -1,0 +1,6 @@
+<ol>
+	<li>Look up <strong>Mars' Magnetosphere</strong>. Read the information.</li>
+	<li>Answer the questions on the <strong>MAGNETOSPHERE</strong> section of  your <strong>DATA LOG</strong>.</li>
+	<li>Close the LIBRARY by clicking on the X in the upper right corner of the window.</li>
+	<li>Go to <strong>Step 3</strong>.</li>
+</ol>

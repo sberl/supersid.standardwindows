@@ -1,0 +1,8 @@
+<p>Your team needs to determine which of the effects of a CME impact Earth and which impact a spacecraft by completing a Final Analysis.</p>
+<ol>
+	<li>Click on the <strong>Final Analysis</strong> button on the right side of the screen.</li>
+	<li>Follow the instructions on the screen. Make sure you check your analysis before you send it.</li>
+	<li>Click on the <strong>SEND REPORT TO FLIGHT DIRECTOR</strong> button when you have finished the analysis.</li>
+	<li>Close the Final Analysis window by clicking on the X in the upper right corner of the window.</li>
+	<li>Choose the next task when you have completed all of the steps in this task.</li>
+</ol>

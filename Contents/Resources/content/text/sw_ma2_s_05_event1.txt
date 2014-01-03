@@ -1,0 +1,12 @@
+<div id="content" class="alert center">
+	<h3>
+		MESSAGE FROM MARS CONTROL
+	</h3>
+	<p>
+		WARNING: Dust storms have been seen <br />in the area of the Mars Lander.  
+	</p>
+	<p>
+		Retract antenna and activate external cameras.
+	</p>
+	<span class="alert-button"><a id="alert" href="event:closeWindow">Close Window</a></span>
+</div>

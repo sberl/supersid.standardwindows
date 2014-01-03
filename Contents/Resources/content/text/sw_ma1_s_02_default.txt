@@ -1,0 +1,2 @@
+<p>To make observations of the Sun you need to access satellite data. To access this data, you must deploy the antenna on the outside of the spacecraft.<br />
+To complete this task follow your paper task card.</p>

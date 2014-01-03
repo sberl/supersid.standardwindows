@@ -1,0 +1,14 @@
+<div id="content">
+	<h1>WHAT IS THE SPEED OF THE CME?</h1>
+	<img class="right" src="../images/cme_01_moon_advanced.jpg" alt="CME" />
+	<p>
+		The ACE satellite gauge shows the current geo-magnetic storm level. The ACE data includes the time the solar wind arrives at the satellite and provides advance warning of the arrival of a CME. 
+	</p>
+	<p>
+		Using the distance and speed provided, you will calculate when the CME will arrive at Earth using this formula: <strong>Distance / Speed = Time</strong>.
+	</p>
+	<p>
+		Click on the <strong>CALCULATE</strong> button to begin.  
+	</p>
+	<span class="nextbuttontool"><a id="tool" href="ContentTool_Template.html?assets=../text/cme_02_moon_advanced.txt">CALCULATE</a></span>	
+</div>

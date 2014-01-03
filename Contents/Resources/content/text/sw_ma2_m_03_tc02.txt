@@ -1,0 +1,7 @@
+<p>The Space Weather Report is an update for the crew in the Mars Lander and the team in Mars Control.</p>
+<ol>
+	<li>Locate the <strong>SPACE WEATHER REPORT</strong> in your <strong>DATA LOG</strong>.</li>
+	<li>Fill in the locations of aurora sightings you received from the Mars Lander and your Systems Status information. If you have not received the information, send this to the Mars Lander: <strong>"Please send  the continents on which aurora will be seen."</strong></li>
+	<li>Go to the <strong>COM TEAM</strong> and give them the report to read.</li>
+	<li>Choose the next task when you have completed all of the steps in this task.</li>
+</ol>

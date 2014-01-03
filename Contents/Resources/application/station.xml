@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<station xmlns:tns="http://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3schools.com G:\Challenger\Phase2\Documentation\station.xsd" showname="string" stationid="string" version="3628.094905803945093">
+	<default_set>
+		<instruction>
+			<screen_branch_test testmode="COMPLEXITY" key="screen_0001" multioptvalue="true">
+				<screen_branch optvalue="1">
+					<screen>
+						<asset_branch_test testmode="COMPLEXITY" key="asset_0001" multioptvalue="true">
+							<asset_branch optvalue="1">
+								<asset_item cmsid="jstest" showname="Javascript Testing" />
+								<asset_item cmsid="swmo1m01" showname="Moon 01 - Mission Control 01" />
+								<asset_item cmsid="swmo1m02" showname="Moon 01 - Mission Control 02" />
+								<asset_item cmsid="swmo1m03" showname="Moon 01 - Mission Control 03" />
+								<asset_item cmsid="swmo1m04" showname="Moon 01 - Mission Control 04" />
+								<asset_item cmsid="swmo1m05" showname="Moon 01 - Mission Control 05" />
+								<asset_item cmsid="swmo1m06" showname="Moon 01 - Mission Control 06" />
+								<asset_item cmsid="swmo1m07" showname="Moon 01 - Mission Control 07" />
+								<asset_item cmsid="swmo1m08" showname="Moon 01 - Mission Control 08" />
+								<asset_item cmsid="swmo1m09" showname="Moon 01 - Mission Control 09" />
+								<asset_item cmsid="swmo1m10" showname="Moon 01 - Mission Control 10" />
+								<asset_item cmsid="swmo1m11" showname="Moon 01 - Mission Control 11" />
+								<asset_item cmsid="swmo1m12" showname="Moon 01 - Mission Control 12" />
+								<!--	// old testing files
+								<asset_item cmsid="html_0004" showname="Test HTML" />
+								<asset_item cmsid="mp3_0002" showname="Test Audio 1" />
+								<asset_item cmsid="text_0001" showname="Test Text" />
+								<asset_item cmsid="flv_0001" showname="Test FLV" />
+								<asset_item cmsid="flv_0002" showname="Test FLV" />
+								<asset_item cmsid="img_0001" showname="Man" />
+								<asset_item cmsid="img_0002" showname="catearth2" />
+								-->
+							</asset_branch>
+							<asset_branch optvalue="2">
+								<!--<asset_item cmsid="img_0003" showname="Challenger Logo" />-->
+							</asset_branch>
+						</asset_branch_test>
+					</screen>
+				</screen_branch>
+				<screen_branch optvalue="2">
+					<screen>
+						<asset_branch_test testmode="COMPLEXITY" key="asset_0001" multioptvalue="true">
+							<asset_branch optvalue="1">
+								<!--
+								<asset_item cmsid="swf_0001" showname="Test SWF" />
+								<asset_item cmsid="html_0002" showname="Test HTML" />
+								<asset_item cmsid="html_0003" showname="Test HTML" />
+								-->
+							</asset_branch>
+						</asset_branch_test>
+					</screen>
+				</screen_branch>
+			</screen_branch_test>
+		</instruction>
+		<objective>
+			<asset>
+				<asset_item cmsid="swf_objective_0001" showname="Objective 0001" />
+			</asset>
+		</objective>
+	</default_set>
+	<task_set>
+		<activity activityid="string" showname="string" duration="string" skipafter="string">
+			<activity_branch_test testmode="COMPLEXITY" key="string">
+				<activity_branch optvalue="string">
+					<activity_item>
+						<screen_audio screenid="string" showname="string" duration="string">
+							<instruction>
+								<asset>
+									<asset_item cmsid="string" showname="string" />
+								</asset>
+							</instruction>
+							<background cmsid="string" showname="string" color="string" position="LOC" locx="6720" locy="2954" />
+							<root_audio cmsid="string" showname="string" />
+						</screen_audio>
+					</activity_item>
+				</activity_branch>
+			</activity_branch_test>
+		</activity>
+	</task_set>
+	<emergency_set>
+		<activity activityid="string" showname="string" duration="string" skipafter="string">
+			<activity_branch_test testmode="VARIABLE" key="string">
+				<activity_branch optvalue="string">
+					<activity_item>
+						<screen_branch_test testmode="COMPLEXITY" key="string" multioptvalue="false">
+							<screen_branch optvalue="string" multioptvalue="0">
+								<screen_journal screenid="string" showname="string" duration="string" skipafter="string">
+									<instruction>
+										<asset>
+											<asset_branch_test testmode="COMPLEXITY" key="string" multioptvalue="false">
+												<asset_branch optvalue="string" multioptvalue="1">
+													<asset>
+														<asset_item cmsid="string" showname="string" />
+													</asset>
+												</asset_branch>
+											</asset_branch_test>
+										</asset>
+									</instruction>
+									<background cmsid="string" showname="string" position="TILE" locx="8063" locy="8514" />
+									<input inputtype="INTEGER" maxchars="1360044344" persist="0" width="1908193839" height="122417306" />
+								</screen_journal>
+							</screen_branch>
+						</screen_branch_test>
+					</activity_item>
+				</activity_branch>
+			</activity_branch_test>
+		</activity>
+	</emergency_set>
+</station>

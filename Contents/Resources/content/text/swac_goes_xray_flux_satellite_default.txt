@@ -1,0 +1,6 @@
+<div id="aboutBox">
+	<h1>About The GOES Satellite</h1>
+	<p>
+		Scientists monitor the Sun using data from the Earth-orbiting Geostationary Operational Environmental Satellite (GOES) weather satellite spacecraft.  X-rays are continually emitted from the Sun. However, detecting increases in the intensity of those x-rays can provide an early warning of a solar storm.  The GOES satellite detects x-rays emitted from solar flares and CMEs.
+	</p>
+</div>

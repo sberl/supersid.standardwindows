@@ -1,0 +1,44 @@
+<div id="research">
+	<div id="term">
+		<h2>Space Weather</h2>
+	</div>
+	<div id="term-content">
+		
+		<div id="full-pane">
+		
+			<span class="long caption right">
+
+				<img src="../images/library_space_weather_mars.jpg" alt="Space Weather" />
+				<small class="center">Astronauts on spacewalks on Mars have little protection from high levels of solar activity due a very weak magnetic field on Mars.
+</small>
+			</span>
+			
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					A collection of processes and events often driven by solar activity, which can affect space and planetary environments. Some of the possible effects of space weather are damage to satellites and disruption of power grids on Mars.
+				</p>
+			</span>
+			
+			<span id="more-information">
+					<p>
+						<strong>More Information:</strong><br />
+						<strong><a href="event:loadCItem('ResearchSolarFlareshtm','Library')">Solar flares</a></strong> and <strong><a href="event:loadCItem('ResearchCoronalMassEjectionshtm','Library')">coronal mass ejections (CMEs)</a></strong> can create <strong><em>space weather</em></strong> when aimed at a planet or spacecraft.
+					</p>
+					<p>
+						We need to monitor space weather because it can seriously damage spacecraft components and <strong><a href="event:loadCItem('ResearchSatellitehtm','Library')">satellites</a></strong>.
+					</p>
+					<p>
+						Major concerns are the disruption of technology on the Mars Lander, communication systems between the Mars Lander and Mars Control, and the health of any astronauts working outside on the Mars surface. 
+					</p>
+					<p>
+						It can have serious impacts on astronauts exposed to cosmic radiation for long periods of time on interplanetary space voyages.
+
+					</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

@@ -1,0 +1,33 @@
+<div id="content" class="cme">
+
+	<h1>WHEN WILL THE CME ARRIVE?</h1>
+	
+	<div class="cme-info">
+		<div class="cme-info-text">
+			<p>
+			<strong>
+				The Mars Lander is 140,000,000 kilometers from Earth.  
+			</strong>
+		</p>
+		<p>
+			<strong>
+				The speed of the CME is 2,000,000 kilometers per hour.
+			</strong>
+		</p>
+		<p>
+			<strong>
+				The CME reached Earth 69.75 hours ago.
+			</strong>
+		</p>
+		</div>
+	</div>
+	<p>
+	Using the distance and speed provided, you will calculate when the CME will arrive at Mars using this formula: <strong>Distance / Speed = Time</strong>.
+	</p>
+	<p>
+		Click on the <strong>CALCULATE</strong> button to begin.  
+	</p>
+	
+	<span class="cme-button"><a id="cme" href="ContentTool_Template.html?assets=../text/cme_02_mars.txt">CALCULATE</a></span>
+
+</div>

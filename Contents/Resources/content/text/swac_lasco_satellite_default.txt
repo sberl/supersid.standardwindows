@@ -1,0 +1,7 @@
+<div id="aboutBox">
+	<h1>About The SOHO Mission</h1>
+	<p>
+		Scientists monitor the Sun using data from the Solar and Heliospheric Observatory (SOHO). 
+SOHO is located in the vicinity of the Earth-Sun LaGrange 1 point, a point of gravitational balance located approximately 1.5 kilometers (1 million miles) from Earth. SOHO is a project of international collaboration between the European Space Agency and NASA to study the Sun from its deep core to the outer corona and the solar wind. 
+	</p>
+</div>

@@ -1,0 +1,27 @@
+<div id="content" class="cme">
+
+	<div class="right long center">
+		 <img src="../images/cme_02_advanced_01.jpg" alt="CME" />
+		 <p>
+			<strong>
+				SCALE: 1mm = 200,000 kilometers.
+			</strong>
+		 </p>
+		 <img src="../images/cme_02_advanced_02.jpg" alt="Ruler" />
+	</div>
+	<h1>DISTANCE MEASUREMENT</h1>
+	<p>
+		<strong>How many kilometers did the solar flare travel from point A to point B?</strong>
+	</p>
+	<ol>
+		<li>The change in distance from point A to point B (the outer edge of the flare) is 5 millimeters (5 mm).</li><br />
+		<li>The scale of the image is 1mm = 200,000 kilometers.</li><br />
+		<li>Multiply to get the answer.</li><br />
+	</ol>
+	<p>Now we'll measure the time.</p>
+	<p>Click on the <strong>TIME MEASUREMENT</strong> button to continue.</p>
+	
+	<span class="cme-button"><a id="cme-back" href="ContentTool_Template.html?assets=../text/cme_01_advanced.txt">BACK</a></span>
+	<span class="cme-button"><a id="cme" href="ContentTool_Template.html?assets=../text/cme_03_advanced.txt">TIME <br>MEASUREMENT</a></span>
+	
+</div>

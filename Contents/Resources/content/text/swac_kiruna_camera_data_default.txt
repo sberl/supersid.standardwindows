@@ -1,0 +1,6 @@
+<div id="aboutBox">
+	<h1>Kiruna All Sky Camera Images</h1>
+	<p>
+		An all-sky camera has been operating in Kiruna, Sweden since 1957.  The sky is imaged onto a convex mirror, which is photographed by a 16 mm film camera located above the mirror.  Aurora viewing is affected by a variety of factors, such as cloud cover and urban light pollution. When the camera is not in use, or during heavy snowfall, a cover automatically closes and protects the mirror.  
+	</p>
+</div>

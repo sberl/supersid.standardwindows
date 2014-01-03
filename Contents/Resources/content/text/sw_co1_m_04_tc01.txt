@@ -1,0 +1,8 @@
+<p>To prepare for the coronal mass ejection you need to send emergency procedures to the Spacecraft.</p>  
+<ol>
+	<li>Click on the <strong>CME Procedures</strong> button on the right side of the screen.</li>
+	<li>Read the information.</li>
+	<li>Send this message to the Spacecraft: "<strong>In preparation for the CME please shut down all unnecessary computers and monitors and end any spacewalks</strong>."</li>
+	<li>Close the CME Procedures window by clicking on the X in the upper right corner of the window.</li>
+	<li>Inform the <strong>Flight Director</strong> that you have sent the procedures to the Spacecraft and completed all of your tasks. You are now free to explore the LIBRARY to learn more about Space Weather.</li>
+</ol>

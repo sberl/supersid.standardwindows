@@ -1,0 +1,6 @@
+<div id="contentBox" class="zoom-enabled">
+	<h1>Atmospheric Imaging Assembly (AIA) Extreme Ultraviolet Image </h1>
+	<p>
+<strong>Bright (active) spots in these images tell you that there is a lot of ultraviolet light being emitted. Dark regions show little activity.</strong></p>
+	<p>
+  <em><strong>Ultraviolet light</strong></em> is invisible to our eyes and has no color as we know it. The image is <u>artificially colored</u> to help scientists know what filter was used. </p>

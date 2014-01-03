@@ -1,0 +1,6 @@
+<div id="aboutBox">
+	<h1>About The POES Satellite</h1>
+	<p>
+		The Polar Operational Environmental Satellite (POES) project operates a constellation of weather satellites in polar orbits around Earth. They support weather analysis and forecasting, climate research and prediction, global sea surface temperature measurements, volcanic eruption monitoring, forest fire detection, search and rescue, and many others.
+	</p>
+</div>

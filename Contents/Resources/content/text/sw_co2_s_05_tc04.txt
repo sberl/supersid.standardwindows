@@ -1,0 +1,7 @@
+<p>Solar panels can be turned away from the Sun (so that the thin edge is facing the incoming debris and a much smaller surface is exposed) for a short period of time while the spacecraft runs on battery power.</p>
+<ol>
+	<li>Click on the <strong>Solar Panels</strong> button on the right side of the screen.</li>
+	<li>Follow the instructions on the screen. The solar panel orientation code is <strong>853</strong>.</li>
+	<li>Inform the <strong>Mission Commander</strong> when you have turned the solar panels away from the Sun.</li>
+	<li>Go to <strong>Step 4</strong>.</li>
+</ol>

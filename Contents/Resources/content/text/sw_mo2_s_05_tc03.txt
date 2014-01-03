@@ -1,0 +1,8 @@
+<p>Space debris can damage solar panels and in extreme cases even penetrate the hull of a spacecraft.</p>
+<ol>
+	<li>Click on the <strong>LIBRARY</strong> button on top of the screen and look up <strong>Space Impacts</strong>.</li>
+	<li>Read the information.</li>
+	<li>Important procedures will be sent to your team from Mission Control.</li>
+	<li>Inform the <strong>Mission Commander</strong> of the procedures.</li>
+	<li>Go to <strong>Step 3</strong>.</li>
+</ol>

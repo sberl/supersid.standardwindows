@@ -1,0 +1,5 @@
+<div id="aboutBox">
+	<h1>About the ACE Mission</h1>
+	<p>
+	The Advanced Composition Explorer (ACE) satellite monitors the speed, composition and magnetic field of the <!-- RESEARCH --><em><strong>solar wind</strong></em>.  The ACE satellite is always directly between Earth and the Sun. ACE is located at the <!-- RESEARCH --><em><strong>LaGrange 1 point</strong></em>, a point of gravitational balance located approximately 1 million miles from Earth. The ACE data includes the time the solar wind arrives at ACE. It can provide advance warning of the arrival of a CME. </p>
+</div>

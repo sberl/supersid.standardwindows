@@ -1,0 +1,36 @@
+<div id="research">
+	<div id="term">
+		<h2>Coronal Mass Ejection Impacts</h2>
+	</div>
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<span class="right caption long">
+				<img src="../images/library_coronal_mass_ejection_impacts.jpg" alt="Coronal Mass Ejection Impacts" />
+				<small class="center">A drawing of Earth's magnetosphere showing the effects of the solar wind.</small>
+			</span>
+		
+			<span id="more-information">
+				<p>
+					A <strong><a href="loadToolCIndex('Research','ResearchCoronalMassEjectionhtm','Library')">coronal mass ejection (CME)</a></strong> is a cloud of electrically charged particles ejected from the Sun. 
+				</p>
+				<p>
+					If a CME is headed in the direction of Earth or a spacecraft, it can cause the buildup of electricity in metal structures on a spacecraft and can also damage sensitive electronics.
+				</p>
+				<p>
+					A CME interacts with Earth's magnetic field creating a <strong><a href="loadToolCIndex('Research','ResearchGeomagneticStormhtm','Library')">geomagnetic storm </a></strong> and can produce visible <strong><a href="loadToolCIndex('Research','ResearchAurorahtm','Library')">aurora</a></strong>.   
+				</p>
+				<p>
+					On <strong><a href="loadToolCIndex('Research','ResearchMarshtm','Library')">Mars</a></strong>, a CME can produce aurora associated with very weak and scattered magnetic fields. They are invisible to the human eye but can be seen with <strong><a href="loadToolCIndex('Research','ResearchUltraviolethtm','Library')">ultraviolet</a></strong> detectors.
+				</p>
+				<p class="center">
+					<strong><em>Mars</em></strong> does not have a strong magnetosphere like Earth. A <strong><em>CME</em></strong> that is headed towards <strong><em>Mars</em></strong> can affect equipment and Mars crews need to remain inside shielded areas. 
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

@@ -1,0 +1,6 @@
+<ol>
+	<li>Look up <strong>Coronal Mass Ejection</strong>.</li>
+	<li>Watch the video and read the information.</li>
+	<li>Close the LIBRARY by clicking on the X in the upper right corner of the window.</li>
+	<li>Choose the next task when you have completed all of the steps in this task.</li>
+</ol>

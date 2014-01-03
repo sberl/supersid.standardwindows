@@ -1,0 +1,6 @@
+<ol>
+	<li>Look up <strong>Space Weather</strong>. Read the information.</li>
+	<li>Answer <strong>QUESTION 3</strong> on the <strong>SPACE WEATHER</strong> section of your <strong>DATA LOG</strong>.</li>
+	<li>Close the Research window by clicking on the X in the upper right hand corner of the window.</li>
+	<li>Choose the next task when you have completed your <strong>SPACE WEATHER</strong> research.</li>
+</ol>

@@ -1,0 +1,49 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Space Weather</h2>
+	</div>
+	
+	<div id="term-content">
+		
+		<div id="full-pane">
+		
+			<span class="caption right">
+				<img src="../images/library_space_weather.jpg" alt="Spaceweather" />
+				<small class="center">Aurora as seen from space.</small>
+			</span>
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					A collection of processes and events often driven by solar activity, which can affect space and the near-Earth environment. 
+					Some of the possible effects of space weather are damage to satellites and disruption of power grids on Earth.
+				</p>
+			</span>
+			<span id="more-information">
+				<p>
+					<strong>More Information:</strong><br />
+					<strong><a href="event:loadToolCItem('Research','ResearchSolarFlareshtm')">Solar flares</a></strong> and 
+					<strong><a href="event:loadToolCItem('Research','ResearchCoronalMassEjectionshtm')">coronal mass ejections (CMEs)</a></strong> 
+					can create space weather when aimed at Earth. 
+				</p>
+				<p>
+					We need to monitor space weather because it can seriously damage spacecraft components and <strong>
+					<a href="event:loadToolCItem('Research','ResearchSatellitehtm')">satellites</a></strong> in Earth orbit.
+				</p>
+				<p>
+					Charged particles from the <strong><a href="event:loadToolCItem('Research','ResearchSunhtm')">Sun</a></strong> 
+					interact with Earth's <strong><a href="event:loadToolCItem('Research','ResearchMagneticFieldhtm')">magnetic field </a></strong>
+					generating <strong><a href="event:loadToolCItem('Research','ResearchGeomagneticStormhtm')">geomagnetic storms</a></strong> 
+					that cause intense and beautiful <strong><a href="event:loadToolCItem('Research','ResearchAurorashtm')">aurora</a></strong>.
+				</p>
+				<p>
+					Geomagnetic storms can damage sensitive electronics on satellites and spacecraft.  
+					They can create currents in the ground, affecting electrical power grids worldwide. 
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

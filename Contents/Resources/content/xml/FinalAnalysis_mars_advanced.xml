@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<groups>
+		<group id="mars" title="Mars" image="FinalAnalysis_mars.png" caption="Effects on Mars" />
+		<group id="earth" title="Earth" image="FinalAnalysis_earth.png" caption="Effects that impact Earth" />
+	</groups>
+	<terms>
+		<term title="Remnant trace magnetic fields" group="mars">
+			<hint>Mars has small localized area magnetic fields covering about 40% of the surface</hint>
+		</term>
+		<term title="Aurora visible by the human eye" group="earth">
+			<hint>Aurora can be easily seen by the human eye, primarily near the polar regions</hint>
+		</term>
+		<term title="Planet-wide magnetosphere" group="earth">
+			<hint>The Earth's magnetic field extends over the entire planet</hint>
+		</term>
+		<term title="Aurora visible in the ultraviolet" group="mars">
+			<hint>Corrupted data and false commands may be a result of a plasma cloud from a CME.</hint>
+		</term>
+		<term title="Weak magnetic field" group="mars">
+			<hint>Mars' magnetic field is 1/800th that of the Earth.</hint>
+		</term>
+		<term title="Strong magnetic field" group="earth">
+			<hint>The magnetic field on Earth offers good protection against the solar wind</hint>
+		</term>
+	</terms>
+	<messages>
+		<correct>Thank you. The first part of your Final Analysis Report has been submitted. Click on GO TO PART 2 to finish your report.</correct>
+		<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+	</messages>
+	<button_part_two>GO TO PART 2</button_part_two>
+	<button_label>SEND REPORT TO FLIGHT DIRECTOR</button_label>
+	<formula>
+		<hint>To determine the speed of the coronal mass ejection your team divided the distance the flare travelled by the time it took.</hint>
+		<terms>
+			<term title="Distance" order="0" />
+			<term title="Time" order="2" />
+			<term title="Equals =" order="3" />
+			<term title="Speed" order="4" />
+			<term title="Divided by /" order="1" />
+		</terms>
+		<messages>
+			<correct>Thank you. Your Final Analysis Report is complete and has been submitted.</correct>
+			<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+		</messages>
+	</formula>
+</tool>

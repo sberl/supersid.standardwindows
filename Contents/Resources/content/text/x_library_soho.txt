@@ -1,0 +1,20 @@
+<div id="research">
+	<div id="term">
+		<h2>Solar and Heliospheric Observatory (SOHO)</h2>
+	</div>
+	<div id="term-content">
+<!--				<span id="definition">
+			<p>
+				<strong>Definition:</strong>
+				
+			</p>
+		</span>-->
+		<span id="more-information">
+			<img class="right" src="../images/library_soho.png" alt="SOHO" />
+			<p>
+<!--						<strong>More Information:</strong>--><br />
+			SOHO, the Solar & Heliospheric Observatory, is a project of international collaboration between the European Space Agency and NASA to study the Sun from its deep core to the outer corona and the solar wind. SOHO is located in the vicinity of the Earth-Sun <strong><a href="event:loadCItem('ResearchLaGrangePointshtm','Library')">Lagrange 1 point</a></strong>, a point of gravitational balance located approximately 1 million miles from Earth. 
+			</p>
+		</span>
+	</div>
+</div>

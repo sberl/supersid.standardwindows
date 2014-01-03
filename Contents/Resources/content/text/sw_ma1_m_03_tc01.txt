@@ -1,0 +1,8 @@
+<p>You need to determine when the CME will arrive to complete a Space Weather Report.</p>
+<ol>
+        <li>Click on the <strong>CME</strong> button on the right side of the screen.</li>
+	<li>Follow the instructions  on the screen and use the calculator (<strong>CALC</strong> button at the top of the screen). Answer <strong>QUESTION 1</strong> on the <strong>CME</strong> section of your <strong>DATA LOG</strong> as you go. If you need help ask the <strong>Flight Director</strong>.</li>
+	<li>Inform the <strong>Flight Director</strong> when the CME will arrive and recommend an announcement.</li>
+	<li>Close the CME window by clicking the X in the upper right corner of the screen.</li>
+	<li>Go to <strong>Step 2</strong>.</li>
+</ol>

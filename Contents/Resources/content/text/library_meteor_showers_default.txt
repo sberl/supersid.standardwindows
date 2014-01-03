@@ -1,0 +1,48 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Meteor Showers</h2>
+	</div>
+	
+	<div id="term-content">
+		
+		<div id="left-pane">
+		
+			<span id="more-information">
+				<p>
+					Meteor showers are minefields of debris found in the inner solar system shed by comets as they pass by the Sun. 
+				</p>
+				<p>
+					Comet dust and debris become meteors when they hit Earth's atmosphere and are seen at night shooting across the sky.
+				</p>
+				<p>
+					This debris can be harmful to spacecraft travelling in Earth orbit and through space.
+
+				</p>
+				<p>
+					<strong>
+						Solar panels on the outside of the spacecraft are the most vulnerable to impact.
+					</strong>
+				</p>
+			</span>
+		
+		</div>
+		
+		<div id="right-pane">
+			<p>
+				<strong>SPACECRAFT PROTECTION</strong>
+			</p>
+			<p>
+				Many different shields protect the crew and spacecraft from impacts.
+			</p>
+			<p>
+				Protective blankets are made of a ceramic fabric backed by Kevlar, the same material found in bullet-proof vests. 
+			</p>
+			<p>
+				Spacecraft windows consists of at least two panes. Some windows are covered by metal shutters or blankets when not in use. 
+			</p>
+		</div>
+		
+	</div>
+	
+</div>

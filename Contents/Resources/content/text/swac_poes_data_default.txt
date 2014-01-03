@@ -1,0 +1,7 @@
+<div id="aboutBox">
+	<h1>POES Aurora Data</h1>
+	<p>
+		POES data provides an estimate of the location and intensity of aurora near the north geographic pole. You will see an 'oval,' roughly centered on the north magnetic pole. If the red-orange extends down into the northern hemisphere, you can expect to see aurora in those locations. If there is a severe magnetic storm, you could expect to see aurora extend more towards the equator.  The red arrow in the plot points toward noon.
+
+	</p>
+</div>

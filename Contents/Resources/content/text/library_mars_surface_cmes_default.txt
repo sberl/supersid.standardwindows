@@ -1,0 +1,31 @@
+<div id="research">
+	<div id="term">
+		<h2>Mars Surface and CMEs</h2>
+	</div>
+	<div id="term-content">
+		<img class="right" src="../images/library_mars_surface_cmes.jpg" alt="Mars Surface and CMEs" />
+		
+		<!--
+		<span id="definition">
+			<p>
+				<strong>Definition:</strong><br />
+				
+			</p>
+		</span>
+		-->
+		
+		<span id="more-information">
+			<p>
+				<strong>More Information:</strong>
+			</p>
+			<p>
+				Even with heavy shielding the Mars Control station can be affected by the <strong><a href="event:loadCItem('ResearchPlasmahtm','Library')">plasma</a></strong> cloud of electrically charged particles from a <strong><a href="event:loadCItem('ResearchCoronalMassEjectionhtm','Library')">coronal mass ejection (CME)</a></strong> since there is no protection from a strong magnetosphere on Mars. 
+
+			</p>
+			<p>
+				Robotic spacecraft on the surface could be affected.  Cameras could malfunction, communications equipment might be damaged and computer data may be corrupted. Crews on spacewalks would return to the spacecraft. 
+
+			</p>
+		</span>
+	</div>
+</div>

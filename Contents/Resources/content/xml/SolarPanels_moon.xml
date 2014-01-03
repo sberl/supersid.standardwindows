@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<form>
+		<open_code>853</open_code>
+		<close_code>271</close_code>
+		<messages>
+			<send_message>The solar panels have been oriented towards the Sun. The confirmation code for Mission Control is 265.</send_message>
+			<incorrect_message>The code: !entrycode! is incorrect.</incorrect_message>
+			<panel_disabled>The solar panels have already been oriented away from the Sun with the code: !entrycode!. Please use a different code.</panel_disabled>
+			<panel_enabled>The solar panels have already been oriented towards the Sun with the code: !entrycode!. Please use a different code.</panel_enabled>
+		</messages>
+	</form>
+	<animation>
+		<file>sw_solarpanel.swf</file>
+	</animation>
+</tool>

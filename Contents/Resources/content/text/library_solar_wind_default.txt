@@ -1,0 +1,37 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Solar Wind</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="full-pane">
+			
+			<img class="right" src="../images/library_solar_wind_02.jpg" alt="Solar Wind" />
+			
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+				A fast outflow of hot gas in all directions from the upper atmosphere of the <strong><em>Sun</em></strong> ("solar corona"), which is too hot to allow the Sun's gravity to hold on to its gas. Its typical velocity is 400 km/sec, covering the distance from Sun to Earth in 4-5 days. 
+				</p>
+			</span>
+		
+			<span id="more-information">
+				
+				<p>
+					<strong>More Information:</strong><br />
+					The Sun emits visible light, of course, but also infrared and ultraviolet 'light' as well as radio waves, x-rays, gamma rays and cosmic rays. All of these forms of <strong><a href="event:loadToolCItem('Research','ResearchRadiationhtm')">radiation</a></strong> are related to what we know of as 'light' - only, the wavelength is different. <br />
+				</p>
+				<img class="right" src="../images/library_solar_wind_01.jpg" alt="Solar Wind" />
+				<p>
+					In addition to 'light' the Sun sends out high-speed particles known as the solar wind. Made up of <strong><a href="event:loadToolCItem('Research','ResearchPlasmahtm')">plasma</a></strong>, a mixture of protons and electrons, the solar wind can be charged and effect the magnetic field of the Earth.
+				</p>
+				
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

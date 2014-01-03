@@ -1,0 +1,85 @@
+.theme {
+
+	logo-image: weather_logo;
+	bkgd-image: weather_bkg;
+}
+
+.window {
+
+	font-family: Eurostile Condensed;
+	font-size: 20px;
+	color: #FFFFFF;
+	
+	titleWidth: 880px;
+	titleHeight: 36px;
+	contentWidth: 880px;
+	contentHeight: 400px;
+	max: 1;
+	
+	startX: 12px;
+	startY: 75px;
+	titlePaddingX: 12px;
+	titlePaddingY: 4px;
+	closeButtonPaddingX: -12px;
+	closeButtonPaddingY: 8px;
+
+	titleBkgdFrameColor: #0A96CB;
+	windowBkgdFrameColor: #0A96CB;
+}
+
+.html {
+
+	font-family: Time New Roman;
+	font-size: 26px;
+	color: #FF0033;
+	
+	contentWidth: 880px;
+	contentHeight: 400px;
+}
+
+.text {
+
+	font-family: EurostileExtendedTwo;
+	font-size: 34px;
+	color: #990000;
+	
+	contentWidth: 746px;
+	contentHeight: 400px;
+}
+
+.tools {
+	
+	multiLine_y: 4.5px;
+	toolSpacing: 10px;
+}
+
+.taskCard {
+	
+	contentWidth: 652px;
+	contentHeight: 152px;
+	tabSpacing: 1px;
+}
+
+.messageName {
+
+	font-family: Arial;
+	font-size: 14px;
+	color: #000000;
+	font-weight: bold;
+}
+
+.messageText {
+
+	font-family: Arial;
+	font-size: 14px;
+	color: #000000;
+}
+
+.menuComboBox {
+
+	font-family: Arial;
+	font-weight: normal;
+	color: #000000;
+	font-size: 22px;
+	text-align: left;
+}

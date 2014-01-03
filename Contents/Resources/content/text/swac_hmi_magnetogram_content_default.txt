@@ -1,0 +1,8 @@
+<div id="contentBox" class="zoom-enabled">
+	<h1>HMI (Helioseismic and Magnetic Imager) Magnetogram</h1>
+	<p>A magnetic image of the Sun shows the magnetic field of the Sun, with black and white indicating opposite polarities. <strong>When black and white areas within a region are clearly separated, there is <strong><u>less</u></strong> chance of a solar eruption.  When they are mixed together, there is a <strong><u>better</u></strong> chance for a solar eruption from that location.</strong></p>
+	<p>
+		Scroll down to see the image below.<br /><br />
+	</p>
+	<p class="center"><img src="../images/SWAC_HMI_content.jpg" alt="HMI Magnetogram" />
+</div>

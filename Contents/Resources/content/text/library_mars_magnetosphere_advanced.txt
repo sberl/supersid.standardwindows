@@ -1,0 +1,78 @@
+<div id="research">
+	<div id="term">
+		<h2>Mars' Magnetosphere</h2>
+	</div>
+	
+	<div id="term-content">
+		
+		<div id="left-pane">
+		
+			<span id="more-information">
+				
+				<p>
+					Mars' global magnetic field died out billions of years ago. Instead of a global bubble, like Earth's <strong><em>magnetosphere</em></strong>, Mars has small patches of surface <strong><em>magnetic fields</em></strong> produced by highly magnetized rock.
+				</p>
+				<p>
+					The magnetic fields are small magnetic umbrellas that sprout out of the ground and reach beyond the top of Mars' atmosphere. They number in the dozens and only cover about 40% of the planet's surface. They offer little protection to crews and equipment on the Martian surface from the dangerous particles in the solar wind. The magnetic field of Mars is 1/800 as strong as Earth's and offers little protection to crews and equipment on the surface from the dangerous particles in the solar wind. 
+				</p>
+				<div style="width: 100%; text-align: center;">
+				<img src="../images/library_mars_magnetosphere_advanced_01.jpg" alt="Mars Magnetosphere" />
+				</div>
+				<p>
+					This image is one way that scientists show the magnetic fields on Mars and their ability to shield the surface from the solar wind. The greater the bulge, the stronger and more protective the magnetic field. 
+				</p>
+				<p>
+					Note that most of the remaining magnetic fields are in the southern hemisphere.<br />
+				</p>
+				<div style="width: 100%; text-align: center;">
+					<img src="../images/library_mars_magnetosphere_advanced_02.jpg" alt="Mars Magnetosphere" />
+					<small>Earth magnetosphere</small>
+					<img src="../images/library_mars_magnetosphere_advanced_03.jpg" alt="Mars Magnetosphere" />
+					<small>Mars' magnetosphere</small>
+				</div>
+				
+			</span>
+			
+		</div>
+		
+		<div id="right-pane">
+			
+			<div style="width: 100%; text-align: center; ">
+			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="320" height="240" id="Library_Mars_Magnetosphere" align="middle">
+				<param name="movie" value="../swf/Library_Mars_Magnetosphere.swf" />
+				<param name="quality" value="high" />
+				<param name="bgcolor" value="#000000" />
+				<param name="play" value="true" />
+				<param name="loop" value="true" />
+				<param name="wmode" value="opaque" />
+				<param name="scale" value="noscale" />
+				<param name="menu" value="false" />
+				<param name="devicefont" value="false" />
+				<param name="salign" value="tl" />
+				<param name="allowScriptAccess" value="sameDomain" />
+			<!--[if !IE]>-->
+			<object type="application/x-shockwave-flash" data="../swf/Library_Mars_Magnetosphere.swf" width="320" height="240">
+				<param name="movie" value="../swf/Library_Mars_Magnetosphere.swf" />
+				<param name="quality" value="high" />
+				<param name="bgcolor" value="#000000" />
+				<param name="play" value="true" />
+				<param name="loop" value="true" />
+				<param name="wmode" value="opaque" />
+				<param name="scale" value="noscale" />
+				<param name="menu" value="false" />
+				<param name="devicefont" value="false" />
+				<param name="salign" value="tl" />
+				<param name="allowScriptAccess" value="sameDomain" />
+			<!--<![endif]-->
+			<p>Flash is not installed</p>
+			<!--[if !IE]>-->
+			</object>
+			<!--<![endif]-->
+			</object>
+			<small>Click to view animation.</small>
+			</div>
+			
+		</div>
+		
+	</div>
+</div>

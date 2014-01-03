@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- scenario.xml -->
+<scenario name="Earth" missionid="e01" version="1.0">
+   <prereq missionid="m01" version="1.0" basis="3F2504E0-4F89-11D3-9A0C-0305E82C3301" />
+   <stylesheet>e01.css</stylesheet>
+
+   <shared_journals>
+      <journal journalid="j01" name="Cloud Team Journal" />
+      <journal journalid="j02" name="Aerosol Team Journal" />
+      <journal journalid="j03" name="Communications Team Journal" />
+      <journal journalid="j04" name="Oceanic Team Journal" />
+      <journal journalid="j05" name="Surface and Icecaps Team Journal" />
+      <journal journalid="j06" name="Life Support Team Journal" />
+      <journal journalid="j07" name="Energy Team Journal" />
+      <journal journalid="j08" name="Media Team Journal" />
+      <journal journalid="j09" name="Emergency Journal" />
+   </shared_journals>
+
+
+   <arc arcid="a" name="Earth Arc A">
+		<arc_settings>
+		<!-- mc = mission control; sc = spacecraft; ss = space station -->
+		<!-- comet missions -->
+         <setting cindex="comet1_mc_station" settingid="arc_comet_mc_01" areatype="mc" name="Comet 1 Mission Control" abbrev="C1MC" />
+         <setting cindex="comet2_mc_station" settingid="arc_comet_mc_02" areatype="mc" name="Comet 2 Mission Control" abbrev="C2MC" />
+         <setting cindex="comet1_sc_station" settingid="arc_comet_sc_01" areatype="sc" name="Comet 1 Spacecraft" abbrev="C1SC" />
+		 <setting cindex="comet2_sc_station" settingid="arc_comet_sc_02" areatype="sc" name="Comet 2 Spacecraft" abbrev="C2SC" />
+		 
+		 <!-- mars missions -->
+		<setting cindex="mars1_mc_station" settingid="arc_mars_mc_01" areatype="mc" name="Mars 1 Mars Control" abbrev="M1MC" />
+		<setting cindex="mars2_mc_station" settingid="arc_mars_mc_02" areatype="mc" name="Mars 2 Mars Control" abbrev="M2MC" />
+		<setting cindex="mars1_sc_station" settingid="arc_mars_sc_01" areatype="sc" name="Mars 1 Mars Lander" abbrev="M1SC" />
+		<setting cindex="mars2_sc_station" settingid="arc_mars_sc_02" areatype="sc" name="Mars 2 Mars Lander" abbrev="M2SC" />
+		
+		<!-- moon missions -->
+		<setting cindex="moon1_mc_station" settingid="arc_moon_mc_01" areatype="mc" name="Moon 1 Mission Control" abbrev="MO1MC" />
+		<setting cindex="moon2_mc_station" settingid="arc_moon_mc_02" areatype="mc" name="Moon 2 Mission Control" abbrev="MO2MC" />
+		<setting cindex="moon1_sc_station" settingid="arc_moon_sc_01" areatype="sc" name="Moon 1 Spacecraft" abbrev="MO1SC" />
+		<setting cindex="moon2_sc_station" settingid="arc_moon_sc_02" areatype="sc" name="Moon 2 Spacecraft" abbrev="MO2SC" />
+		
+		 
+         <!-- <setting settingid="arc_01" areatype="ss" name="Moon" abbrev="TS1" />
+         <setting settingid="arc_02" areatype="ss" name="Test Arc 2" abbrev="TS2" />
+		 <setting settingid="as_01" areatype="mc" name="Climate Control Center" abbrev="CCC" />
+         <setting settingid="as_02" areatype="ss" name="Earth Observing Station" abbrev="EOS" />
+         <setting settingid="as_03" areatype="briefing" name="Briefing Room" abbrev="Briefing" /> -->
+      </arc_settings>
+      <arc_teams>
+         <team teamid="at00" name="Flight Director" abbrev="FD" />
+         <team teamid="at01" name="Cloud" abbrev="CLOUD" />
+         <team teamid="at02" name="Aerosol" abbrev="AERO" />
+         <team teamid="at03" name="Comm - CapCom" abbrev="COM" teamrequired="true" />
+         <team teamid="at04" name="Oceanic" abbrev="WATER" />
+         <team teamid="at05" name="Surface and Icecaps" abbrev="LAND" />
+         <team teamid="at06" name="Life Support" abbrev="LIFE" />
+         <team teamid="at07" name="Energy" abbrev="NRG" />
+         <team teamid="at08" name="Comm - Media" abbrev="MEDIA" />
+         <team teamid="at09" name=" Comm - PA" abbrev="PA" />
+      </arc_teams>
+      <arc_options>
+         <variable name="Region" key="aop01">
+            <!-- ordered choices should be numbered 1 to N with 1 being the first -->
+            <choice name="North America - Northeast" optvalue="1" />
+            <choice name="North America - Southeast" optvalue="2" />
+            <choice name="North America - Midwest" optvalue="3" />
+            <choice name="North America - Southwest" optvalue="4" />
+            <choice name="North America - West" optvalue="5" />
+            <choice name="North America - Mexico/Central Am" optvalue="6" />
+            <choice name="South America - Caribbean" optvalue="7" />
+            <choice name="South America - Northern S. America" optvalue="8" />
+            <choice name="South America - Southern S. America" optvalue="9" />
+            <choice name="Asia - Middle East" optvalue="10" />
+            <choice name="Asia - Southeast Asia" optvalue="11" />
+            <choice name="Asia - Russia, China, Japan" optvalue="12" />
+            <choice name="Africa - Sub Saharan" optvalue="13" />
+            <choice name="Africa - East and Saharan" optvalue="14" />
+            <choice name="Africa - Northern Africa" optvalue="15" />
+            <choice name="Oceania - Pacific Islands/Hawaii" optvalue="16" />
+            <choice name="Oceania - Western Australia" optvalue="17" />
+            <choice name="Oceania - Easter Australia/New Zealand" optvalue="18" />
+            <choice name="Arctic - Antarctica" optvalue="19" />
+            <choice name="Arctic - Arctic" optvalue="20" />
+            <choice name="Europe - Eastern Europe" optvalue="21" />
+            <choice name="Europe - Western Europe" optvalue="22" />
+            <choice name="Europe - Scandinavia" optvalue="23" />
+         </variable>
+         <variable name="Meteor Emergency" key="aop02">
+            <!-- boolean choices should be numbered 0 and 1 with 1 being the "true" option -->
+            <!-- this emergency is a pre-programmed emergency and will change the basic flow -->
+            <!-- and will apply to multiple teams -->
+            <choice name="Off" optvalue="0" />
+            <choice name="On" optvalue="1" />
+         </variable>
+         <variable name="Regional Storm/Flooding Emergency" key="aop03">
+            <choice name="Off" optvalue="0" />
+            <choice name="On" optvalue="1" />
+         </variable>
+      </arc_options>
+      <arc_stations>
+         <station stationid="as1T00" name="CCC FD" settingid="as1" teamid="at00" isfd="true" />
+         <station stationid="as1T01" name="CCC CLOUD" settingid="as1" teamid="at01" />
+         <station stationid="as1T02" name="CCC AERO" settingid="as1" teamid="at02" />
+         <station stationid="as1T03" name="CCC COM" settingid="as1" teamid="at03">
+            <custom>cust0001</custom>
+         </station>
+         <station stationid="as1T04" name="CCC Wat0ER" settingid="as1" teamid="at04" />
+         <station stationid="as1T05" name="CCC LAND" settingid="as1" teamid="at05" />
+         <station stationid="as1T06" name="CCC LIFE" settingid="as1" teamid="at06" />
+         <station stationid="as1T07" name="CCC NRG" settingid="as1" teamid="at07" />
+         <station stationid="as1T08" name="CCC MEDIA" settingid="as1" teamid="at08" />
+         <station stationid="as2T00" name="EOS FD" settingid="as2" teamid="at00" isfd="true" />
+         <station stationid="as2T01" name="EOS CLOUD" settingid="as2" teamid="at01" />
+         <station stationid="as2T02" name="EOS AERO" settingid="as2" teamid="at02">
+            <custom>cust0001</custom>
+         </station>
+         <station stationid="as2T03" name="EOS COM" settingid="as2" teamid="at03" />
+         <station stationid="as2T04" name="EOS Wat0ER" settingid="as2" teamid="at04" />
+         <station stationid="as2T05" name="EOS LAND" settingid="as2" teamid="at05" />
+         <station stationid="as2T06" name="EOS LIFE" settingid="as2" teamid="at06" />
+         <station stationid="as2T07" name="EOS NRG" settingid="as2" teamid="at07" />
+         <station stationid="as2T08" name="EOS MEDIA" settingid="as2" teamid="at08" />
+      </arc_stations>
+      <arc_journals>
+         <journal_group journalid="j01">
+            <journal_user journalmode="READWRITE" stationid="as1t00" />
+            <journal_user journalmode="READWRITE" stationid="as2t00" />
+            <journal_user journalmode="READWRITE" stationid="as1t01" />
+            <journal_user journalmode="READWRITE" stationid="as2t01" />
+         </journal_group>
+         <journal_group journalid="j02">
+            <journal_user journalmode="READWRITE" stationid="as1t00" />
+            <journal_user journalmode="READWRITE" stationid="as2t00" />
+            <journal_user journalmode="READWRITE" stationid="as1t02" />
+            <journal_user journalmode="READWRITE" stationid="as2t02" />
+         </journal_group>
+         <journal_group journalid="j03">
+            <journal_user journalmode="READWRITE" stationid="as1t00" />
+            <journal_user journalmode="READWRITE" stationid="as2t00" />
+            <journal_user journalmode="READWRITE" stationid="as1t03" />
+            <journal_user journalmode="READWRITE" stationid="as2t03" />
+         </journal_group>
+         <journal_group journalid="j04">
+            <journal_user journalmode="READWRITE" stationid="as1t00" />
+            <journal_user journalmode="READWRITE" stationid="as2t00" />
+            <journal_user journalmode="READWRITE" stationid="as1t04" />
+            <journal_user journalmode="READWRITE" stationid="as2t04" />
+         </journal_group>
+         <journal_group journalid="j05">
+            <journal_user journalmode="READWRITE" stationid="as1t00" />
+            <journal_user journalmode="READWRITE" stationid="as2t00" />
+            <journal_user journalmode="READWRITE" stationid="as1t05" />
+            <journal_user journalmode="READWRITE" stationid="as2t05" />
+         </journal_group>
+         <journal_group journalid="j06">
+            <journal_user journalmode="READWRITE" stationid="as1t00" />
+            <journal_user journalmode="READWRITE" stationid="as2t00" />
+            <journal_user journalmode="READWRITE" stationid="as1t06" />
+            <journal_user journalmode="READWRITE" stationid="as2t06" />
+         </journal_group>
+         <journal_group journalid="j07">
+            <journal_user journalmode="READWRITE" stationid="as1t00" />
+            <journal_user journalmode="READWRITE" stationid="as2t00" />
+            <journal_user journalmode="READWRITE" stationid="as1t07" />
+            <journal_user journalmode="READWRITE" stationid="as2t07" />
+         </journal_group>
+         <journal_group journalid="j08">
+            <journal_user journalmode="READWRITE" stationid="as1t00" />
+            <journal_user journalmode="READWRITE" stationid="as2t00" />
+            <journal_user journalmode="READWRITE" stationid="as1t08" />
+            <journal_user journalmode="READWRITE" stationid="as2t08" />
+         </journal_group>
+         <journal_group journalid="j09">
+<!-- when show is false, the user is not shown this on their station, but the station can still send messages to the journal -->
+<!-- include tag option to show the name in the text stream -->
+
+            <journal_user journalmode="READWRITE" stationid="as1t00" show="false" />
+            <journal_user journalmode="READWRITE" stationid="as2t00" show ="false" />
+            <journal_user journalmode="READWRITE" stationid="as1t08" show ="false" />
+            <journal_user journalmode="READWRITE" stationid="as2t08" show ="false" />
+         </journal_group>
+      </arc_journals>
+      <arc_displays>
+         <display displayid="DISP1" settingid="as1" name="Display 1" />
+         <display displayid="DISP2" settingid="as1" name="Display 2" />
+         <display displayid="DISP3" settingid="as3" name="Briefing" />
+      </arc_displays>
+   </arc>
+</scenario>

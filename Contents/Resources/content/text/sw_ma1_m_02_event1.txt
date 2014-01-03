@@ -1,0 +1,9 @@
+<div id="content" class="alert center">
+	<h3>
+		MESSAGE FROM NASA EARTH MISSION CONTROL
+	</h3>
+	<p>
+		A Coronal Mass Ejection is nearing Mars. Inform the Flight Director. Check for solar storm signals to confirm.
+	</p>
+	<span class="alert-button"><a id="alert" href="event:closeWindow">Close Window</a></span>
+</div>

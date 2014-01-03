@@ -1,0 +1,5 @@
+<div id="contentBox" class="zoom-disabled">
+	<h1>Radio and Plasma Data</h1>
+	<p>These are audio files of solar radio bursts produced by two intense X-class CMEs.</p>
+	<p>Compare the X17 level CME with an X28 level by clicking on each of the two audio files.</p>
+</div>

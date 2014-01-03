@@ -1,0 +1,15 @@
+<div id="content" class="alert center">
+	<h3>
+		MESSAGE FROM SPACE COMMAND
+	</h3>
+	<p>
+		WARNING: The lunar spacecraft is encountering an area of space debris located in lunar orbit.
+	</p>
+	<p>
+		Precautions should be taken.
+	</p>
+	<p>
+		<strong>Contact Mission Control for procedures</strong>.
+	</p>
+	<span class="alert-button"><a id="alert" href="event:closeWindow">Close Window</a></span>
+</div>

@@ -1,0 +1,6 @@
+ <div id="aboutBox">
+	<h1>HMI (Helioseismic and Magnetic Imager) Magnetogram</h1>
+	<p>
+		The fields and forces of magnetism are invisible to our eyes, so how can we see them?  Using technology similar to that of a radar gun, the HMI instrument maps the charge and direction of movement towards or away from the viewer of plasma around the active regions. The resulting image is a picture of magnetic activity near the Sun's surface.   
+	</p>
+</div>

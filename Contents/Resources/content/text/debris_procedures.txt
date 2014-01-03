@@ -1,0 +1,31 @@
+<div id="content" class="procedures">
+        
+	<h1>Debris Emergency Procedures</h1>
+	
+	<p>
+		<strong>All space debris can be harmful to spacecraft travelling in Earth orbit and through space.</strong>
+		<ul>
+			<li>Space Command monitors space debris and reports to NASA whenever there is threat of an impact. There are millions of pounds of space junk in Earth orbit and some in lunar orbit from previous missions.</li>
+			<li>Meteor showers are minefields of debris found in the inner solar system shed by comets as they pass by the Sun.</li>
+		</ul>
+		<strong>Exposed solar panels on the outside of the Spacecraft are the most vulnerable to impact. 
+</strong>
+		<ul>
+			<li>Solar panels can be turned away from the Sun so that the thin edge is facing the incoming debris and that a much smaller surface is exposed for a short period of time while the Spacecraft runs on battery power.</li>
+		</ul>
+	</p>
+	
+	<div class="procedures-info">
+		<div class="procedures-info-text">
+			<h2 class="orange">RECOMMENDED ACTIONS:</h2>
+			<p class="orange">
+				<strong>If there is a threat from space debris or meteoroids near the Spacecraft:</strong>
+				<ul>
+					<li><strong>Turn the solar panels away from the Sun to avoid possible impact.</strong></li>
+					<li><strong>Monitor battery power levels.</strong></li>
+				</ul>
+			</p>
+		</div>
+	</div>
+   
+</div>

@@ -1,0 +1,18 @@
+<div id="contentBox" class="zoom-disabled">
+	<h1>Kp Index</h1>
+	<p>
+		The larger the Kp index the more active Earth's magnetic field becomes due to a solar flare or CME.  This chart shows the Kp index from 0 to 9 on the vertical axis. The horizontal axis shows 3 hour estimated data.
+	</p>
+	<p>
+		GREEN BARS show a Kp index less than 4 - <strong>Little magnetic change</strong>.
+	</p>
+	<p>
+		YELLOW BARS show a Kp index equal to 4 - <strong>Moderate magnetic change</strong>.
+	</p>
+	<p>
+		RED BARS show when the Kp is greater than 4  - <strong>A storm warning</strong>.
+	</p>
+	<p>
+		<strong>Kp values greater than 7 indicate a large disturbance.</strong>
+	</p>
+</div>

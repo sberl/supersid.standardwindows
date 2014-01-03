@@ -1,0 +1,9 @@
+<div id="content" class="alert center">
+	<h3>
+		MESSAGE FROM THE MISSION COMMANDER
+	</h3>
+	<p>
+		A Coronal Mass Ejection cloud of plasma is nearing the Earth-Moon environment. Check sun spot and solar flare data to confirm. The spacecraft may be affected.
+	</p>
+	<span class="alert-button"><a id="alert" href="event:closeWindow">Close Window</a></span>
+</div>

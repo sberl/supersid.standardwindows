@@ -1,0 +1,7 @@
+<p><strong>You need to check the Spacecraft cameras to monitor any effects on the comet.</strong></p>
+<ol>
+	<li>Click on the <strong>COMET VIDEO</strong> on the right side of the screen to download recent video of the comet from Spacecraft cameras.</li>
+	<li>Click on the <strong>ANALYSIS</strong> button to retrieve any analysis from the <strong>Mission Commander</strong>.</li>
+	<li>Close the Comet Video by clicking on the X in the upper right corner of the window.</li>
+	<li>Choose the next task when you have completed all of the steps in this task.</li>
+</ol>

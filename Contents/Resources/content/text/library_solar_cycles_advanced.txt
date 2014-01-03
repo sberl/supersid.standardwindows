@@ -1,0 +1,45 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Solar Cycle</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<span class="caption right">
+				<img class="noborder" src="../images/library_solar_cycles_advanced.jpg" alt="Solar Cycles" />
+				<small>NASA images of the Sun taken over a solar cycle.</small>
+			</span>
+			
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+				Solar Cycle (or Sunspot Cycle) &ndash; An irregular cycle, averaging about 11 years in length, during which the number of <strong><em>sunspots</em></strong> (and their associated outbursts) rises and then drops again. Like the sunspots, the cycle is probably magnetic in nature, and the polar <strong><em>magnetic field</em></strong> of the Sun also reverses each solar cycle. 
+
+				</p>
+			</span>
+			
+			<span id="more-information">
+				<p>
+					Changes in the activity of the Sun occur in approximately <u>eleven-year cycles</u> during which the number of sunspots (and <strong><em>solar storms</em></strong>) rises and then drops again. 
+				</p>
+				<p>
+					The cycle is probably magnetic in nature as the polar magnetic field of the Sun reverses each solar cycle. 
+				</p>
+				<p>
+					<strong>Solar Maximum</strong><br />
+					The month(s) during the solar cycle when the average sunspot numbers reaches a maximum. 
+				</p>
+				<p>
+					<strong>Solar Minimum</strong><br />
+					The month(s) during the solar cycle when the average sunspot numbers reaches a minimum.
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

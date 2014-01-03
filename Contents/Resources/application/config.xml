@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<configuration>
+	<setup areatype="mc" name="Mission Control">
+	<!--<setup areatype="sc" name="Spacecraft">-->
+		<debugMode log="true"></debugMode>
+		<alwaysInFront>true</alwaysInFront>
+		<mouseCursor visible="true"></mouseCursor>
+		<rso_address><!--rtmp://10.0.0.134/SimSoft--></rso_address>
+		<serverSocketPort>8888</serverSocketPort>
+		<clientSockets>
+			<clientSocket id="1" port="8888" name="Space Center"></clientSocket>
+			<!--<clientSocket id="1" port="8889" name="Space Center">192.168.10.137</clientSocket>
+			<clientSocket id="1" port="8888" name="Space Center">10.0.0.204</clientSocket>
+			<clientSocket id="2" port="8888" name="Moon Base">10.0.0.194</clientSocket>
+			<clientSocket id="3" port="8888" name="Houston">10.0.0.121</clientSocket>-->
+		</clientSockets>
+		<trigger tab="false" autoOpen="false"></trigger>
+		<skillLevelOrders>
+			<skillLevelOrder>BEGINNER</skillLevelOrder>
+			<skillLevelOrder>ADVANCED</skillLevelOrder>
+		</skillLevelOrders>
+	</setup>
+	<locations root="app:/">
+		<css>css/</css>
+		<xml>content/xml/</xml>
+		<audio>content/audio/</audio>
+		<html>content/html/</html>
+		<images>content/images/</images>
+		<swf>content/swf/</swf>
+		<text>content/text/</text>
+		<video>content/video/</video>
+	</locations>
+	<resources root="app:/">
+		<scenarios>application/scenarios.xml</scenarios>
+		<station>application/station.xml</station>
+		<cindex>application/cindex.xml</cindex>
+		<classLibrary>sharedAssets/ClassLibrary.swf</classLibrary>
+		<fontsLibrary>sharedAssets/FontsLibrary.swf</fontsLibrary>
+	</resources>
+	<media>
+		<flvQuality>150</flvQuality>
+	</media>
+</configuration>

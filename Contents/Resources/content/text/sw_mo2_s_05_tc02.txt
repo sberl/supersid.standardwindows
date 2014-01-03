@@ -1,0 +1,7 @@
+<p>If you have been informed by Mission Control that there is a debris emergency, follow these instructions. As a precautionary measure to protect the Spacecraft you will need to retract the antenna.</p>
+<ol>
+	<li>Click on the <strong>Antenna</strong> button on the right side of the screen.</li>
+	<li>Follow the instructions on the screen. The antenna retract code is <strong>786</strong>.</li>
+	<li>Close the Antenna control panel by clicking on the X in the upper right corner of the window.</li>
+	<li>Go to <strong>Step 2</strong>.</li>
+</ol>

@@ -1,0 +1,79 @@
+
+<!-- saved from url=(0044)http://www.swpc.noaa.gov/Aurora/globeNW.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<style type="text/css">
+	body { font-family: Arial; background-color: #000000; color: #ffffff; }
+	img:hover { cursor: crosshair; }
+</style>
+<script language="javascript" src="../../js/aurora.js"></script>
+<script language="javascript" src="../../js/appver.js"></script>
+<script type="text/javascript" src="../../js/disabledrag.js"></script>
+<script type="text/javascript" src="../../js/rightClickBlocker.js"></script>
+<script language="javascript">
+retval = 0
+iLon = 0
+iLat = 0
+wid = 470     // Width of Plot (Pixels)
+hei = 234   // Height of Plot (Pixels)
+lhei = 60     // Height of Plot (Latitude)
+lwid = 160    // Width of Plot (Longitude)
+ulat = 80     // Upper Latitude Boundry
+llat = 20     // Lower Latitude Boundry
+ulon = 180    // Upper Longitude Boundry
+llon = 340     // Lower Longitude Boundry
+offset = 15   // Longitude/Latitude offset
+
+function getLat(e) {
+  if (ie) { xLon = event.x-offset; yLat = event.y; }
+  else    { xLon = e.pageX-offset; yLat = e.pageY; }
+
+  iLon = Math.round(((lwid/wid)*xLon) - ulon) + 360
+  iLat = Math.abs(Math.round(((lhei/hei)*yLat) - ulat))  
+  retval = cMagLat(iLat,iLon)
+  strLon = Math.abs(iLon - 360)+'W'
+  if (iLat >= llat && (iLon <= llon && iLon >= ulon)) { 
+    /* alert('Geographic Longitude= '+strLon+'\n'+
+          'Geographic Latitude= '+iLat+'N\n'+
+          'Corrected Magnetic Latitude= '+retval) */
+	//alert('Geographic Longitude= '+strLon+'\n'+'Geographic Latitude= '+iLat+'N\n');
+	var el = document.getElementById('data');
+	el.innerHTML = 'Geographic Long/Lat = '+strLon +' '+iLat+'N\n';
+	//el.innerHTML = 'Geographic Longitude= '+strLon+' <br /> '+'Geographic Latitude= '+iLat+'N\n';
+  } 
+}
+
+</script>
+
+<title>North America</title>
+</head>
+
+<body onClick="getLat()" onload="disableImages()" onselectstart="return false" oncontextmenu="return false" onload="RightClick.init();">
+<div id="Layer2" style="position:absolute; width:500px; height:354px; z-index:0;
+     left:0px; top:0px;">
+  <img name="img1" src="../images/globeNW.gif" border="0">  
+</div>
+<script>
+  if (! ie && Release > 4) {
+    document.captureEvents (Event.MOUSEDOWN)
+    document.onmousedown = getLat
+  }
+</script>
+<div id="remote" style="position: absolute; display: block; top: 250px; left: 15px; width: 180px; height: 100px; background: url('../images/swac_kp_index_map_remote.jpg') 0 0 no-repeat;">
+	<a href="globeNE.html" style="display: block; position: absolute; width: 88px; height: 49px; top: 1px; left: 91px;"></a>
+	<a href="globeSW.html" style="display: block; position: absolute; width: 88px; height: 49px; top: 51px; left: 1px;"></a>
+	<a href="globeSE.html" style="display: block; position: absolute; width: 88px; height: 49px; top: 51px; left: 91px;"></a>
+</div>
+<div id="layer3" style="position:absolute; width: 300px; top: 260px; left: 200px; z-index: 1; text-align: center; font-size: 14px;">
+	<span id="data"></span>
+</div>
+<div id="layer4" style="cursor: default; position:absolute; width: 300px; top: 275px; left: 200px; z-index: 2; text-align: center;">
+	<p>
+	<h3 style="color: #ff0000; text-align: center; font-size: 16px;">
+		<strong>OVER THE LAST 24 HOURS<br />
+		THE <u>KP INDEX MEASURES <br />
+		AN EIGHT (8)</u> ON THE INDEX SCALE. </strong>
+	</h3>
+	</p>
+</div>
+
+</body></html>

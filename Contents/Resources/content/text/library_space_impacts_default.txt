@@ -1,0 +1,33 @@
+<div id="research">
+	<div id="term">
+		<h2>Space Impacts</h2>
+	</div>
+	<div id="term-content">
+		
+		<div id="full-pane">
+		
+			<span id="more-information">
+				<div class="column left">
+					<p>
+						Space Debris - Space Command monitors space debris in space, reporting whenever there is threat of an impact. Scientists estimate there are millions of pounds of debris in Earth orbit. Debris is also found in lunar orbit from previous missions. These present a hazard to our spacecraft. 
+					</p>
+					<p>
+						Meteor Showers &ndash; These are minefields of debris found in the inner solar system shed by comets as they pass by the Sun. Comet dust and debris become meteors when they hit Earth's atmosphere and are seen at night shooting across the sky. This debris can be harmful to spacecraft travelling in Earth orbit and through space.
+					</p>
+				</div>
+				
+				<div class="column right">
+					<p>
+						<strong>SPACECRAFT PROTECTION</strong>
+					</p>
+					<p>
+						Many different shields protect the crew and spacecraft from impacts, Meteoroid/debris blankets are made of a ceramic fabric backed by Kevlar, the same material found in bullet-proof vests. Spacecraft windows consists of at least two panes. Some windows are covered by metal shutters or debris blankets when not is use. <strong>Solar panels on the outside of the spacecraft are the most vulnerable to impact.</strong>
+					</p>
+				</div>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

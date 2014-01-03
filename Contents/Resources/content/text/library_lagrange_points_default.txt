@@ -1,0 +1,22 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Lagrange Points, L-Points or liberation points</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					Lagrange points, L-points, or libration points are the five positions in an orbital configuration where a small object affected only by gravity is stationary relative to two larger objects (such as <strong><em>satellite</em></strong> with respect to the Earth and Sun.)
+				</p>
+			</span>
+		
+		</div>
+		
+	</div>
+	
+</div>

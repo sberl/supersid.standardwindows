@@ -1,0 +1,2 @@
+<p>You will need to check the system status of the Mars Lander, Mars orbital satellites and Mars control to see if any systems were damaged by the solar storm.<br />
+To complete this task follow your paper task card.</p>

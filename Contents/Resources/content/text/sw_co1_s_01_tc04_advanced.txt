@@ -1,0 +1,5 @@
+<ol>
+	<li>Look up <strong>Space Weather</strong>. Read the information.</li>
+	<li>Answer <strong>QUESTION 3</strong> on the <strong>SPACE WEATHER</strong> section of your <strong>DATA LOG</strong>.</li>
+	<li>Go to <strong>Step 5</strong></li>
+</ol>

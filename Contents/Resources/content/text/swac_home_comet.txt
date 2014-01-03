@@ -1,0 +1,35 @@
+<div id="content">
+	<div class="banner">
+		<img src="../images/SWACBanner.jpg" alt="SWAC" />
+	</div>
+	<div class="section">
+		<h2 class="orange">Sunspot Regions</h2>
+		<ul>
+			<li><a href="event:loadCItem('SWAC_hmi_magnetogram','SWAC_comet')">HMI Magnetogram</a></li>
+			<li><a href="event:loadCItem('SWAC_aia_advanced','SWAC_comet')">AIA Extreme Ultraviolet Image</a></li>
+			<li><a href="event:loadCItem('SWAC_hmi_aia','SWAC_comet')">HMI/AIA Composite Image</a></li>
+			<li><a href="event:loadCItem('SWAC_lasco','SWAC_comet')">Large Angle and Spectrometric Coronagraph (LASCO)</a></li>
+		</ul>
+	</div>
+	<div class="section">
+		<h2 class="green">Storm Signals</h2>
+		<ul>
+			<li><a href="event:loadCItem('SWAC_goes_xray_flux','SWAC_comet')">GOES X-ray Flux</a></li>
+		</ul>
+	</div>
+	<div class="section">
+		<h2 class="blue">Magnetosphere</h2>
+		<ul>
+			<li><a href="event:loadCItem('SWAC_kp_index','SWAC_comet')">Kp Index Data</a></li>
+			<li><a href="event:loadCItem('SWAC_magnetosphere','SWAC_comet')">Magnetosphere Graph</a></li>
+		</ul>
+	</div>
+	<div class="section">
+		<h2 class="purple">Aurora</h2>
+		<ul>
+			<li><a href="event:loadCItem('SWAC_poes','SWAC_comet')">Auroral Activity on Earth - NOAA POES</a></li>
+			<li><a href="event:loadCItem('SWAC_kiruna_camera','SWAC_comet')">Kiruna All-Sky Camera</a></li>
+			<li><a href="event:loadCItem('SWAC_kp_index_map','SWAC_comet')">Kp Index Map</a></li>
+		</ul>
+	</div>
+</div>

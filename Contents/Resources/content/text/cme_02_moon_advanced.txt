@@ -1,0 +1,28 @@
+<div id="content">
+	<div class="right long center">
+		<img class="right" src="../images/cme_02_moon_advanced.jpg" />
+		<p>
+			SCALE: 1mm = 200,000 kilometers.
+		</p>
+		<p>
+			<strong><span class="orange">Distance</span> / Time = Speed</strong>
+		<p>
+	</div>
+	<p>
+		<strong>What is the distance the solar flare traveled in kilometers from point A to point B?</strong> 
+		<ol>
+			<li>The change in distance on the images is 5 millimeters (5 mm).</li>
+			<li>The scale of the images is 1mm = 200,000 kilometers.</li>
+			<li>Multiply to get the answer.</li>
+		</ol>
+	</p>
+	<p>
+		Now we'll measure the time. 
+	</p>
+	<p>
+		Click on the <strong>TIME MEASUREMENT</strong> button to continue.
+	</p>
+	
+	<span class="cme-button"><a id="cme-back" href="ContentTool_Template.html?assets=../text/cme_01_moon_advanced.txt">BACK</a></span>
+	<span class="nextbuttontool"><a id="tool" href="ContentTool_Template.html?assets=../text/cme_03_moon_advanced.txt">TIME <br>MEASUREMENT</a></span>	
+</div>

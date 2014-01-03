@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<form>
+		<open_code>324</open_code>
+		<close_code>786</close_code>
+		<messages>
+			<correct_message>Correct Message</correct_message>
+			<incorrect_message>Incorrect Code</incorrect_message>
+		</messages>
+	</form>
+	<animation>
+		<file>sw_antenna.swf</file>
+	</animation>
+</tool>

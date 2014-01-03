@@ -1,0 +1,397 @@
+<station name="Mission Control">
+	<stylesheet>
+		<asset container="true" cindex="moon_css" />
+	</stylesheet>
+	<tools>
+		<tool skill_level="" id="1">
+			<name><![CDATA[SWAC]]></name>
+			<shortname><![CDATA[SWAC]]></shortname>
+			<asset container="true" cindex="SWAC_moon" />
+			<asset container="false" cindex="SWAC_moon" />
+		</tool>
+		<tool skill_level="" id="2">
+			<name><![CDATA[CME]]></name>
+			<shortname><![CDATA[CME]]></shortname>
+			<asset container="true" cindex="CME_moon" />
+		</tool>
+		<tool skill_level="" id="3">
+			<name><![CDATA[Coronal Mass Ejection Procedures]]></name>
+			<shortname><![CDATA[CME Procedures]]></shortname>
+			<asset container="true" cindex="CMEProcedures" />
+		</tool>
+	</tools>
+	<intro>
+		<activate skill_level="BEGINNER">
+			<asset container="true" cindex="activate" />
+			<asset container="false" cindex="SW_MO1_M_activate" />
+			<defaulttext>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_00_tc01" />
+			</defaulttext>
+		</activate>
+		<activate skill_level="ADVANCED">
+			<asset container="true" cindex="activate" />
+			<asset container="false" cindex="SW_MO1_M_activate_advanced" />
+			<defaulttext>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_00_tc01" />
+			</defaulttext>
+		</activate>
+	</intro>
+	<tasks>
+		<defaulttext>
+			<asset container="true" cindex="task_card" />
+			<asset container="false" cindex="SW_MO1_M_00_tc02" />
+		</defaulttext>
+		<task green_screen="" skill_level="BEGINNER">
+			<name><![CDATA[Space Weather Research]]></name>
+			<shortname><![CDATA[Research]]></shortname>
+			<defaulttext>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_01_default" />
+			</defaulttext>
+			<steptext>
+				<name><![CDATA[Step 1]]></name>
+				<shortname><![CDATA[Step 1]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_01_tc01" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 2]]></name>
+				<shortname><![CDATA[Step 2]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_01_tc02" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 3]]></name>
+				<shortname><![CDATA[Step 3]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_01_tc03" />
+			</steptext>
+		</task>
+		<task green_screen="" skill_level="ADVANCED">
+			<name><![CDATA[Space Weather Research]]></name>
+			<shortname><![CDATA[Research]]></shortname>
+			<defaulttext>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_01_default" />
+			</defaulttext>
+			<steptext>
+				<name><![CDATA[Step 1]]></name>
+				<shortname><![CDATA[Step 1]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_01_tc01" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 2]]></name>
+				<shortname><![CDATA[Step 2]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_01_tc02_advanced" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 3]]></name>
+				<shortname><![CDATA[Step 3]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_01_tc03_advanced" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 4]]></name>
+				<shortname><![CDATA[Step 4]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_01_tc04_advanced" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 5]]></name>
+				<shortname><![CDATA[Step 5]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_01_tc05_advanced" />
+			</steptext>
+		</task>
+		<task green_screen="" skill_level="BEGINNER">
+			<name><![CDATA[Solar Observations]]></name>
+			<shortname><![CDATA[Observations]]></shortname>
+			<defaulttext>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_02_default" />
+			</defaulttext>
+			<triggers>
+				<trigger eventid="3" autoOpen="true" />
+			</triggers>
+			<steptext>
+				<name><![CDATA[Step 1]]></name>
+				<shortname><![CDATA[Step 1]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_02_tc01" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 2]]></name>
+				<shortname><![CDATA[Step 2]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_02_tc02" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 3]]></name>
+				<shortname><![CDATA[Step 3]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_02_tc03" />
+			</steptext>
+		</task>
+		<task green_screen="" skill_level="ADVANCED">
+			<name><![CDATA[Solar Observations]]></name>
+			<shortname><![CDATA[Observations]]></shortname>
+			<defaulttext>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_02_default" />
+			</defaulttext>
+			<triggers>
+				<trigger eventid="1" autoOpen="true" />
+			</triggers>
+			<steptext>
+				<name><![CDATA[Step 1]]></name>
+				<shortname><![CDATA[Step 1]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_02_tc01" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 2]]></name>
+				<shortname><![CDATA[Step 2]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_02_tc02" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 3]]></name>
+				<shortname><![CDATA[Step 3]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_02_tc03_advanced" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 4]]></name>
+				<shortname><![CDATA[Step 4]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_02_tc04_advanced" />
+			</steptext>
+		</task>
+		<task green_screen="true" skill_level="">
+			<name><![CDATA[Space Weather Report]]></name>
+			<shortname><![CDATA[Report]]></shortname>
+			<defaulttext>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_03_default" />
+			</defaulttext>
+			<steptext>
+				<name><![CDATA[Step 1]]></name>
+				<shortname><![CDATA[Step 1]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_03_tc01" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 2]]></name>
+				<shortname><![CDATA[Step 2]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_03_tc02_green_screen" />
+			</steptext>
+		</task>
+		<task green_screen="false" skill_level="">
+			<name><![CDATA[Space Weather Report]]></name>
+			<shortname><![CDATA[Report]]></shortname>
+			<defaulttext>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_03_default" />
+			</defaulttext>
+			<steptext>
+				<name><![CDATA[Step 1]]></name>
+				<shortname><![CDATA[Step 1]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_03_tc01" />
+			</steptext>
+			<steptext>
+				<name><![CDATA[Step 2]]></name>
+				<shortname><![CDATA[Step 2]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_03_tc02" />
+			</steptext>
+		</task>
+		<task green_screen="" skill_level="">
+			<name><![CDATA[Coronal Mass Ejection]]></name>
+			<shortname><![CDATA[CME]]></shortname>
+			<defaulttext>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_04_default" />
+			</defaulttext>
+			<steptext>
+				<name><![CDATA[Step 1]]></name>
+				<shortname><![CDATA[Step 1]]></shortname>
+				<asset container="true" cindex="task_card" />
+				<asset container="false" cindex="SW_MO1_M_04_tc01" />
+			</steptext>
+		</task>
+	</tasks>
+	<events>
+		<event id="1" emergency="true">
+			<name><![CDATA[Space Debris]]></name>
+			<shortname><![CDATA[ALERT!]]></shortname>
+		</event>
+		<event id="2" emergency="true">
+			<name><![CDATA[Meteor Shower]]></name>
+			<shortname><![CDATA[ALERT!]]></shortname>
+		</event>
+		<event id="3" emergency="false">
+			<name><![CDATA[CME]]></name>
+			<shortname><![CDATA[ALERT!]]></shortname>
+			<asset container="true" cindex="alert" />
+			<asset container="false" cindex="SW_MO1_M_02_event1" />
+		</event>
+	</events>
+	<library>
+		<entry skill_level="">
+			<name><![CDATA[Aurora]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_aurora_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Constant Solar Effects]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_constant_solar_effects_on_earth_advanced" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Corona]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_corona_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Coronal Mass Ejection (CME)]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_coronal_mass_ejection_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Coronal Mass Ejection Impacts]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_coronal_mass_ejection_impacts_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Deep Space Network]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_deep_space_network_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Earth's Atmosphere]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_earth_atmosphere" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Geomagnetic Storm]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_geomagnetic_storm_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Glovebox]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_glovebox_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Lagrange Points]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_lagrange_points_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Magnetic Field]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_magnetic_field_advanced" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Magnetogram]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_magnetogram_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Magnetosphere]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_magnetosphere_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Plasma]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_plasma_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Power Grids and CMEs]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_power_grids_cmes_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Radiation]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_radiation_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Satellite]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_satellite_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Satellite and CMEs]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_satellites_cmes_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Solar Cycle]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_solar_cycles_advanced" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Solar Flare]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_solar_flares_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Solar Storms]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_solar_storms_advanced" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Solar Wind]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_solar_wind_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Sound of the Aurora]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_sound_aurora_advanced" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Space Impacts]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_space_impacts_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Space Weather]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_space_weather_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Spacecraft and CMEs]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_spacecraft_cmes_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Sun]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_sun_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Sun-Earth Connection]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_sun_earth_connection_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Sunspots]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_sun_spots_default" />
+		</entry>
+		<entry skill_level="">
+			<name><![CDATA[Ultraviolet Light]]></name>
+			<asset container="true" cindex="library_page" />
+			<asset container="false" cindex="library_ultraviolet_light_default" />
+		</entry>
+	</library>
+</station>

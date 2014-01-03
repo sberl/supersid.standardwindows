@@ -1,0 +1,43 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Solar Storms</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<img class="right" src="../images/library_solar_storms.jpg" alt="Solar Storms" />
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					A disturbance on the surface of the Sun, such as a solar flare or a coronal mass ejection (CME).
+				</p>
+			</span>
+			<span id="more-information">
+				<p>
+					<strong>More Information:</strong><br />
+					Tremendous heat and powerful magnetic fields cause the <strong><a href="event:loadToolCItem('Research','ResearchSunhtm')">Sun</a></strong>'s 
+					surface to churn and bubble. Areas of concentrated magnetism create <strong>
+					<a href="event:loadToolCItem('Research','ResearchSunSpotshtm')">sunspots.</a></strong>
+				</p>
+				<p>
+					The areas around  sunspots can produce intense solar storms called <strong>
+					<a href="event:loadToolCItem('Research','ResearchSolarFlareshtm')">solar flares</a></strong> and <strong>
+					<a href="event:loadToolCItem('Research','ResearchCoronalMassEjectionhtm')">coronal mass ejections (CMEs)</a></strong>.
+				</p>
+				<p>
+					A solar flare occurs  when magnetic energy builds to a peak near the Sun's surface and explodes. 
+					This sends high-energy particles into space.
+				</p>
+				<p>
+					CMEs last longer and carry a larger cloud of particles and magnetic field into space than do solar  flares.
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

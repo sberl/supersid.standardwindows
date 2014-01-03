@@ -1,0 +1,23 @@
+<div id="content" class="cme">
+
+	<div class="right medium center">
+		<br /><br /><br />
+		<p class="orange">
+			<strong>Distance/Time = Speed</strong>
+		</p>
+		<p class="orange">
+			<strong>km per minute x 60 = km per hour</strong>
+		</p>
+	</div>
+	
+	<h1>SPEED CALCULATION</h1>
+	
+	<p><strong>How fast is the CME travelling?</strong></p>
+	<ol>
+		<li>Divide the distance the flare traveled (your Distance Measurement) by the time it took (your Time Measurement).</li><br />
+		<li>Multiply your answer by 60 to get kilometers per hour.</li>
+	</ol>
+	
+	<span class="cme-button"><a id="cme-back" href="ContentTool_Template.html?assets=../text/cme_03_advanced.txt">BACK</a></span>
+	
+</div>

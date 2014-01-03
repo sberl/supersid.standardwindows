@@ -1,0 +1,7 @@
+<p>To make observations of the Aurora you will look at the data from different satellites.</p>
+<ol>
+	<li>Click on the <strong>LIBRARY</strong> at the top of the screen and look up <strong>AURORA</strong>.</li>
+	<li>Read the information.</li>
+	<li>Close the LIBRARY by clicking on the X in the upper right corner of the window.</li>
+	<li>Go to <strong>STEP 2</strong>.</li>
+</ol>

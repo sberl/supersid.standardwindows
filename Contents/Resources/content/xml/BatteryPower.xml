@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<form>
+		<entry_code>271</entry_code>
+		<messages>
+			<correct>POWER RESTORED</correct>
+			<incorrect>INCORRECT CODE</incorrect>
+			<danger>ALERT! Spacecraft Battery level is dangerously low!</danger>
+		</messages>
+	</form>
+	<time>
+		<stage_one>60</stage_one>		<!-- default is 30 --->
+		<stage_two>120</stage_two>		<!-- 60 --->
+		<stage_three>240</stage_three>	<!--- 120 --->
+		<refill>5</refill>				<!--- 5 --->
+	</time>
+</tool>

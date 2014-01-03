@@ -1,0 +1,32 @@
+<div id="research">
+	<div id="term">
+		<h2>Dust Storms on Mars</h2>
+	</div>
+	<div id="term-content">
+		<!--
+		<span id="definition">
+			<p>
+				<strong>Definition:</strong><br />
+				
+			</p>
+		</span>
+		-->
+		<span id="more-information">
+			<!--
+			<p>
+				<strong>More Information:</strong><br />
+			</p>
+			-->
+			<span class="right caption medium">
+				<img src="../images/library_dust_storms_mars_01.jpg" alt="Dust Storms on Mars" />
+				<small>
+					Dust storms on Mars are powered by sunshine. As on Earth, the Sun warms the surface of the planet, and causes the air to move upward. The changes in the air temperature create wind. Since Mars has a very thin atmosphere and less gravity compared to Earth, small dust particles are lifted off the surface and hang in the air. The dust on Mars is about as fine as smoke.
+				</small>
+			</span>
+			<p>
+				Dust storms on <strong><a href="event:loadCItem('ResearchMarshtm','Library')">Mars</a></strong> can last from days to months. Most dust storms occur when Mars is the closest to the <strong><a href="event:loadCItem('ResearchSunhtm','Library')">Sun</a></strong>.  However, dust storms can occur at any time and are not predictable.   Since they are <strong>not</strong> predictable, it is necessary to monitor the surface for them at all times.  NASA spacecraft have encountered many dust storms.  Visibility may significantly decrease and solar panels can be damaged.
+			</p>
+			<img class="left" src="../images/library_dust_storms_mars_02.jpg" alt="Dust Storms on Mars" />
+		</span>
+	</div>
+</div>

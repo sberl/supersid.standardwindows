@@ -1,0 +1,88 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Magnetic Field</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="left-pane">
+		
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					A region in which magnetic forces can be observed. Magnetic Poles: Either of two regions in a magnet at which the magnet's 
+					field is most intense. The two regions have opposing polarities, which we label "north" and "south", after the two poles on the Earth. 
+				</p>
+			</span>
+			
+			<span id="more-information">
+				<p>
+					<strong>More Information:</strong><br />
+					A magnetic field is the 3-dimensional region around a magnet within which ferrous (magnetically sensitive) metals, electrical currents, 
+					<strong><a href="event:loadToolCItem('Research','ResearchPlasmahtm')">plasma</a></strong>, or other magnets are either attracted or repelled.
+				</p>
+				<img src="../images/library_magnetic_field_02.gif" alt="Magnetic Field Animation" />
+				<small>An animation of the magnetic forces surrounding a magnet.</small>
+				<br />
+				<img class="noborder" src="../images/library_magnetic_field_04.jpg" alt="Magnetic Field" />
+				<small>Two magnets with North and South poles labeled.</small>
+				<br /><br />
+				<div class="right medium caption">
+					<img src="../images/library_magnetic_field_03.jpg" alt="Magnetosphere" />
+					<small>A drawing of Earth's magnetosphere.</small>
+				</div>
+				<p>
+					The field consists of layers of magnetic flow that originate from the magnet's north pole and move in arcs to its south pole.
+				</p>
+				<p>
+					The Earth's core produces a magnetic field known as the <strong>
+					<a href="event:loadToolCItem('Research','ResearchMagnetospherehtm')">magnetosphere</a></strong>.
+				</p>
+				<p>
+					During a mission to the Moon (or to other locations in the solar system) a spacecraft is outside the protection of Earth's magnetosphere.
+				</p>
+			</span>
+			
+		</div>
+		
+		<div id="right-pane" class="center">
+			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="250" height="168" id="Library_Magnetosphere_Video" align="middle">
+				<param name="movie" value="../swf/Library_Magnetosphere_Video.swf" />
+				<param name="quality" value="high" />
+				<param name="bgcolor" value="#000000" />
+				<param name="play" value="true" />
+				<param name="loop" value="true" />
+				<param name="wmode" value="opaque" />
+				<param name="scale" value="noscale" />
+				<param name="menu" value="false" />
+				<param name="devicefont" value="false" />
+				<param name="salign" value="tl" />
+				<param name="allowScriptAccess" value="sameDomain" />
+			<!--[if !IE]>-->
+			<object type="application/x-shockwave-flash" data="../swf/Library_Magnetosphere_Video.swf" width="250" height="168">
+				<param name="movie" value="../swf/Library_Magnetosphere_Video.swf" />
+				<param name="quality" value="high" />
+				<param name="bgcolor" value="#000000" />
+				<param name="play" value="true" />
+				<param name="loop" value="true" />
+				<param name="wmode" value="opaque" />
+				<param name="scale" value="noscale" />
+				<param name="menu" value="false" />
+				<param name="devicefont" value="false" />
+				<param name="salign" value="tl" />
+				<param name="allowScriptAccess" value="sameDomain" />
+			<!--<![endif]-->
+			<a href="http://www.adobe.com/go/getflash">
+				<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+			</a>
+			<!--[if !IE]>-->
+			</object>
+			<!--<![endif]-->
+			</object>
+			<small>Watch a Magnetosphere Movie to see the effects of the solar wind on Earth's magnetosphere.</small>
+		</div>
+		
+	</div>
+	
+</div>

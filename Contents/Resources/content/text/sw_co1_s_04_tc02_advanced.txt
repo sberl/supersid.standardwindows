@@ -1,0 +1,8 @@
+<p>You will be observing how the poles of magnets attract or repel each other. You will also be working with a three-dimensional model that demonstrates the structure of Earth's magnetosphere.</p>
+<ol>
+	<li>Locate the <strong>MAGNETOSPHERE LAB SHEET</strong> in your <strong>DATA LOG</strong>.</li>
+	<li>Read the instructions for the <strong>MAGNETIC OBSERVATIONS</strong> and <strong>MAGENTIC FIELD MODEL</strong> experiments.</li>
+	<li>Go to the <strong>GLOVEBOX</strong> area for your team to perform the experiments.</li>
+	<li>Record your observations on the <strong>MAGNETOSPHERE LAB SHEET</strong> in your <strong>DATA LOG</strong>.</li>
+	<li>Choose the next task when you have completed all of the steps in this task.</li>
+</ol>

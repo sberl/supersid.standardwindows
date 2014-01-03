@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<zoom active="false" />
+	<earth active="true" />
+	<menu>
+		<item title="Display">
+			<label>Display</label>
+			<click>hide_about</click>
+		</item>
+		<item title="Data">
+			<label>About the Data</label>
+			<click>load_about</click>
+		</item>
+		<item title="Satellite">
+			<label>About the Satellite</label>
+			<click>load_about</click>
+		</item>
+	</menu>
+	<module title="HMI Magnetogram">
+		<display>swac_hmi_magnetogram_display.jpg</display>
+		<content>SWAC_Content_Template.html?assets=../text/swac_hmi_magnetogram_content_default.txt</content>
+		<data>SWAC_Window_Template.html?assets=../text/swac_hmi_magnetogram_data_default.txt</data>
+		<satellite>SWAC_Window_Template.html?assets=../text/swac_hmi_magnetogram_satellite_default.txt</satellite>
+		<map></map>
+		<video></video>
+	</module>
+</tool>

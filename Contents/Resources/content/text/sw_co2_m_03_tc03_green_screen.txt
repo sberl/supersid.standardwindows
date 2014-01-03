@@ -1,0 +1,7 @@
+<p>The Space Weather Report is an update for the crew in the Spacecraft and the team in Mission Control.</p>
+<ol>
+	<li>Locate the <strong>SPACE WEATHER REPORT</strong> in your <strong>DATA LOG</strong>.</li>
+	<li>Fill in the locations of aurora sightings you received from the Spacecraft and your Systems Status information. If you have not received the information, send this to the Spacecraft: "<strong>Please send  the continents on which aurora will be seen</strong."</li>
+	<li>Go to the <strong>VIDCOM</strong> station and follow the instructions to record the <strong>SPACE WEATHER REPORT</strong>.</li>
+	<li>Choose the next task when you have completed all of the steps in this task.</li>
+</ol>

@@ -1,0 +1,39 @@
+<div id="research">
+	<div id="term">
+		<h2>Aurora</h2>
+	</div>
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<img class="right" src="../images/library_aurora.jpg" alt="Aurora" />
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					Light radiated by ions and atoms in the Earth's upper atmosphere, mostly in polar regions, the result of bombardment by energetic electrically charged particles from the magnetosphere.
+						<ul>
+							<li>aurora borealis &ndash; North Pole</li>
+							<li>aurora australis &ndash; South Pole</li>
+						</ul>
+				</p>
+			</span>
+			<span id="more-information">
+				<p>
+					The aurora is light given off by nitrogen and oxygen atoms in the atmosphere that has been electrically charged by the collision of <strong><a href="event:loadCItem('ResearchSolarWindhtm','Library')">solar wind</a></strong> particles and the Earth's magnetosphere.  They are seen mostly in polar regions.
+				</p>
+				<p>
+					Aurora are more visible after solar storms have been launched at the Earth. 
+				</p>
+				<p>
+					In northern latitudes, the effect is known as the <em>aurora borealis</em>. It is also called the <em>northern polar lights</em> as it is only visible in the sky from the Northern Hemisphere. 
+				</p>
+				<p>
+					Its southern counterpart, the aurora australis or the <em>the southern polar lights</em>, is only visible from high southern latitudes in the southern hemisphere. 
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

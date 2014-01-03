@@ -1,0 +1,12 @@
+<div id="contentBox" class="zoom-disabled">
+	<h1>KIRUNA ALL-SKY CAMERA</h1>
+	<p>
+	(360&deg; fish-eye lens ground-based camera view)
+	<p>
+	The aurora is light given off by nitrogen and oxygen atoms in the atmosphere that has been electrically charged by the collision of <em><strong>solar wind</strong></em> particles and Earth's magnetosphere. </p>
+	<p>
+	Aurora are more visible after <em><strong>solar storms</strong></em> have been launched at Earth. </p>
+  <p>
+		<strong>Due to the record magnitude of the coronal mass ejection this image has been transferred immediately to Mission Control.</strong>
+  </p>
+</div>

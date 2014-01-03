@@ -1,0 +1,16 @@
+<div id="research">
+	<div id="term">
+		<h2>Satellites and CMEs</h2>
+	</div>
+	<div id="term-content">
+
+		<img class="right" src="../images/library_satellites_cmes_mars.jpg" alt="Satellites and CMEs" />
+		<p>
+			The energetic solar particles in the plasma cloud of a coronal mass ejection (CME) can create conditions that lead to electrical charging of satellite surfaces.
+		</p>
+		<p>
+			This can cause damage to solar panels, data corruption in computers, and electronic problems with communications.
+		</p>
+
+	</div>
+</div>

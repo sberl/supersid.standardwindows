@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<module title="SWAC">
+		<content>swacDisplayhtm</content>
+		<display>swacDisplayjpg</display>
+	</module>
+	<!--
+	<module title="testExample">
+		<content>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam turpis neque, aliquet id viverra et, vulputate sed erat. Mauris faucibus lorem at turpis tincidunt venenatis. Sed leo ante, vulputate sed varius non, sollicitudin eu diam. Maecenas facilisis tempus odio, sed varius nunc auctor id. Nunc convallis sodales nunc ac molestie.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam turpis neque, aliquet id viverra et, vulputate sed erat. Mauris faucibus lorem at turpis tincidunt venenatis. Sed leo ante, vulputate sed varius non, sollicitudin eu diam. Maecenas facilisis tempus odio, sed varius nunc auctor id. Nunc convallis sodales nunc ac molestie.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam turpis neque, aliquet id viverra et, vulputate sed erat. Mauris faucibus lorem at turpis tincidunt venenatis. Sed leo ante, vulputate sed varius non, sollicitudin eu diam. Maecenas facilisis tempus odio, sed varius nunc auctor id. Nunc convallis sodales nunc ac molestie.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam turpis neque, aliquet id viverra et, vulputate sed erat. Mauris faucibus lorem at turpis tincidunt venenatis. Sed leo ante, vulputate sed varius non, sollicitudin eu diam. Maecenas facilisis tempus odio, sed varius nunc auctor id. Nunc convallis sodales nunc ac molestie.</content>
+		<image>testImage.jpg</image>
+	</module>
+	<module title="testExample2">
+		<content>swacSunspot01htm</content>
+		<image>swacSunspot01jpg</image>
+	</module>
+	<module title="testExample3">
+		<content>This is a testing example.</content>
+		<image>testImage.jpg</image>
+	</module>
+	-->
+</tool>

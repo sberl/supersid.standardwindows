@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<basic>
+		<groups>
+			<terms>
+				<term title="Communication Loss of Signal" group="orbit">
+					<hint>Communications systems may be disrupted by a plasma cloud from a CME.</hint>
+				</term>
+				<term title="Power Grid Failures" group="earth">
+					<hint>Power Grid Failures are a result of geomagnetic storms on Earth.</hint>
+				</term>
+				<term title="Aurora" group="earth">
+					<hint>Aurora are a result of geomagnetic storms on Earth.</hint>
+				</term>
+				<term title="Radio Interference" group="earth">
+					<hint>Radio interference is a result of geomagnetic storms on Earth.</hint>
+				</term>
+				<term title="Solar Panel Damage" group="orbit">
+					<hint>Solar panels on a satellite or spacecraft may damaged by a plasma cloud from a CME.</hint>
+				</term>
+				<term title="Computer Malfunctions" group="orbit">
+					<hint>Corrupted data and false commands may be a result of a plasma cloud from a CME.</hint>
+				</term>
+			</terms>
+			<messages>
+				<correct>Thank you. Your Final Analysis Report has been submitted.</correct>
+				<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+			</messages>
+		</groups>
+		<timeline>
+			<terms>
+				<term title="Aurora" order="5">
+					<hint>Aurora occur during geomagnetic storms.(KIRUNA)</hint>
+				</term>
+				<term title="Sun Spots" order="0">
+					<hint>Sun spots seen on the Sun are the first indicator of a solar flare (SOHO)</hint>
+				</term>
+				<term title="Solar Flare Eruption" order="1">
+					<hint>Active sunspots may cause a solar flare eruption from the Sun (SOHO)</hint>
+				</term>
+				<term title="Geomagnetic Storms" order="4">
+					<hint>Geomagnetic storms on Earth are caused by energetic particles carried by the Solar Wind (POES)</hint>
+				</term>
+				<term title="Solar Wind" order="3">
+					<hint>A coronal mass ejection sends its cloud of plasma on the Solar Wind (ACE)</hint>
+				</term>
+				<term title="X-Rays" order="2">
+					<hint>Increase x-rays are a result of a solar flare eruption on the Sun (GOES)</hint>
+				</term>
+			</terms>
+			<messages>
+				<correct>Thank you. Your Final Analysis Report has been submitted.</correct>
+				<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+			</messages>
+		</timeline>
+		<formula>
+			<hint>To determine the speed of the coronal mass ejection your team divided the distance the flare travelled by the time it took.</hint>
+			<terms>
+				<term title="Distance" order="0" />
+				<term title="Time" order="2" />
+				<term title="Equals =" order="3" />
+				<term title="Speed" order="4" />
+				<term title="Divided by /" order="1" />
+			</terms>
+			<messages>
+				<correct>Thank you. Your Final Analysis Report has been submitted.</correct>
+				<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+			</messages>
+		</formula>
+	</basic>
+	<advanced>
+		<groups>
+			<terms>
+				<term title="Communication Loss of Signal" group="orbit">
+					<hint>Communications systems may be disrupted by a plasma cloud from a CME.</hint>
+				</term>
+				<term title="Power Grid Failures" group="earth">
+					<hint>Power Grid Failures are a result of geomagnetic storms on Earth.</hint>
+				</term>
+				<term title="Aurora" group="earth">
+					<hint>Aurora are a result of geomagnetic storms on Earth.</hint>
+				</term>
+				<term title="Radio Interference" group="earth">
+					<hint>Radio interference is a result of geomagnetic storms on Earth.</hint>
+				</term>
+				<term title="Solar Panel Damage" group="orbit">
+					<hint>Solar panels on a satellite or spacecraft may damaged by a plasma cloud from a CME.</hint>
+				</term>
+				<term title="Computer Malfunctions" group="orbit">
+					<hint>Corrupted data and false commands may be a result of a plasma cloud from a CME.</hint>
+				</term>
+			</terms>
+			<messages>
+				<correct>Thank you. Your Final Analysis Report has been submitted.</correct>
+				<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+			</messages>
+		</groups>
+		<timeline>
+			<terms>
+				<term title="Radio Waves" order="2">
+					<hint>Radio Waves, like X-Rays travel at the speed of light (Radio/Plasma Detector)</hint>
+				</term>
+				<term title="Aurora" order="6">
+					<hint>Aurora occur during geomagnetic storms.(KIRUNA)</hint>
+				</term>
+				<term title="Sun Spots" order="0">
+					<hint>Sun spots seen on the Sun are the first indicator of a solar flare (SOHO)</hint>
+				</term>
+				<term title="Solar Flare Eruption" order="1">
+					<hint>Active sunspots may cause a solar flare eruption from the Sun (SOHO)</hint>
+				</term>
+				<term title="Geomagnetic Storms" order="5">
+					<hint>Geomagnetic storms on Earth are caused by energetic particles carried by the Solar Wind (POES)</hint>
+				</term>
+				<term title="Solar Wind" order="4">
+					<hint>A coronal mass ejection sends its cloud of plasma on the Solar Wind (ACE)</hint>
+				</term>
+				<term title="X-Rays" order="3">
+					<hint>Increase x-rays are a result of a solar flare eruption on the Sun (GOES)</hint>
+				</term>
+			</terms>
+			<messages>
+				<correct>Thank you. Your Final Analysis Report has been submitted.</correct>
+				<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+			</messages>
+		</timeline>
+		<formula>
+			<hint>To determine the speed of the coronal mass ejection your team divided the distance the flare travelled by the time it took.</hint>
+			<terms>
+				<term title="Distance" order="0" />
+				<term title="Time" order="2" />
+				<term title="Equals =" order="3" />
+				<term title="Speed" order="4" />
+				<term title="Divided by /" order="1" />
+			</terms>
+			<messages>
+				<correct>Thank you. Your Final Analysis Report has been submitted.</correct>
+				<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+			</messages>
+		</formula>
+	</advanced>
+</tool>

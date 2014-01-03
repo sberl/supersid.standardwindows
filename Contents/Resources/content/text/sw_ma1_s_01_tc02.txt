@@ -1,0 +1,6 @@
+<ol>
+	<li>Look up <strong>Cosmic Radiation</strong>. Read the information.</li>
+	<li>Locate the <strong>RADIATION</strong> section in your <strong>DATA LOG</strong>.</li>
+	<li>Check the radiation badges of each member of the crew, use "MET" (Mission Elapsed Time) on the MISSION STATUS monitor and record the information on your <strong>DATA LOG</strong>.  One of two readings will occur: <strong>No radiation exposure</strong> &ndash; the radiation sensor will stay green in color, or <strong>High level of exposure</strong> &ndash; the radiation sensor will show bright red.  This is an emergency. Contact the Mission Commander immediately.</li>
+	<li>Go to <strong>Step 3</strong>.</li>
+</ol>

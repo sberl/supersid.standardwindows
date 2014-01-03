@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<groups>
+		<group id="earth" title="Earth" image="FinalAnalysis_earth.png" caption="CME effects that impact Earth" />
+		<group id="spacecraft" title="Spacecraft" image="FinalAnalysis_spacecraft.png" caption="CME effects that impact a spacecraft in orbit"/>
+	</groups>
+	<terms>
+		<term title="Power Grid Failures" group="earth">
+			<hint>Power Grid Failures are a result of geomagnetic storms on Earth</hint>
+		</term>
+		<term title="Aurora" group="earth">
+			<hint>Aurora are a result of geomagnetic storms on Earth</hint>
+		</term>
+		<term title="Solar Panel" group="spacecraft">
+			<hint>Solar panels on a satellite or spacecraft may damaged by a plasma cloud from a CME.</hint>
+		</term>
+		<term title="Computer Malfunctions" group="spacecraft">
+			<hint>Corrupted data and false commands may be a result of a plasma cloud from a CME.</hint>
+		</term>
+		<term title="Communication Loss of Signal" group="spacecraft">
+			<hint>Communications systems may be disrupted by  a plasma cloud from a CME</hint>
+		</term>
+		<term title="Radio Interference" group="earth">
+			<hint>Radio interference is a result of geomagnetic storms on Earth</hint>
+		</term>
+	</terms>
+	<messages>
+		<correct>Thank you. The first part of your Final Analysis Report has been submitted. Click on GO TO PART 2 to finish your report.</correct>
+		<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+	</messages>
+	<button_part_two>GO TO PART 2</button_part_two>
+	<button_label>SEND REPORT TO FLIGHT DIRECTOR</button_label>
+	<formula>
+		<hint>To determine the speed of the coronal mass ejection your team divided the distance the flare travelled by the time it took.</hint>
+		<terms>
+			<term title="Distance" order="0" />
+			<term title="Time" order="2" />
+			<term title="Equals =" order="3" />
+			<term title="Speed" order="4" />
+			<term title="Divided by /" order="1" />
+		</terms>
+		<messages>
+			<correct>Thank you. Your Final Analysis Report is complete and has been submitted.</correct>
+			<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+		</messages>
+	</formula>
+</tool>

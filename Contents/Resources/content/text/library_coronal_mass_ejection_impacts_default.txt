@@ -1,0 +1,39 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Coronal Mass Ejection Impacts</h2>
+	</div>
+	
+	<div id="term-content">
+		
+		<div id="full-pane">
+			
+			<span class="right caption long">
+				<img src="../images/library_coronal_mass_ejection_impacts.jpg" alt="Coronal Mass Ejection Impacts" />
+				<small class="center">A drawing of Earth's magnetosphere showing the effects of the solar wind.</small>
+			</span>
+		
+			<span id="more-information">
+				<p>
+					<strong>More Information:</strong><br />
+					A <strong><a href="loadToolCItem('Research','ResearchCoronalMassEjectionhtm')">coronal mass ejection (CME)</a></strong> is a cloud of electrically charged particles ejected from the Sun.
+				</p>
+				<p>
+					If a CME is headed in the direction of the Earth or a spacecraft, it can cause the buildup of electricity in metal structures on a spacecraft and can also damage sensitive electronics.
+				</p>
+				<p>
+					A CME interacts with the Earth's magnetic field creating a geomagnetic storm and can produce visible aurora.  
+				</p>
+				<p>
+					<strong><em>Geomagnetic storms</em></strong> can damage electrical circuits in satellites and create currents in the ground affecting electrical power grids. 
+				</p>
+				<p>
+					There is little or no radiation risk to humans on the Earth, as the <strong><em>Earth's atmosphere</em></strong> offers excellent protection to life on Earth from a CME.
+				</p>
+			</span>
+			
+		</div>
+		
+	</div>
+	
+</div>

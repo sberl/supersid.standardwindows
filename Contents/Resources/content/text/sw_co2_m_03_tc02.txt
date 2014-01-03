@@ -1,0 +1,7 @@
+<p>The Mission Commander activated the Spacecraft cameras to monitor any effects on the comet.</p>
+<ol>
+	<li>Click on the <strong>Comet Video</strong> button on the right side of the screen to see recent video of the comet from the Spacecraft cameras.</li>
+	<li>Click on the <strong>ANALYSIS</strong> button to get the analysis from the <strong>Mission Commander</strong>.</li>
+	<li>Close the Comet Video by clicking on the X in the upper right corner of the window.</li>
+	<li>Go to <strong>Step 3</strong>.</li>
+</ol>

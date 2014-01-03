@@ -1,0 +1,22 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Geomagnetic Storm</h2>
+	</div>
+	
+	<div id="term-content">
+	
+		<div id="full-pane">
+		
+			<span id="definition">
+				<p>
+					<strong>Definition:</strong><br />
+					A large-scale disturbance of the <strong><em>magnetosphere</em></strong>, often initiated by the arrival of a plasma cloud originating at the Sun.
+				</p>
+			</span>
+		
+		</div>
+
+	</div>
+	
+</div>

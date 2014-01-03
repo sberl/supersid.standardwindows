@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<groups>
+		<group id="earth_lunar_orbit" title="Earth or Lunar Orbit" image="FinalAnalysis_spacecraft.png" caption="CME effects that impact a spacecraft in orbit" />
+		<group id="earth" title="Earth" image="FinalAnalysis_earth.png" caption="CME effects that impact Earth" />
+	</groups>
+	<terms>
+		<term title="Power Grid Failures" group="earth">
+			<hint>Power Grid Failures are a result of geomagnetic storms on Earth</hint>
+		</term>
+		<term title="Aurora" group="earth">
+			<hint>Aurora are a result of geomagnetic storms on Earth</hint>
+		</term>
+		<term title="Solar Panel Damage" group="earth_lunar_orbit">
+			<hint>Solar panels on a satellite or spacecraft may damaged by a plasma cloud from a CME.</hint>
+		</term>
+		<term title="Computer Malfunctions" group="earth_lunar_orbit">
+			<hint>Corrupted data and false commands may be a result of a plasma cloud from a CME.</hint>
+		</term>
+		<term title="Communication Loss of Signal" group="earth_lunar_orbit">
+			<hint>Communications systems may be disrupted by  a plasma cloud from a CME</hint>
+		</term>
+		<term title="Radio Interference" group="earth">
+			<hint>Radio interference is a result of geomagnetic storms on Earth</hint>
+		</term>
+	</terms>
+	<button_label>SEND REPORT TO FLIGHT DIRECTOR</button_label>
+	<messages>
+		<correct>Thank you. Your Final Analysis Report has been submitted.</correct>
+		<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+	</messages>
+</tool>

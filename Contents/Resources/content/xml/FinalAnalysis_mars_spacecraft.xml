@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tool>
+	<terms>
+		<term title="Aurora" order="5">
+			<hint>Aurora occur during geomagnetic storms.(KIRUNA)</hint>
+		</term>
+		<term title="Sun Spots" order="0">
+			<hint>Sun spots seen on the Sun are the first indicator of a solar flare (SOHO)</hint>
+		</term>
+		<term title="Solar Flare Eruption" order="1">
+			<hint>Active sunspots may cause a solar flare eruption from the Sun (SOHO)</hint>
+		</term>
+		<term title="Geomagnetic Storms" order="4">
+			<hint>Geomagnetic storms on Earth are caused by energetic particles carried by the Solar Wind (POES)</hint>
+		</term>
+		<term title="Solar Wind" order="3">
+			<hint>A coronal mass ejection sends its cloud of plasma on the Solar Wind (ACE)</hint>
+		</term>
+		<term title="X-Rays" order="2">
+			<hint>Increase x-rays are a result of a solar flare eruption on the Sun (GOES)</hint>
+		</term>
+	</terms>
+	<button_label>SEND REPORT TO MISSION COMMANDER</button_label>
+	<messages>
+		<correct>Thank you. Your Final Analysis Report has been submitted.</correct>
+		<incorrect>The highlighted items are in the wrong place. Review the hints and rearrange the items so they are in the correct location. Then click the button to send your report again.</incorrect>
+	</messages>
+</tool>

@@ -1,0 +1,4 @@
+<p>The tabs above are tasks to complete during the mission.</p>
+<p>When you have completed a task move on to the next task.</p>
+<p>If you need help, ask the <strong>Mission Commander</strong>.</p>
+<p>To begin, click on the first tab on the left.</p>

@@ -1,0 +1,9 @@
+<p>We can overlay an ultraviolet image on top of a magnetogram. This is called a composite, which can illustrate areas of activity on the Sun.</p>
+<ol>
+	<li>Under <strong>SUNSPOT REGIONS</strong> select <strong>HMI/AIA Composite Image</strong>.</li>
+	<li>Answer <strong>QUESTION 2</strong> on the SOLAR OBSERVATIONS section of your DATA LOG.</li>
+	<li>Click on the <strong>MOVIE</strong> to observe the solar flare.</li>
+	<li>Send this message to Mission Control: <strong>"We have observed _____ active sunspot(s)."</strong></li>
+	<li>Close SWAC by clicking on the X in the upper right corner of the window.</li>
+	<li>Choose the next task when you have completed all of the steps in this task.</li>
+</ol>

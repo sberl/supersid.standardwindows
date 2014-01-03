@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cindex xmlns:tns="http://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3schools.com G:\Challenger\Phase2\Documentation\cindex.xsd">
+	<citem cmsid="mars_weather_data" itemname="Mars Weather Data" formattype="txt" reftype="DEFAULT" reusetype="COMMON">
+		<fileref>mars_weather_data.txt</fileref>
+		<tags></tags>
+	</citem>
+</cindex>

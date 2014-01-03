@@ -1,0 +1,8 @@
+<p>Space debris can damage solar panels and in extreme cases even penetrate the hull of a spacecraft.</p>
+<ol>
+	<li>Click on the <strong>LIBRARY</strong> button at the top of the screen.</li>
+	<li>Look up <strong>Meteor Showers</strong>. Read the information.</li>
+	<li>Important procedures will be sent to the your team from Mission Control. Inform the <strong>Mission Commander</strong> of the procedures.</li>
+	<li>Close the LIBRARY by clicking on the X in the upper left corner of the window.
+	<li>Go to <strong>Step 3</strong>.</li>
+</ol>

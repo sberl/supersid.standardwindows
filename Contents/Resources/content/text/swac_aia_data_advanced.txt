@@ -1,0 +1,7 @@
+<div id="aboutBox">
+	<h1>Atmospheric Imaging Assembly (AIA) Extreme Ultraviolet Image</h1>
+	<p>
+		The SDO Atmospheric Imaging Assembly (AIA)
+instrument uses filters to allow the camera to record different kinds of ultraviolet light. It images the solar atmosphere in multiple wavelengths to link changes in the surface to interior changes in the Sun. Data includes images of the Sun in 10 wavelengths every 10 seconds.  
+	</p>
+</div>

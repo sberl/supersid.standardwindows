@@ -1,0 +1,42 @@
+<div id="content" class="cme">
+	
+	<div class="cme-info">
+		<div class="cme-info-text">
+			<p>
+				<strong>
+					The ACE satellite is located 1,500,000 kilometers from Earth. 
+				</strong>
+			</p>
+			<p>
+				<strong>
+					The speed of the CME is 2,000,000 kilometers per hour.
+				</strong>
+			</p>
+			<p>
+				<strong>
+					The CME reached the ACE satellite 30 minutes ago.
+				</strong>
+			</p>
+		</div>
+	</div>
+	
+	<h1>WHEN WILL THE CME ARRIVE?</h1>
+	
+	<img src="../images/cme_01_moon.jpg" alt="CME" style="float: right; margin-left: 15px; margin-top: 10px;" />
+	
+	<p>
+		The ACE satellite gauge shows the current geo-magnetic storm level. The ACE data includes the time the solar wind arrives at the satellite and provides advance warning of the arrival of a CME. 
+	</p>
+	<p>
+		Using the distance and speed provided, you will calculate when the CME will arrive at Earth using this formula: <strong>Distance / Speed = Time</strong>.
+	</p>
+	<p>
+		Click on the <strong>CALCULATE</strong> button to begin.  
+	</p>
+	
+	
+	
+	<span class="cme-button"><a id="cme" href="ContentTool_Template.html?assets=../text/cme_02_moon.txt">CALCULATE</a></span>
+	
+	
+</div>

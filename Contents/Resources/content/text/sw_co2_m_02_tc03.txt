@@ -1,0 +1,8 @@
+<ol>
+	<li>On the <strong>System Status</strong> screen select <strong>POWER GRIDS</strong>.</li>
+	<li>Look at the light (green or red) for each system and note any warning messages.</li>
+	<li>Answer <strong>QUESTION 3</strong> on the <strong>CME EFFECTS</strong> section of your <strong>DATA LOG</strong>.</li>
+	<li>Inform the <strong>Flight Director</strong> if any action is required.</li>
+	<li>Close the System Status monitor by clicking on the X in the upper right corner of the window.</li>
+	<li>Choose the next task when you have completed all of the steps in this task.</li>
+</ol>

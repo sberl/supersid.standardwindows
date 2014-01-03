@@ -1,0 +1,10 @@
+<p>To locate places where an aurora may been observed on Earth and on Mars you will look at satellite data.</p>
+<ol>
+	<li>Click on the <strong>LIBRARY</strong> button at the top of the screen.</li>
+	<li>Look up <strong>Aurora on Earth</strong> and read the information.</li>
+	<li>Answer <strong>QUESTION 1</strong> on the <strong>AURORA</strong> section of your <strong>DATA LOG</strong>.</li>
+	<li>Look up <strong>Aurora on Mars</strong> and read the information.</li>
+	<li>Answer <strong>QUESTION 2</strong> on the <strong>AURORA</strong> section of your <strong>DATA LOG.</strong></li>
+	<li>Close the LIBRARY by clicking on the X in the upper right corner of the window.</li>
+	<li>Go to <strong>Step 2</strong>.</li>
+</ol>

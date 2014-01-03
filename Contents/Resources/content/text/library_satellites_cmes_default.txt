@@ -1,0 +1,29 @@
+<div id="research">
+		
+	<div id="term">
+		<h2>Satellites and CMEs</h2>
+	</div>
+	
+	<div id="term-content">
+		
+		<div id="full-pane">
+		
+			<img class="right" src="../images/library_satellites_cmes.jpg" alt="Satellites and CMEs" />
+		   
+			<span id="more-information">
+				<p>
+				Satellites are vulnerable to energetic solar particles such as those from <strong><a href="event:loadToolCItem('Research','ResearchGeomagneticStormhtm')">geomagnetic storm</a></strong> caused by a <strong><a href="event:loadToolCItem('Research','ResearchCoronalMassEjectionhtm')">coronal mass ejection (CME)</a></strong>. 
+				</p>
+				<p>
+				Geomagnetic storms create conditions that lead to enhanced charging of satellite surfaces.  
+				</p>
+				<p>
+This can lead to degradation of solar panels and discharges that lead to false-commands and data corruption in computers, and electronic problems with communications components.
+				</p>
+			</span>
+		
+		</div>
+	
+	</div>
+	
+</div>

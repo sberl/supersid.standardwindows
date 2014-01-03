@@ -1,0 +1,6 @@
+<div id="aboutBox">
+	<h1>ACE Magnetosphere Data</h1>
+	<p>
+		When the solar wind's magnetic field is opposite Earth's, it is called a southward field and is considered to be negative in sign. Each time the yellow line in the graph drops below the dashed white line labeled '0', we know that our magnetosphere has been affected by the solar wind.   
+	</p>
+</div>

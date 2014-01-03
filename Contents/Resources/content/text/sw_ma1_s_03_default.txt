@@ -1,0 +1,2 @@
+<p>You need to determine if the CME is heading towards Earth and the Mars Lander.<br />
+To complete this task follow your paper task card.</p>

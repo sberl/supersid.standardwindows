@@ -1,0 +1,17 @@
+<div id="contentBox" class="zoom-enabled">
+        
+	<h1>Sound of the CME</h1>
+	
+	<p>
+		These are audio files of solar radio bursts produced by two intense X-class CMEs.
+	</p>
+	
+	<p>
+		Compare the X17 level CME with an X28 level by clicking on each of the two audio files.
+	</p>
+	
+	<p>
+		Since the ear cannot hear frequencies in this range, the frequencies have been shifted down so that you can hear the emission. The 4-hour duration of the recordings have been shortened to 15 seconds to reduce the length.
+	</p>
+	
+</div>
