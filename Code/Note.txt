@@ -7,24 +7,24 @@ supersid_upload.py      FTP files to sid.stanford.edu
 These are tested with Python 2.7 and the various libraries it
 imports. To be more precise:
 
-Python2.7.3
-	from http://python.org/download/releases/2.7.3/
+Python2.7.4
+	from http://python.org/download/releases/2.7.4/
 
-PyAudio v0.2.4
+PyAudio v0.2.7
 	PyAudio for Python 2.7
 	from http://people.csail.mit.edu/hubert/pyaudio/
 
-matplotlib-1.1.0
-	from http://pypi.python.org/pypi/matplotlib
+matplotlib-1.2.1
+	via http://matplotlib.org
 
-numpy-1.6.1
-	via http://numpy.scipy.org/
-
-scipy-0.10.1 
-	via http://www.scipy.org/
+numpy-1.7.1
+	via http://www.numpy.org/
 
 wxPython 2.8.12.1 (unicode)
 	from http://www.wxpython.org/download.php
+
+pyephem 3.7.5.1:
+	from https://pypi.python.org/pypi/pyephem/
 
 Enjoy!
 

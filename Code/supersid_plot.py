@@ -11,6 +11,36 @@ import getopt
 
 import numpy as np
 import matplotlib.pyplot as plt
+
+import ephem # To calculate time of sunrise and sunset
+
+#-------------------------------------------------------------------------------
+
+def next_sunrise(lat, lon, time):
+    sun = ephem.Sun()
+    ob = ephem.Observer()
+    ob.lat = lat
+    ob.long = lon
+    ob.date = time
+    sunrise = ob.next_rising(sun)
+    hour = sunrise.tuple()[3]
+    minute = sunrise.tuple()[4]
+    dec_time = hour + minute/60.
+    #print "Lat " + lat + " Long " + lon + " Date " + time + " sunrise " + str(dec_time)
+    return dec_time
+
+def next_sunset(lat, lon, time):
+    sun = ephem.Sun()
+    ob = ephem.Observer()
+    ob.lat = lat
+    ob.long = lon
+    ob.date = time
+    sunrise = ob.next_setting(sun)
+    hour = sunrise.tuple()[3]
+    minute = sunrise.tuple()[4]
+    dec_time = hour + minute/60.
+    #print "Lat " + lat + " Long " + lon + " Date " + time + " sunset " + str(dec_time)
+    return dec_time
 #-------------------------------------------------------------------------------
 
 class SUPERSID_PLOT():
@@ -58,7 +88,10 @@ class SUPERSID_PLOT():
 
         # Parse only the info needed to use
         site_name = sid_paras['Site']
-        start_time = sid_paras['UTC_StartTime']
+        self.start_time = sid_paras['UTC_StartTime']
+        self.site_long = sid_paras['Longitude']
+        self.site_lat  = sid_paras['Latitude']
+
         station_names = []
 
         if (multiple_column_flag == 1):
@@ -142,38 +175,25 @@ class SUPERSID_PLOT():
         #current_figure.set_figsize_inches(8.0,6.0)
 
         # Sunrise and sunset shade
-        sun_rise = 6.0
-        sun_set  = 18.0
-        plt.axvspan(0.0, sun_rise, facecolor='blue', alpha=0.2)
-        plt.axvspan(sun_set, 24.0, facecolor='blue', alpha=0.2)
+        sun_rise = next_sunrise(self.site_lat, self.site_long, self.start_time)
+        sun_set = next_sunset(self.site_lat, self.site_long, self.start_time)
 
-        plt.show()
+        if sun_set > sun_rise:
+            plt.axvspan(0.0, sun_rise, facecolor='blue', alpha=0.2)
+            plt.axvspan(sun_set, 24.0, facecolor='blue', alpha=0.2)
+        else:
+            plt.axvspan(sun_set, sun_rise, facecolor='blue', alpha=0.2)
 
     #-------------------------------------------------------------------------------
 
     def plot_filelist(self, filelist):
 
-        # set other decorating plot properties
-        current_axes = plt.gca()
-        current_axes.set_xlim([0,24])
-        current_axes.set_xlabel("UTC Time")
-        current_axes.set_ylabel("Signal Strength")
-        #current_axes.grid(True)
-
-        # figure
-        current_figure = plt.gcf()
-        current_figure.canvas.manager.set_window_title('supersid_plot')
-        #current_figure.set_figsize_inches(8.0,6.0)
-
-        # Sunrise and sunset shade
-        sun_rise = 6.0
-        sun_set  = 18.0
-        plt.axvspan(0.0, sun_rise, facecolor='blue', alpha=0.2)
-        plt.axvspan(sun_set, 24.0, facecolor='blue', alpha=0.2)
-
         filenames = filelist.split(",")
+        self.read_data(filenames[0])
+        self.plot_data()
 
-        first_time = 1;
+        del(filenames[0])
+        first_time = 1
 
         for filename in filenames:
             data = np.loadtxt(filename, comments='#', delimiter=",", skiprows=12, usecols=[1])
@@ -184,7 +204,6 @@ class SUPERSID_PLOT():
             else:
                 if(data_length != len(data)):
                    print 'Warning: comparing data of different lengths!'
-
             plt.plot(time_data, data)
 
         plt.show()

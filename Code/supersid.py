@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #-------------------------------------------------------------------------------
 ''' supersid.py  '''
-''' version 1.2.1 '''
+''' version 1.2.2rc2 '''
 #-------------------------------------------------------------------------------
 
 import pyaudio
@@ -22,17 +22,14 @@ import time
 import calendar
 from time import strftime
 
-import pylab
 from numpy import *
-from scipy.signal import *
-#from scipy.fftpack import fftshift
 from math import sqrt
 import ConfigParser
 import os, os.path
 import itertools
 
 import supersid_plot as SSP
-#import supersid_upload as SSU
+import supersid_upload as SSU
 
 #-------------------------------------------------------------------------------
 # CONSTANTS:
@@ -52,7 +49,7 @@ DATA_PATH_NAME   = "../Data/"
 CONFIG_PATH_NAME = "../Config/"
 DOC_PATH_NAME    = "../Doc/"
 
-VERSION         = "1.2.1"
+VERSION         = "1.2.2rc2"
 
 COLLECT_START   = "000000"
 
@@ -583,6 +580,7 @@ class Logger():
         print >> log_file, "# LogInterval = " , self.config['log_interval']
         print >> log_file, "# LogType = " , log_type
         print >> log_file, "# MonitorID = " + self.config['monitor_id']
+        print >> log_file, "# SampleRate = " , self.config['log_interval']
 
     def log_sid_format(self, stations, date_begin_epoch, filename='', log_type='filtered'):
         """ One file per station. By default, buffered data is filtered."""
@@ -890,7 +888,12 @@ class SuperSID():
 
         # Calculate current_index for next on_timer event
         # i.e. next data acquisition
-        self.current_index += 1
+        #
+        # x = int ((time.time() - self.date_begin_epoch + 1.0) / self.config['log_interval'])
+        # if (x - self.current_index  > 1):
+        #   print "skipped ", x - self.current_index, "data points"
+        #
+        self.current_index = int ((time.time() - self.date_begin_epoch + 1.0) / self.config['log_interval'])
 
         # When hitting the buffer limit, clear buffers, reset index, set to next date' epoch
         if(self.current_index == self.buffer_size - 1):

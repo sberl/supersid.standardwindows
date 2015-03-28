@@ -1,3 +1,30 @@
+Release 1.2.2rc2
+
+	* Donald Hutchens pointed out the dawn.dsk local time didn't work
+	  when plotting multiple files. Fixed (by removing code)
+
+	* Eliminated scipy import, we don't use it
+
+Release 1.2.2rc1
+
+	* Updated Libraries to current versions:
+		See Note.txt for details
+
+	* Synchronize the clock by skipping a datapoint when we get
+	  behind. Not really nice but for now a best effort. After
+	  a suggestion from Eric Gibert <ericgibert@yahoo.fr>.
+	  Thanks Eric!
+
+	* Use the local time to figure out the dusk and dawn at
+	  the monitor site. Code stolen from an example by Steve
+	  Berl (steveberl@gmail.com). Thanks Steve!
+
+Release 1.2.1
+
+	* Added Spanish Documentation
+
+	* Create a Shortcut on Desktop to the SuperSID binary
+
 Release 1.2.0
 
 	* In supsersid.cfg: On request, to be more clear, the lines
@@ -6,7 +33,7 @@ Release 1.2.0
 
 	* supersid.py: Marked this as final release 1.2.0
 
-Release 0.2.0r5
+Release 1.2.0r5
 
 	* Force log_format to sid_format
 
